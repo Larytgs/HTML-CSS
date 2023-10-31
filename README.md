@@ -15,7 +15,7 @@ Estou aprendendo a usar o repositório no Github.
 Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.
 
 Repositório dos meus Exercicios:
-* [Executar o exercicio 001 - teste](https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html)
+ [Executar o exercicio 001 - teste](https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html)
 <ul>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html" target="_blank">Executar o exercicio 001 - teste</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex002_simbolos_e_emojis/index.html">Executar o exercicio 002 - simbolos_e_emojis</a>

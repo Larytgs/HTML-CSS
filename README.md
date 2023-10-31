@@ -7,7 +7,7 @@ Repositório dos meus Exercicios:
 
 Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.
 
-<ul style= "columns: 2; border: 1px solid black; background-color: bege;">
+<ul style= "columns: 2; border: 1px dotted  black; background-color: rgb(155, 228, 228);">
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html" target="_blank">Executar o exercicio 001 - teste</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex002_simbolos_e_emojis/index.html">Executar o exercicio 002 - simbolos_e_emojis</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex003_colocando_imagens/index.html" target="_blank">Executar o exercicio 003 - colocando_imagens</a>

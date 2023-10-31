@@ -4,12 +4,12 @@
         columns: 2; 
         border: 4px dotted  black; 
         background-color: rgba(187, 238, 238, 0.322);
-        padding: 10px;
+        padding: 15px;
     }
     ul:hover{
         text-decoration: underline; /*vai sublinhar qnd passar o mouse*/
-        color: black; }
-    ul:active{ color: blue;  }
+        color: rgb(11, 11, 99); }
+    ul:active{ color: black;  }
 </style>
  Curso de HTML5 e CSS3
 

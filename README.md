@@ -16,6 +16,7 @@ Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, fo
 
 Repositório dos meus Exercicios:
 <ul>
+    <li>[Executar o exercicio 001 - teste](https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html)</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html" target="_blank">Executar o exercicio 001 - teste</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex002_simbolos_e_emojis/index.html">Executar o exercicio 002 - simbolos_e_emojis</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex003_colocando_imagens/index.html" target="_blank">Executar o exercicio 003 - colocando_imagens</a>

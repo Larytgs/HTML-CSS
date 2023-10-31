@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midias em HTML5</title>
+</head>
+<body>
+    <h1>Imagem Dinamica</h1>
+    <p>Tente abrir esse site em varios dispositivos diferentes, ou simplesmente aumente o tamanho de seu navegador</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="imagem flexivel">
+    </picture>
+
+
+    <h1>Reproduzindo audios</h1>
+    <p>Vamos aprender a reproduzir audios no HTML5</p>
+    <p>Musica eletronica:</p>
+    <audio src="midia/Calvin Harris - josh pan.mp3" controls autoplay></audio>
+   
+    <p>Musica calma/romantica:</p>
+    <audio preload="metadata" autoplay controls>
+        <source src="midia/Love in Mexico.mp3" type="audio/mpeg">
+        <source src="midia/Love in Mexico.ogg" type="audio/ogg">
+        <source src="midia/Love in Mexico.wav" type="audio/wav">
+        <p>Infelizmente o seu navegador nao consegue reproduzir o audio <a href="midia/Hannon - Jeremy Black.mp3"></a>Clique aqui para baixar o arquivo</p>
+    </audio> <!--existe esses 3 mp3 ogg e wav-->
+
+
+    <h1></h1>
+</body>
+</html>

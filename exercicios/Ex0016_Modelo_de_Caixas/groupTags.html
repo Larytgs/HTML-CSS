@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        body{
+            background-color: rgba(43, 40, 37, 0.404);
+            margin: 2px;
+        }
+        header{ /*cabeçalho*/
+            background-color: antiquewhite;
+            padding: 5px 5px;
+            margin: 10px;
+            border: 3px solid black;
+            text-align: center;
+        }
+        nav > a{ /*menu*/
+            background-color: rgb(247, 212, 170);
+            text-decoration: none;
+            color: brown;
+            margin-right: 30px;
+            box-shadow: rgba(0, 0, 0, 0.363) 4px 5px 3px 2px;
+        }
+        nav > a:hover{
+            color: blue;
+        }
+        main{ /*conteudo principal*/
+            background-color: rgb(248, 223, 191);
+            padding: 10px;
+            margin: 5px;
+            border-radius: 0px 20px;
+        }
+        section{ /*assuntos*/
+            font-family: 'Courier New', Courier, monospace;
+            font-size: medium;
+            margin-right: 10px;
+        }
+        section > a{
+            font-size: larger;
+            font-weight: 700;
+            text-decoration: none;
+            color: brown;
+            margin: 10px;
+            outline: 10px;
+        }
+        section > a:hover{
+            color: blue;
+        }
+        article{ /*artigos*/
+            background-color: antiquewhite;
+            margin: 15px 15px;
+            padding: 1px 10px;
+            outline: 2px solid black;
+        }
+        aside{ /*a parte*/
+            background-color: rgb(230, 203, 168);
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        footer{ /*rodapé*/
+            background-color: rgba(0, 0, 0, 0.301);
+            color: wheat;
+            padding: 5px 5px;
+            margin: 10px;
+            border: 2px solid black;
+            text-align: center;
+        }
+        div#bola{
+            height: 100px;
+            width: 100px;
+            background-color: wheat;
+            padding: 20px;
+            margin: 10px;
+            border-radius: 50%;
+        }
+        
+    </style>
+</head>
+<body>
+    <header> 
+        <h1>Meu site</h1>
+        <nav> 
+            <a href="#">Esportes</a>
+            <a href="#">Podcasts</a>
+            <a href="#">Tecnologia</a>
+            <a href="#">Entre em contato</a>
+        </nav>
+    </header>
+    <main> 
+        <section id="assuntos"> 
+            <a href="#">Noticias</a>
+            <a href="#">Brasil</a>
+            <a href="#">Mundo</a>
+            <a href="#">Geografia</a>
+        </section>
+        <section id="noticias">
+            <article> 
+                <h2>Noticia sobre o Brasil</h2>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique unde nobis, ea aliquam est possimus molestias dolor culpa cum iste facilis animi ut natus fugiat soluta neque? Nisi, quis et.</p>
+                <aside> 
+                    <p>Artigo por Lisboa da Silva</p>
+                </aside>
+            </article>
+        </section>
+    </main>
+    <footer> 
+        <p>Desenvolvido pelo Curso em Video</p>
+    </footer>
+    <div id="bola">
+        
+    </div>
+    </header>
+</body>
+</html>

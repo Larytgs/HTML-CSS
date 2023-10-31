@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas OL e UL</title>
+</head>
+<body>
+    <h1>Trabalhando com listas</h1>
+    <h2>Listas Ordenadas:</h2>
+    <p>Base numerica:</p>
+    <ol>
+        <li>Tomar cafe</li>
+        <li>Ir levar o note para colar</li>
+        <li>Tomar banho</li>
+        <li>Estudar</li>
+        <li>Ler livro
+        <li>Assistir um filme</li>
+        <li>Conversar com o mor</li>
+    </ol>
+    <p>Base numerica, começando em 4:</p>
+    <ol type="1" start="4"> 
+        <li>Tomar cafe</li>
+        <li>Ir levar o note para colar</li>
+        <li>Tomar banho</li>
+        <li>Estudar</li>
+        <li>Ler livro
+        <li>Assistir um filme</li>
+        <li>Conversar com o mor</li>
+    </ol>
+    <p>Base alfabetica em letra maiuscula:</p>
+    <ol type="A"> <!--Tambem tem em letras minusculas-->
+        <li>Tomar cafe
+        <li>Ir levar o note para colar
+        <li>Tomar banho
+        <li>Estudar
+        <li>Ler livro
+        <li>Assistir um filme
+        <li>Conversar com o mor
+    </ol>
+    <p>Base em numeros Romanos:</p>
+    <ol type="I"> <!--Tambem tendo em minusculo-->
+        <li>Tomar cafe</li>
+        <li>Ir levar o note para colar</li>
+        <li>Tomar banho</li>
+        <li>Estudar</li>
+        <li>Ler livro
+        <li>Assistir um filme</li>
+        <li>Conversar com o mor</li>
+    </ol>
+
+    <h2>Listas NÂO Ordenadas:</h2>
+    <p>Base padrao: "disc"</p>
+    <ul>
+        <li>Pao</li>
+        <li>Tomate</li>
+        <li>Queijo</li>
+        <li>Presunto</li>
+        <li>Alface</li>
+        <li>Ketshup</li>
+        <li>Carne moida</li>
+    </ul>
+    <p>Tipo circulo aberto</p>
+    <ul type="circle">
+        <li>Pao</li>
+        <li>Tomate</li>
+        <li>Queijo</li>
+        <li>Presunto</li>
+        <li>Alface</li>
+        <li>Ketshup</li>
+        <li>Carne moida</li>
+    </ul>
+    <p>Tipo quadrado</p>
+    <ul type="square">
+        <li>Pao</li>
+        <li>Tomate</li>
+        <li>Queijo</li>
+        <li>Presunto</li>
+        <li>Alface</li>
+        <li>Ketshup</li>
+        <li>Carne moida</li>
+    </ul>
+
+    <h2>Juntando listas:</h2>
+    <p>Meus cursos favoritas</p>
+    <ol>
+        <li>Antigas</li>
+        <ol type="a">
+            <li>C++</li>
+            <li>Logica</li>
+            <li>MySQL</li>
+        </ol>
+        <li>Novas</li>
+        <ol type="a" start="5"> <!--para continuar a sequencia-->
+            <li>PHP</li>
+            <li>Python</li>
+            <li>HTML5</li>
+            <li>Excel</li>
+        </ol>
+    </ol>
+    <p>Meus sites de jogos favoritos</p>
+    <ol>
+        <li>FRIV</li>
+        <ul type="square">
+            <li>Foguinho e agua</li>
+            <li>Forca</li>
+            <li>Tetra Blocks</li>
+        </ul>
+        <li>ClickJogos</li>
+        <ul type="square">
+            <li>Mario</li>
+            <ul type="circle">
+                <li>Mario 1</li>
+                <li>Mario 2</li>
+                <li>Mario 3</li>
+            </ul>
+            <li>Maquiagem</li>
+            <li>Barbie</li>
+        </ul>
+        <li>Ojogos</li>
+        <ul type="square">
+            <li>Maquiagem</li>
+            <li>Colocar roupa</li>
+            <li>8 Ball Pro</li>
+        <ul>
+    </ol>
+
+    <h2>Listas de Definições:</h2>
+    <dl> <!--dt: Termo dd: Descrição-->
+        <dt>HTML</dt>
+        <dd>Linguagem de marcação para a criação do conteudo de um site.</dd>
+        <dt>CSS</dt>
+        <dd>Linguagem de marcação para a criação do design de um site.</dd>
+        <dt>JavaScript</dt>
+        <dd>Linguagem de programação para a criação de interatividade de um site.</dd>
+    </dl>
+
+</body>
+</html>

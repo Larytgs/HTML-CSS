@@ -1,4 +1,15 @@
 # HTML-CSS
+<style>
+    ul{
+        columns: 2; 
+        border: 4px dotted  black; 
+        background-color: rgba(187, 238, 238, 0.322);
+    }
+    ul:hover{
+        text-decoration: underline; /*vai sublinhar qnd passar o mouse*/
+        color: black; }
+    ul:active{ color: blue;  }
+</style>
  Curso de HTML5 e CSS3
 
 Estou aprendendo a usar o repositório no Github.
@@ -7,7 +18,7 @@ Repositório dos meus Exercicios:
 
 Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.
 
-<ul style= "columns: 2; border: 5px dotted  black; background-color: rgba(187, 238, 238, 0.589);">
+<ul style= "columns: 2; border: 4px dotted  black; background-color: rgba(187, 238, 238, 0.322); ">
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html" target="_blank">Executar o exercicio 001 - teste</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex002_simbolos_e_emojis/index.html">Executar o exercicio 002 - simbolos_e_emojis</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex003_colocando_imagens/index.html" target="_blank">Executar o exercicio 003 - colocando_imagens</a>

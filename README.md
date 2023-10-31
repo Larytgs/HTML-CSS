@@ -55,4 +55,4 @@ Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, fo
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo03.html" target="_blank">Executar o exercicio 017 - fundo03</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo04.html" target="_blank">Executar o exercicio 017 - fundo04</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 017 - fundo05</a>
-</ul>
+

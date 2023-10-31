@@ -3,11 +3,10 @@
 <style>
     ul{
         columns: 2; 
-        border: 4px dotted  black; 
-        background-color: rgba(187, 238, 238, 0.322);
-        padding: 15px;
+        
     }
 </style>
+
 # Curso de HTML5 e CSS3
 
 Estou aprendendo a usar o repositório no Github.

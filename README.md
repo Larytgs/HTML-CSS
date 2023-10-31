@@ -1,4 +1,5 @@
-# HTML-CSS
+<img src="imagens/minhafoto.jpg" align="right" width="300">
+
 <style>
     ul{
         columns: 2; 
@@ -7,7 +8,7 @@
         padding: 15px;
     }
 </style>
- Curso de HTML5 e CSS3
+# Curso de HTML5 e CSS3
 
 Estou aprendendo a usar o repositório no Github.
 Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.
@@ -50,7 +51,7 @@ Repositório dos meus Exercicios:
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo04.html" target="_blank">Executar o exercicio 017 - fundo04</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 017 - fundo05</a>
 
-Repositório dos meus Desafios:
+# Repositório dos meus Desafios:
 
 <ul>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex01.html" target="_blank">Executar o Desafio 5 exercicio: das redes sociais</a>

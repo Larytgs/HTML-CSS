@@ -1,6 +1,9 @@
 <img src="imagens/minhafoto.jpg" align="right" width="300">
 
 <style>
+    body{
+        background-image: linear-gradient(45deg, #05FFB7, #17B2EE, #742EFF, #AC20FF, #D715FF);  
+    }
     ul{
         columns: 2; 
         border: 4px dotted  black; 
@@ -55,9 +58,8 @@ Repositório dos meus Exercicios:
 
 # Repositório dos meus Desafios:
 
-<ul>
-    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex01.html" target="_blank">Executar o Desafio 5 exercicio: das redes sociais</a>
-    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex02.html" target="_blank">Executar o Desafio 5 exercicio: tradução das tags</a>
-    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio8/index.html" target="_blank">Executar o Desafio 8 exercicio: de links</a>
-    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio9/index.html" target="_blank">Executar o Desafio 9 exercicio: de videos</a>
-    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio10/oficial.html" target="_blank">Executar o Desafio 10 exercicio: Indroid</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex01.html" target="_blank">Executar o Desafio 5 exercicio: das redes sociais</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex02.html" target="_blank">Executar o Desafio 5 exercicio: tradução das tags</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio8/index.html" target="_blank">Executar o Desafio 8 exercicio: de links</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio9/index.html" target="_blank">Executar o Desafio 9 exercicio: de videos</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio10/oficial.html" target="_blank">Executar o Desafio 10 exercicio: Indroid</a>

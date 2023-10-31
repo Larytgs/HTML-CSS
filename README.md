@@ -4,6 +4,7 @@
         columns: 2; 
         border: 4px dotted  black; 
         background-color: rgba(187, 238, 238, 0.322);
+        padding: 10px;
     }
     ul:hover{
         text-decoration: underline; /*vai sublinhar qnd passar o mouse*/

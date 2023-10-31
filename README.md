@@ -18,7 +18,7 @@ Repositório dos meus Exercicios:
 
 Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.
 
-<ul style= "columns: 2; border: 4px dotted  black; background-color: rgba(187, 238, 238, 0.322); ">
+<ul>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html" target="_blank">Executar o exercicio 001 - teste</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex002_simbolos_e_emojis/index.html">Executar o exercicio 002 - simbolos_e_emojis</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex003_colocando_imagens/index.html" target="_blank">Executar o exercicio 003 - colocando_imagens</a>
@@ -49,6 +49,9 @@ Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, fo
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0015b_Pseudo-classe_no_CSS/pseudoclasse.html" target="_blank">Executar o exercicio 015d - Pseudo-classe</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0016_Modelo_de_Caixas/box_e_inline-level.html" target="_blank">Executar o exercicio 016a - box e inline-level</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0016_Modelo_de_Caixas/groupTags.html" target="_blank">Executar o exercicio 016b - groupTags</a>
-    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo01.html" target="_blank">Executar o exercicio 017 - imagens_de_fundo</a>
-
+    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo01.html" target="_blank">Executar o exercicio 017 - fundo01</a>
+    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo02.html" target="_blank">Executar o exercicio 017 - fundo02</a>
+    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo03.html" target="_blank">Executar o exercicio 017 - fundo03</a>
+    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo04.html" target="_blank">Executar o exercicio 017 - fundo04</a>
+    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 017 - fundo05</a>
 </ul>

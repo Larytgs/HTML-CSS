@@ -32,11 +32,11 @@ Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, fo
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014b_alinhamento_e_fonte_externa/alinhamento.html" target="_blank">Executar o exercicio 014b - alinhamento</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014b_alinhamento_e_fonte_externa/fonte-externa.html" target="_blank">Executar o exercicio 014b - fonte_externa</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014b_alinhamento_e_fonte_externa/google-font.html" target="_blank">Executar o exercicio 014b - google-font</a>
-    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0015_seletor_personalisado/seletor01.html" target="_blank">Executar o exercicio 015a - eletor_personalisado</a>
+    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0015_seletor_personalisado/seletor01.html" target="_blank">Executar o exercicio 015a - seletor_personalisado</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0015b_Pseudo-classe_no_CSS/hover.html" target="_blank">Executar o exercicio 015b - Pseudo-classe_no_CSS-hover</a>
-    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0015b_Pseudo-classe_no_CSS/links.html" target="_blank">Executar o exercicio 015b - Pseudo-classe_no_CSS-links</a>
-    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0015b_Pseudo-classe_no_CSS/pseudoclasse.html" target="_blank">Executar o exercicio 015b - Pseudo-classe</a>
-    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0016_Modelo_de_Caixas/box_e_inline-level.html" target="_blank">Executar o exercicio 016b - box e inline-level</a>
+    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0015b_Pseudo-classe_no_CSS/links.html" target="_blank">Executar o exercicio 015c - Pseudo-classe_no_CSS-links</a>
+    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0015b_Pseudo-classe_no_CSS/pseudoclasse.html" target="_blank">Executar o exercicio 015d - Pseudo-classe</a>
+    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0016_Modelo_de_Caixas/box_e_inline-level.html" target="_blank">Executar o exercicio 016a - box e inline-level</a>
     <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0016_Modelo_de_Caixas/groupTags.html" target="_blank">Executar o exercicio 016b - groupTags</a>
-    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/index.html" target="_blank">Executar o exercicio 017 - imagens_de_fundo</a>
+    <li><a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo01.html" target="_blank">Executar o exercicio 017 - imagens_de_fundo</a>
 </ul>

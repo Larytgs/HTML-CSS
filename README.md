@@ -2,7 +2,7 @@
 
 <style>
     body{
-        background-color: #CD6BD1;  
+        background-color: #CDA1D1;  
     }
     ul{
         columns: 2; 

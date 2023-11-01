@@ -13,9 +13,10 @@
         margin: 10px;
         padding: 0px 0px 0px -10px;
         border-radius: 10px;
+        background-position: right center; 
     }
 </style>
-<img src="imagens/minhafoto.jpg" align="right" width="300">
+<img src="imagens/minhafoto.jpg" width="300">
 
 # Curso de HTML5 e CSS3
 

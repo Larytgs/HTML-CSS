@@ -6,8 +6,8 @@
         columns: 2; 
         border: 4px dotted  black; 
         background-color: #FDCFFF;
-        padding: 15px;
-        margin: 10px;
+        padding: 10px;
+        margin: 5px;
         list-style-position: inside; 
     }
     img{
@@ -18,7 +18,7 @@
         background-position: right center; 
     }
 </style>
-<img src="imagens/minhafoto.jpg" align="right" height="500" width="300">
+<img src="imagens/minhafoto.jpg" align="right" height="300" width="200">
 
 # Curso de HTML5 e CSS3
 

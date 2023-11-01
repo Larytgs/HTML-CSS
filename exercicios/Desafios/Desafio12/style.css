@@ -1,4 +1,26 @@
 @charset "UTF-8";
+
+@font-face {
+    font-family: 'manuscrita';
+    src: url(fontes/Handmade.otf) format(opentype);
+}
+@font-face {
+    font-family: 'lagosta';
+    src: url(fontes/Lobster\ 1.4.otf) format(opentype);
+}
+
+:root{
+    --font00: 'Times New Roman', Times, serif;
+    --font01: 'manuscrita';
+    --font02: 'lagosta';
+
+    --cor01: black;
+    --cor02: white;
+    --cor03: #2402028a;
+    --cor04: ;
+
+}
+
 *{
     margin: 0px;
     padding: 0px;
@@ -7,22 +29,25 @@
 html, body{
     min-height: 100vh;
     background-color: rgba(141, 235, 235, 0.774);
-
+    font-family: var(--font00);
+    font-size: small;
 }
 
 header{
-    background-color: black;
+    background-color: var(--cor01);
     color: aliceblue;
     text-align: center;
 }
 header h1{
     padding: 50px 40px 40px 40px;
-    /*text-transform: uppercase; deixar td em letra maiuscula*/
-    font-variant: small-caps;
+    /*text-transform: uppercase; deixar td em letra maiúscula grande
+    font-variant: small-caps; deixar td em letra maiúscula menores*/
+    font-family: var(--font02);
+    font-size: 10vw;
 }
 header > p{
     padding-bottom: 20px;
-    background-color: rgba(0, 0, 0, 0.541);
+    background-color: #2402028a;
 }
 
 
@@ -43,11 +68,6 @@ main{
 }
 
 
-article{
-
-}
-
-
 section{
     padding-top: 10vh;
     padding-bottom: 10vh;
@@ -55,24 +75,39 @@ section{
     line-height: 2em;
 }
 section p{
-
+    font-family: var(--font01);
+    font-size: 2em;
+    line-height: 1.3em;
 }
 
 
 .normal{
     background-color: white;
-    color: black;
+    color: var(--cor01);
 }
 .imagem{
-    background-color: rgba(200, 150, 243, 0.685);
-    color: black;
+    background-color: rgba(170, 168, 172, 0.685);
+    color: var(--cor01);
 }
 section.imagem p{
-    background-color: rgba(128, 0, 128, 0.39);
-    width: 250px;
+    background-color: rgba(102, 96, 102, 0.39);
+    display: inline-block; /*deixando do tamanho do texto*/
     padding: 10px;
 }
 
+section#img1{
+    background-image: url(imagens/background001.jpg);
+    background-size: cover;
+    color: var(--cor02);
+    border-radius: 5px;
+    box-shadow: -1px -1px 8px 0px black;
+}
+section#img2{
+    background-image: url(imagens/background002.jpg);
+    background-size: cover;
+    border-radius: 5px;
+    box-shadow: -1px -1px 8px 0px black;
+}
 
 footer{
     background-color: black;

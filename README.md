@@ -8,6 +8,7 @@
         background-color: #FDCFFF;
         padding: 10px;
         list-style-position: inside; 
+        text-align: justify;
     }
     img{
         border: 3px solid black;

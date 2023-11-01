@@ -12,6 +12,7 @@
     p img{
         border: 3px solid black;
         margin: 10px;
+        width: 300px;
         padding: 0px 0px 0px -10px;
         border-radius: 10px;
         position: right center; 

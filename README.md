@@ -7,7 +7,7 @@
         border: 4px dotted  black; 
         background-color: #FDCFFF;
         padding: 15px;
-        margin: 20px;
+        margin: 10px;
         list-style-position: inside; 
     }
     img{
@@ -18,7 +18,7 @@
         background-position: right center; 
     }
 </style>
-<img src="imagens/minhafoto.jpg" align="right" width="300">
+<img src="imagens/minhafoto.jpg" align="right" height="500" width="300">
 
 # Curso de HTML5 e CSS3
 

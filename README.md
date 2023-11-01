@@ -2,11 +2,12 @@
     body{
         background-image: linear-gradient(to right, #A302C3, #B26CC5, #CD74D1);  
     }
-    ul{
+    a{
         columns: 2; 
         border: 4px dotted  black; 
         background-color: #FDCFFF;
         padding: 15px;
+        margin: 20px;
         list-style-position: inside; 
     }
     img{
@@ -17,7 +18,7 @@
         background-position: right center; 
     }
 </style>
-<img src="imagens/minhafoto.jpg" width="300">
+<img src="imagens/minhafoto.jpg" background-position="right" width="300">
 
 # Curso de HTML5 e CSS3
 

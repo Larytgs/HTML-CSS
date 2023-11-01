@@ -1,6 +1,6 @@
 <style>
     body{
-        background-image: linear-gradient(to left, #8A02A5, #B26CC5, #CD74D1);  
+        background-image: linear-gradient(to left, #A302C3, #B26CC5, #CD74D1);  
     }
     ul{
         columns: 2; 

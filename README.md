@@ -1,14 +1,13 @@
 <style>
     body{
         background-image: linear-gradient(to top, #A302C3, #B26CC5, #CD74D1);  
-        margin: 0px;
     }
     ul{
         columns: 2; 
         border: 4px dotted  black; 
         background-color: #FDCFFF;
         padding: 15px;
-        margin: 20px;
+        margin: 30px;
         list-style-position: inside; 
     }
     img{

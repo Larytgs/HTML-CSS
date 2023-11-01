@@ -6,7 +6,7 @@
         columns: 2; 
         border: 4px dotted  black; 
         margin: 10px;
-        width: 600px;
+        width: 900px;
         background-color: #FDCFFF;
         padding: 10px;
         list-style-position: inside;

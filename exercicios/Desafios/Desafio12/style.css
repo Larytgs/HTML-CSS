@@ -1,0 +1,82 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body{
+    min-height: 100vh;
+    background-color: rgba(141, 235, 235, 0.774);
+
+}
+
+header{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+header h1{
+    padding: 50px 40px 40px 40px;
+    /*text-transform: uppercase; deixar td em letra maiuscula*/
+    font-variant: small-caps;
+}
+header > p{
+    padding-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.541);
+}
+
+
+a{
+    text-decoration: none;
+    color: rgb(228, 228, 122);
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+
+main{
+    background-color: aliceblue;
+    
+    
+}
+
+
+article{
+
+}
+
+
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 30px;
+    line-height: 2em;
+}
+section p{
+
+}
+
+
+.normal{
+    background-color: white;
+    color: black;
+}
+.imagem{
+    background-color: rgba(200, 150, 243, 0.685);
+    color: black;
+}
+section.imagem p{
+    background-color: rgba(128, 0, 128, 0.39);
+    width: 250px;
+    padding: 10px;
+}
+
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+}

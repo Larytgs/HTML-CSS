@@ -5,14 +5,15 @@
     ul{
         columns: 2; 
         border: 4px dotted  black; 
+        margin: 10px;
+        width: 300px;
         background-color: #FDCFFF;
         padding: 10px;
         list-style-position: inside;
     }
     p img{
         border: 3px solid black;
-        margin: 10px;
-        width: 300px;
+        margin: 0px;
         padding: 0px 0px 0px -10px;
         border-radius: 10px;
         position: right center; 

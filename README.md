@@ -2,7 +2,7 @@
     body{
         background-color: hsla(295, 48%, 62%, 0.541);;  
     }
-    * {
+    a{
         columns: 2; 
         border: 4px dotted  black; 
         background-color: #FDCFFF;
@@ -42,12 +42,12 @@ Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, fo
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0012a_Inline/index.html" target="_blank">Executar o exercicio 012a - Inline</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0012b_CSS_Interno-Locais" target="_blank">Executar o exercicio 012b - CSS_Interno-Locais</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0012c_CSS_Externo/index.html" target="_blank">Executar o exercicio 012c - CSS_Externo</a>
+<p><img src="imagens/minhafoto.jpg" align="right" height="300" width="200"></p>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0013_psicologia_das_cores/cor01.html" target="_blank">Executar o exercicio 013a - psicologia_das_cores - cor 1</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0013_psicologia_das_cores/cor02.html" target="_blank">Executar o exercicio 013b - psicologia_das_cores - cor 2</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014a_fonte_em_CSS/font-family.html" target="_blank">Executar o exercicio 014a - font-family</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014a_fonte_em_CSS/font-sise.html" target="_blank">Executar o exercicio 014b - font-sise</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014a_fonte_em_CSS/peso-estilo.html" target="_blank">Executar o exercicio 014c - peso-estilo</a>
-<p><img src="imagens/minhafoto.jpg" align="right" height="300" width="200"></p>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014b_alinhamento_e_fonte_externa/alinhamento.html" target="_blank">Executar o exercicio 014d - alinhamento</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014b_alinhamento_e_fonte_externa/fonte-externa.html" target="_blank">Executar o exercicio 014e - fonte_externa</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014b_alinhamento_e_fonte_externa/google-font.html" target="_blank">Executar o exercicio 014f - google-font</a>

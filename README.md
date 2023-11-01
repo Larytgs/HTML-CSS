@@ -9,7 +9,7 @@
         padding: 15px;
     }
     img{
-        border: 1px solid black;
+        border: 3px solid black;
         margin: 10px;
     }
 </style>

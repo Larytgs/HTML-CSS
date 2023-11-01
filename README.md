@@ -14,7 +14,7 @@
         margin: 10px;
         padding: 0px 0px 0px -10px;
         border-radius: 10px;
-        background-position: right center; 
+        position: right center; 
     }
 </style>
 <img src="imagens/minhafoto.jpg" align="right" height="300" width="200">

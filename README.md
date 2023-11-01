@@ -7,6 +7,7 @@
         border: 4px dotted  black; 
         background-color: #FDCFFF;
         padding: 15px;
+        list-style-position: inside; 
     }
     img{
         border: 3px solid black;

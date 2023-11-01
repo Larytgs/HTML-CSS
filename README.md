@@ -1,6 +1,6 @@
 <style>
     body{
-        background-image: linear-gradient(to top, #A302C3, #B26CC5, #CD74D1);  
+        background-color: hsla(295, 48%, 62%, 0.541);;  
     }
     ul{
         columns: 2; 

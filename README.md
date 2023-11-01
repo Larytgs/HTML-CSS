@@ -7,13 +7,13 @@
         border: 4px dotted  black; 
         background-color: #FDCFFF;
         padding: 15px;
-        margin: 30px;
+        margin: 20px;
         list-style-position: inside; 
     }
     img{
         border: 3px solid black;
         margin: 10px;
-        padding: 0px 0px 0px -20px;
+        padding: 0px 0px 0px -10px;
         border-radius: 10px;
         background-position: right center; 
     }

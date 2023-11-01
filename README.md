@@ -56,7 +56,8 @@ Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, fo
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0015b_Pseudo-classe_no_CSS/pseudoclasse.html" target="_blank">Executar o exercicio 015d - Pseudo-classe</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0016_Modelo_de_Caixas/box_e_inline-level.html" target="_blank">Executar o exercicio 016a - box e inline-level</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0016_Modelo_de_Caixas/groupTags.html" target="_blank">Executar o exercicio 016b - groupTags</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo01.html" target="_blank">Executar o exercicio 017 - fundo01</a>* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo02.html" target="_blank">Executar o exercicio 017 - fundo02</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo01.html" target="_blank">Executar o exercicio 017 - fundo01</a> 
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo02.html" target="_blank">Executar o exercicio 017 - fundo02</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo03.html" target="_blank">Executar o exercicio 017 - fundo03</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo04.html" target="_blank">Executar o exercicio 017 - fundo04</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 017 - fundo05</a>

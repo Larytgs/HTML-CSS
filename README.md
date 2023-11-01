@@ -32,7 +32,7 @@ Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, fo
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex002_simbolos_e_emojis/index.html">Executar o exercicio 002a - simbolos_e_emojis</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex003_colocando_imagens/index.html" target="_blank">Executar o exercicio 003a - colocando_imagens</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex004_icones/index.html" target="_blank">Executar o exercicio 004a - icones</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex005_hierarquia_de_titulos/index.html" target="_blank">Executar o exercicio 005 - hierarquia_de_titulos</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex005_hierarquia_de_titulos/index.html" target="_blank">Executar o exercicio 005a - hierarquia_de_titulos</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex006_html4_html5/html4.html" target="_blank">Executar o exercicio 006a - html4</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex006_html4_html5/html5.html" target="_blank">Executar o exercicio 006b - html5</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex007_negrito_e_italico/index.html" target="_blank">Executar o exercicio 007a - negrito_e_italico</a>

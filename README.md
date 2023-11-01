@@ -1,5 +1,3 @@
-<img src="imagens/minhafoto.jpg" align="right" width="300">
-
 <style>
     body{
         background-color: #CDA1D1;  
@@ -10,7 +8,11 @@
         background-color: #FDCFFF;
         padding: 15px;
     }
+    img{
+        border: 1px solid black;
+    }
 </style>
+<img src="imagens/minhafoto.jpg" align="right" width="300">
 
 # Curso de HTML5 e CSS3
 

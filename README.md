@@ -2,7 +2,7 @@
 
 <style>
     body{
-        background-image: linear-gradient(to top, #155703, #1F7F04, #28A805, #3BF507);  
+        background-image: linear-gradient(to top, #FFD6E2, #FFA3BD, #CF5B7C, #680420);  
     }
     ul{
         columns: 2; 

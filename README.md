@@ -13,7 +13,7 @@
     img{
         border: 3px solid black;
         margin: 10px;
-        padding: 0px 0px 0px -10px;
+        padding: 0px 0px 0px -20px;
         border-radius: 10px;
         background-position: right center; 
     }

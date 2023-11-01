@@ -17,7 +17,8 @@
         position: right center; 
     }
 </style>
-<img src="imagens/minhafoto.jpg" align="right" height="300" width="200">
+
+<img src="imagens/minhafoto.jpg" align="right center" height="300" width="200">
 
 # Curso de HTML5 e CSS3
 

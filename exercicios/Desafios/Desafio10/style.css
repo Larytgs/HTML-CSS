@@ -142,7 +142,7 @@
         div.video{
             background-color: var(--cor05);
             margin: 0px -20px 30px -20px;
-            padding: 20px;
+            padding: 10px;
             padding-bottom: 59px;
             position: relative;
         }

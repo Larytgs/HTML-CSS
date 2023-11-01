@@ -2,7 +2,7 @@
     body{
         background-color: hsla(295, 48%, 62%, 0.541);;  
     }
-    p{
+    p a{
         columns: 2; 
         border: 4px dotted  black; 
         background-color: #FDCFFF;

@@ -10,6 +10,7 @@
     }
     img{
         border: 1px solid black;
+        margin: 10px;
     }
 </style>
 <img src="imagens/minhafoto.jpg" align="right" width="300">

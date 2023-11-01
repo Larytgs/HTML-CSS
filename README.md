@@ -7,8 +7,7 @@
         border: 4px dotted  black; 
         background-color: #FDCFFF;
         padding: 10px;
-        list-style-position: inside; 
-        text-align: justify;
+        list-style-position: inside;
     }
     img{
         border: 3px solid black;
@@ -19,7 +18,6 @@
     }
 </style>
 
-<p><img src="imagens/minhafoto.jpg" align="right" height="300" width="200"></p>
 
 # Curso de HTML5 e CSS3
 
@@ -49,6 +47,7 @@ Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, fo
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014a_fonte_em_CSS/font-family.html" target="_blank">Executar o exercicio 014a - font-family</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014a_fonte_em_CSS/font-sise.html" target="_blank">Executar o exercicio 014b - font-sise</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014a_fonte_em_CSS/peso-estilo.html" target="_blank">Executar o exercicio 014c - peso-estilo</a>
+<p><img src="imagens/minhafoto.jpg" align="right" height="300" width="200"></p>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014b_alinhamento_e_fonte_externa/alinhamento.html" target="_blank">Executar o exercicio 014d - alinhamento</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014b_alinhamento_e_fonte_externa/fonte-externa.html" target="_blank">Executar o exercicio 014e - fonte_externa</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014b_alinhamento_e_fonte_externa/google-font.html" target="_blank">Executar o exercicio 014f - google-font</a>

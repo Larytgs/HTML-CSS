@@ -7,7 +7,7 @@
     ul{
         columns: 2; 
         border: 4px dotted  black; 
-        background-color: rgba(187, 238, 238, 0.322);
+        background-color: #FDCFFF;
         padding: 15px;
     }
 </style>

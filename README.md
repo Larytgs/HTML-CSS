@@ -59,7 +59,7 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0012b_CSS_Interno-Locais/index.html" target="_blank">Executar o exercicio 012b - CSS Interno-Locais</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0012c_CSS_Externo/index.html" target="_blank">Executar o exercicio 012c - CSS Externo</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0013_psicologia_das_cores/cor01.html" target="_blank">Executar o exercicio 013a - psicologia das cores - cor 1</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0013_psicologia_das_cores/cor02.html" target="_blank">Executar o exercicio 013b - psicologia das cores - cor 2</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0013_psicologia_das_cores/cor02.html" target="_blank">Executar o exercicio 013b - degrade</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014a_fonte_em_CSS/font-family.html" target="_blank">Executar o exercicio 014a - font-family</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014a_fonte_em_CSS/font-sise.html" target="_blank">Executar o exercicio 014b - font-sise</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0014a_fonte_em_CSS/peso-estilo.html" target="_blank">Executar o exercicio 014c - peso-estilo</a>

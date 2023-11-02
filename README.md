@@ -8,7 +8,7 @@
         margin: 10px;
         width: 900px;
         background-color: #FDCFFF;
-        padding: 10px;
+        padding: 10px 10px 10px 5px;
         list-style-position: inside;
     }
     p img{

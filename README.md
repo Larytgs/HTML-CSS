@@ -4,7 +4,7 @@
     }
     ul{
         columns: 2; 
-        border: 4px dotted  black; 
+        border: 4px dotted black; 
         margin: 10px;
         width: 900px;
         background-color: #FDCFFF;
@@ -12,8 +12,8 @@
         list-style-position: inside;
     }
     p img{
-        border: 3px solid black;
-        margin: 0px;
+        border: 3px solid #802c88;
+        margin: 20px;
         padding: 0px;
         border-radius: 10px;
         position: right center; 

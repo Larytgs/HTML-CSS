@@ -18,7 +18,9 @@
         margin: 20px;
         padding-left: 0px;
         border-radius: 10px; 
-        position: right;
+        background-repeat: no-repeat;
+        background-position: right center;
+
     }
     #paragrafo{
         font-family:'Times New Roman', Times, serif;

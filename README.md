@@ -19,6 +19,9 @@
         border-radius: 10px;
         position: right center; 
     }
+    img[align=right]{
+        padding-left:0px;
+    }
 </style>
 
 <p><img src="imagens/minhafoto.jpg" align="right" height="300" width="200"></p>

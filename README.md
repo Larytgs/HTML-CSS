@@ -13,15 +13,15 @@
         list-style-position: inside;
     }
     p img{
-        /*border: 3px solid #802c88;
+        border: 3px solid #802c88;
         margin: 20px;
         padding-left: 0px;
-        border-radius: 10px; */
-        position: right;
+        border-radius: 10px; 
+        align: right;
     }
 </style>
 
-<p><img position="right" src="imagens/minhafoto.jpg" height="300" width="200"></p>
+<p><img src="imagens/minhafoto.jpg" height="300" width="200"></p>
 # Curso de HTML5 e CSS3
 
 Estou aprendendo a usar o repositório no Github.

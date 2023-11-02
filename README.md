@@ -21,7 +21,7 @@
     }
     #paragrafo{
         margin:10px;
-        padding: 5px;
+        padding: 10px;
     }
 
 </style>

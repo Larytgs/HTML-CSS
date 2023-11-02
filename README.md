@@ -1,6 +1,7 @@
 <style>
     body{
         background-color: hsla(295, 48%, 62%, 0.541);
+        font-size:10vw
     }
     ul{
         columns: 2; 
@@ -17,6 +18,7 @@
         margin: 20px;
         padding-left: 0px;
         border-radius: 10px; 
+        background-color: black;
         background-repeat: no-repeat;
         background-position: right center;
 

@@ -14,7 +14,7 @@
         list-style-type: '\2714\00a0\00a0'; 
     }
     p img{
-        border: 3px solid #802c88;
+        border: 3px dotted #802c88;
         margin: 20px;
         padding-left: 0px;
         border-radius: 10px; 

@@ -15,11 +15,8 @@
     p img{
         border: 3px solid #802c88;
         margin: 20px;
-        border-radius: 10px;
-        position: right center; 
-    }
-    .markdown-body p[align=right] {
-        padding-left: 0px;
+        padding: 0px;
+        border-radius: 10px; 
     }
 </style>
 

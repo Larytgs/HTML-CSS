@@ -14,7 +14,7 @@
     p img{
         border: 3px solid black;
         margin: 0px;
-        padding: 0px 0px 0px -10px;
+        padding: 0px;
         border-radius: 10px;
         position: right center; 
     }

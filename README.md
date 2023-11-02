@@ -17,7 +17,7 @@
         border: 2px solid #e151e6;
     }
     #paragrafo{
-        width: 250px;
+        height: 250px;
         margin: 10px;
         padding: 10px;
     }

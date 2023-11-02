@@ -1,7 +1,6 @@
 <style>
     body{
         font-size:10vw;
-        background-color: #d063d49c;
     }
     ul{
         columns: 2; 
@@ -11,9 +10,7 @@
         padding: 10px;
         list-style-position: inside;
     }
-    p img{
-        padding-left: 0px.
-    }
+    
     #paragrafo{
         width: 800px;
         margin: 10px;

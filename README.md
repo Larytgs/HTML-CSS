@@ -20,7 +20,7 @@
     }
 </style>
 
-<p><img src="imagens/minhafoto.jpg" align="right" height="300" width="200"></p>
+<p><img position="right" src="imagens/minhafoto.jpg" height="300" width="200"></p>
 # Curso de HTML5 e CSS3
 
 Estou aprendendo a usar o repositório no Github.

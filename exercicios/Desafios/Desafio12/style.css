@@ -39,7 +39,7 @@ header{
     text-align: center;
 }
 header h1{
-    padding: 50px 40px 40px 40px;
+    padding: 40px;
     /*text-transform: uppercase; deixar td em letra maiúscula grande
     font-variant: small-caps; deixar td em letra maiúscula menores*/
     font-family: var(--font02);

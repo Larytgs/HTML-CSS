@@ -24,7 +24,7 @@
     }
     #paragrafo{
         font-family:'Times New Roman', Times, serif;
-        border: 3px dotted black;
+        border: 4px dotted black;
         background-color: #FDCFFF;
         margin: 10px;
         padding: 10px;

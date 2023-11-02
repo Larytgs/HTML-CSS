@@ -2,6 +2,7 @@
     body{
         font-size:10vw;
         padding: 0px;
+        background-color: #d163d4;
     }
     ul{
         columns: 2; 

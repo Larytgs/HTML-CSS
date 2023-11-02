@@ -66,9 +66,8 @@ Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, fo
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 017e - Posicionamento2</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo06.html" target="_blank">Executar o exercicio 017f - Fundo fixo de tela</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo07.html" target="_blank">Executar o exercicio 017g - Alinhamento vertical</a>
-
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 018a - fundo05</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 019a - fundo05</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 018a - </a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 019a - </a>
 
 ## **Repositório dos meus Desafios:**
 

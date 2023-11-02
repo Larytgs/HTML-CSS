@@ -12,8 +12,8 @@
         list-style-position: inside;
     }
     p img{
-        height:100px;
-        width: 100px;
+        height:150px;
+        width:150px;
         background-color: wheat;
         background-position: right center;
         border: 2px solid #9f2da3;

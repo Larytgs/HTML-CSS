@@ -1,6 +1,6 @@
 <style>
     body{
-        background-color: hsla(295, 48%, 62%, 0.541);
+        
         font-size:10vw
     }
     ul{

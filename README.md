@@ -1,6 +1,6 @@
 <style>
     body{
-        background-color: hsla(295, 48%, 62%, 0.541);
+        /*background-color: hsla(295, 48%, 62%, 0.541);*/
         padding-left: 0px;
     }
     ul{
@@ -8,16 +8,16 @@
         border: 4px dotted black; 
         margin: 10px;
         width: 900px;
-        background-color: #FDCFFF;
+        /*background-color: #FDCFFF;*/
         padding: 10px;
         list-style-position: inside;
     }
-    p img{
+    /*p img{
         border: 3px solid #802c88;
         margin: 20px;
         padding-left: 0px;
         border-radius: 10px; 
-    }
+    }*/
 </style>
 
 <p><img padding-left: 0px; position="right" src="imagens/minhafoto.jpg" height="300" width="200"></p>

@@ -9,7 +9,7 @@
         margin: 10px;
         width: 900px;
         background-color: #FDCFFF;
-        padding: 10px;
+        padding: 5px;
         list-style-position: inside;
         list-style-type: '\2714\00a0\00a0'; 
     }
@@ -20,13 +20,19 @@
         border-radius: 10px; 
         align: right center;
     }
+    #paragrafo{
+        border: 3px solid black;
+        background-color: #FDCFFF;
+    }
 </style>
 
 <p><img src="imagens/minhafoto.jpg" height="300" width="200"></p>
 # Curso de HTML5 e CSS3
 
-Estou aprendendo a usar o repositório no Github.
-Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.
+<p id= 'paragrafo'>
+    Estou aprendendo a usar o repositório no Github.
+    Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.
+</p>
 
 ## **Repositório dos meus Exercicios:**
 

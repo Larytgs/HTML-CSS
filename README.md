@@ -30,10 +30,9 @@
     }
 </style>
 
+# Curso de HTML5 e CSS3 
 
-
-# Curso de HTML5 e CSS3 <p> <img src="imagens/minhafotomenor.png"></p>
-
+<p><img src="imagens/minhafotomenor.png"></p>
 <p id= 'paragrafo'>
     Estou aprendendo a usar o repositório no Github.
     Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.

@@ -17,7 +17,7 @@
         background-color: wheat;
         border: 2px solid #9f2da3;
         padding: 0px;
-        margin: 10px;
+        margin: 0px;
     }
     
 </style>

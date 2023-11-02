@@ -1,6 +1,6 @@
 <style>
     body{
-        
+        background-color: hsla(295, 48%, 62%, 0.541);
         font-size:10vw
     }
     ul{
@@ -15,8 +15,6 @@
         height:150px;
         width:150px;
         background-color: wheat;
-        border: 2px solid #9f2da3;
-        
     }
     #paragrafo{
         margin:10px;

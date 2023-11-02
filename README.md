@@ -21,6 +21,7 @@
         align: right center;
     }
     #paragrafo{
+        font-family:'Times New Roman', Times, serif;
         border: 3px solid black;
         background-color: #FDCFFF;
         padding: 10px;

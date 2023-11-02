@@ -16,11 +16,11 @@
         margin: 20px;
         padding-left: 0px;
         border-radius: 10px; 
-        background-image: url(imagens/minhafoto.jpg);
         background-color: black;
-        background-repeat: no-repeat;
+        background-image: url(imagens/minhafoto.jpg);
         background-position: right center;
-
+        background-repeat: no-repeat;
+        
     }
     #paragrafo{
         font-family:'Times New Roman', Times, serif;

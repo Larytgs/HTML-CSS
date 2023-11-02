@@ -25,6 +25,7 @@
         border: 3px solid black;
         background-color: #FDCFFF;
         padding: 10px;
+        width: 900px;
     }
 </style>
 

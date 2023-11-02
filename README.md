@@ -19,7 +19,11 @@
         padding: 0px;
         margin: 0px;
     }
-    
+    #paragrafo{
+        margin:10px;
+        padding: 5px;
+    }
+
 </style>
 
 <p><img align="right" src="imagens/minhafotomenor.png"></p>

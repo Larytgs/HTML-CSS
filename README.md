@@ -15,11 +15,9 @@
         height:150px;
         width:150px;
         background-color: wheat;
-        background-position: center right;
         border: 2px solid #9f2da3;
         padding: 0px;
-        margin:10px;
-        border-radius: 50%;
+        margin: 10px;
     }
     #paragrafo{
         font-family:'Times New Roman', Times, serif;
@@ -30,9 +28,10 @@
     }
 </style>
 
+<p><img align="right" src="imagens/minhafotomenor.png"></p>
+
 # Curso de HTML5 e CSS3 
 
-<p><img src="imagens/minhafotomenor.png"></p>
 <p id= 'paragrafo'>
     Estou aprendendo a usar o repositório no Github.
     Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.

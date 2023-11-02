@@ -16,6 +16,7 @@
         margin: 20px;
         padding-left: 0px;
         border-radius: 10px; 
+        background-image: url(imagens/minhafoto.jpg);
         background-color: black;
         background-repeat: no-repeat;
         background-position: right center;
@@ -33,7 +34,7 @@
 
 
 # Curso de HTML5 e CSS3
-<p><img src="imagens/minhafoto.jpg" align="hight" height="300" width="200"></p>
+
 
 <p id= 'paragrafo'>
     Estou aprendendo a usar o repositório no Github.

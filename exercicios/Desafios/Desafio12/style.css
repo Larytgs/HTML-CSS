@@ -93,29 +93,24 @@ section.imagem p{
     background-color: rgba(102, 96, 102, 0.39);
     display: inline-block; /*deixando do tamanho do texto*/
     padding: 10px;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 section#img1{ /*cor > image > position > repeat > attachment*/
-    /*background-image: url(imagens/background001.jpg);
-    background-size: cover;
+    background-image: url(imagens/background001.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;*/
-    background: url(imagens/background001.jpg) center no-repeat fixed;
-    background-size: cover;
 
     color: var(--cor02);
     border-radius: 5px;
     box-shadow: -1px -1px 8px 0px black;
 }
 section#img2{
-    /*background-image: url(imagens/background001.jpg);
-    background-size: cover;
+    background-image: url(imagens/background001.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;*/
-    background: url(imagens/background001.jpg) center no-repeat fixed;
-    background-size: cover;
+    
     border-radius: 5px;
     box-shadow: -1px -1px 8px 0px black;
 }

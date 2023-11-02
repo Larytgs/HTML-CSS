@@ -9,7 +9,7 @@
         margin: 10px;
         width: 900px;
         background-color: #FDCFFF;
-        padding: 10px 10px 10px ;
+        padding: 10px 10px 10px 5px;
         list-style-position: inside;
         list-style-type: '\2714\00a0\00a0'; 
     }
@@ -26,6 +26,7 @@
         font-family:'Times New Roman', Times, serif;
         border: 3px dotted black;
         background-color: #FDCFFF;
+        margin: 10px;
         padding: 10px;
         width: 900px;
     }

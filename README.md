@@ -1,6 +1,7 @@
 <style>
     body{
-        font-size:10vw
+        font-size:10vw;
+        padding: 0px;
     }
     ul{
         columns: 2; 

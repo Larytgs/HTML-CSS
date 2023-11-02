@@ -1,6 +1,7 @@
 <style>
     body{
-        background-color: hsla(295, 48%, 62%, 0.541);;  
+        background-color: hsla(295, 48%, 62%, 0.541);
+        padding-left: 0px;
     }
     ul{
         columns: 2; 

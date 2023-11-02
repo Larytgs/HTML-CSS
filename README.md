@@ -9,7 +9,7 @@
         margin: 10px;
         width: 900px;
         background-color: #FDCFFF;
-        padding: 5px;
+        padding: 0px;
         list-style-position: inside;
         list-style-type: '\2714\00a0\00a0'; 
     }
@@ -23,7 +23,7 @@
     #paragrafo{
         border: 3px solid black;
         background-color: #FDCFFF;
-        padding: 5px;
+        padding: 10px;
     }
 </style>
 

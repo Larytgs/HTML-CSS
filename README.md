@@ -15,7 +15,7 @@
         height:150px;
         width:150px;
         background-color: wheat;
-        background-position: right center;
+        background-position: center right;
         border: 2px solid #9f2da3;
         padding: 0px;
         margin:10px;

@@ -23,10 +23,11 @@
     #paragrafo{
         border: 3px solid black;
         background-color: #FDCFFF;
+        padding: 5px;
     }
 </style>
 
-<p><img src="imagens/minhafoto.jpg" height="300" width="200"></p>
+
 # Curso de HTML5 e CSS3
 
 <p id= 'paragrafo'>
@@ -36,6 +37,7 @@
 
 ## **Repositório dos meus Exercicios:**
 
+<p><img src="imagens/minhafoto.jpg" height="300" width="200"></p>
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html" target="_blank">Executar o exercicio 001a - teste</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex002_simbolos_e_emojis/index.html">Executar o exercicio 002a - simbolos e emojis</a>

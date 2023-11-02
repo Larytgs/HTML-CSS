@@ -10,7 +10,6 @@
         background-color: #FDCFFF;
         padding: 10px;
         list-style-position: inside;
-        list-style-type: '\2714\00a0\00a0'; 
     }
     p img{
         border: 3px solid #802c88;

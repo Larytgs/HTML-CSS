@@ -1,3 +1,4 @@
+<title>github.com/Larytg | Meus exercicios do Curso em Video</title>
 <style>
     body{
         background-color: hsla(295, 48%, 62%, 0.541);;  

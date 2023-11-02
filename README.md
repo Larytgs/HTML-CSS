@@ -9,17 +9,16 @@
         margin: 10px;
         width: 900px;
         background-color: #FDCFFF;
-        padding: 10px 10px 10px 5px;
+        padding: 10px;
         list-style-position: inside;
     }
     p img{
         border: 3px solid #802c88;
         margin: 20px;
-        padding-left: 0px;
         border-radius: 10px;
         position: right center; 
     }
-    img[align=right]{
+    p img[align=right]{
         padding-left:0px;
     }
 </style>

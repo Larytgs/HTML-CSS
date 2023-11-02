@@ -95,20 +95,27 @@ section.imagem p{
     padding: 10px;
 }
 
-section#img1{
-    background-image: url(imagens/background001.jpg);
+section#img1{ /*cor > image > position > repeat > attachment*/
+    /*background-image: url(imagens/background001.jpg);
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed;*/
+    background: url(imagens/background001.jpg) center no-repeat fixed;
+    background-size: cover;
+
     color: var(--cor02);
     border-radius: 5px;
     box-shadow: -1px -1px 8px 0px black;
 }
 section#img2{
-    background-image: url(imagens/background002.jpg);
+    /*background-image: url(imagens/background001.jpg);
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed;*/
+    background: url(imagens/background001.jpg) center no-repeat fixed;
+    background-size: cover;
     border-radius: 5px;
     box-shadow: -1px -1px 8px 0px black;
 }

@@ -18,12 +18,12 @@
         border-radius: 10px;
         position: right center; 
     }
-    p img[align=right]{
-        padding-left:0px;
+    .markdown-body p[align=right] {
+        padding-left: 0px;
     }
 </style>
 
-<p><img src="imagens/minhafoto.jpg" align="right" height="300" width="200"></p>
+<p class='markdown-body'><img src="imagens/minhafoto.jpg" align="right" height="300" width="200"></p>
 # Curso de HTML5 e CSS3
 
 Estou aprendendo a usar o repositório no Github.

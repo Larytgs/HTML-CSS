@@ -8,7 +8,7 @@
         border: 4px dotted black; 
         margin: 10px;
         background-color: #FDCFFF;
-        padding: 0px;
+        padding: 10px;
         list-style-position: inside;
         list-style-type: '\2714\00a0\00a0'; 
     }

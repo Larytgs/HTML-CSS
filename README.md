@@ -76,5 +76,5 @@ Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, fo
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex02.html" target="_blank">Executar o Desafio 5 exercicio: tradução das tags</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio8/index.html" target="_blank">Executar o Desafio 8 exercicio: de links</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio9/index.html" target="_blank">Executar o Desafio 9 exercicio: de videos</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio10/projeto_indroid.html" target="_blank">Executar o Desafio 10 projeto Indroid</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio10/oficial.html" target="_blank">Executar o Desafio 10 projeto Indroid</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 12 projeto cordel</a>

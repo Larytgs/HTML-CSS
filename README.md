@@ -12,6 +12,8 @@
         list-style-position: inside;
     }
     p img{
+        height: 100px; 
+        width: 100px;
         border: 2px solid #e151e6;
     }
     #paragrafo{

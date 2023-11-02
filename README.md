@@ -7,7 +7,7 @@
         columns: 2; 
         border: 4px dotted black; 
         margin: 10px;
-        width: 900px;
+        width: 1000px;
         background-color: #FDCFFF;
         padding: 10px 10px 10px 5px;
         list-style-position: inside;
@@ -29,7 +29,7 @@
         background-color: #FDCFFF;
         margin: 10px;
         padding: 10px;
-        width: 900px;
+        width: 1000px;
     }
 </style>
 

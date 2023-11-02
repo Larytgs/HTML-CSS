@@ -16,7 +16,7 @@
         width:150px;
         background-color: wheat;
         border: 2px solid #9f2da3;
-        padding: 0px;
+        padding: 0px 0px 0px -10px;
         margin: 0px;
     }
     #paragrafo{

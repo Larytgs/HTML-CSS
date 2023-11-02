@@ -12,15 +12,12 @@
         list-style-position: inside;
     }
     p img{
-        border: 3px solid #802c88;
-        margin: 20px;
-        padding-left: 0px;
-        border-radius: 10px; 
-        background-color: black;
-        background-image: url(imagens/minhafoto.jpg);
-        background-position: right center;
-        background-repeat: no-repeat;
-        
+        height:100px;
+        width: 100px;
+        background-color: wheat;
+        padding: 20px;
+        margin:10px;
+        border-radius: 50%;
     }
     #paragrafo{
         font-family:'Times New Roman', Times, serif;
@@ -34,7 +31,7 @@
 
 
 # Curso de HTML5 e CSS3
-
+<p><img src="imagens/minhafotomenor.png"></p>
 
 <p id= 'paragrafo'>
     Estou aprendendo a usar o repositório no Github.

@@ -98,6 +98,8 @@ section.imagem p{
 section#img1{
     background-image: url(imagens/background001.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: var(--cor02);
     border-radius: 5px;
     box-shadow: -1px -1px 8px 0px black;
@@ -105,6 +107,8 @@ section#img1{
 section#img2{
     background-image: url(imagens/background002.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     border-radius: 5px;
     box-shadow: -1px -1px 8px 0px black;
 }

@@ -1,6 +1,6 @@
 <style>
     body{
-        /*background-color: hsla(295, 48%, 62%, 0.541);*/
+        background-color: hsla(295, 48%, 62%, 0.541);
         padding-left: 0px;
     }
     ul{
@@ -29,15 +29,13 @@
 
 
 # Curso de HTML5 e CSS3
-
+<p><img align="hight" src="imagens/minhafoto.jpg" height="300" width="200"></p>
 <p id= 'paragrafo'>
     Estou aprendendo a usar o repositório no Github.
     Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.
 </p>
 
 ## **Repositório dos meus Exercicios:**
-
-<p><img src="imagens/minhafoto.jpg" height="300" width="200"></p>
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html" target="_blank">Executar o exercicio 001a - teste</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex002_simbolos_e_emojis/index.html">Executar o exercicio 002a - simbolos e emojis</a>

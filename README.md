@@ -14,10 +14,9 @@
     p img{
         height: 200px; 
         width: 200px;
-        border: 2px solid #e151e6;
     }
     #paragrafo{
-        width: 500px;
+        width: 700px;
         margin: 10px;
         padding: 10px;
     }

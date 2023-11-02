@@ -93,8 +93,6 @@ section.imagem p{
     background-color: rgba(102, 96, 102, 0.39);
     display: inline-block; /*deixando do tamanho do texto*/
     padding: 10px;
-    background-size: cover;
-    background-attachment: fixed;
 }
 
 section#img1{ /*cor > image > position > repeat > attachment*/

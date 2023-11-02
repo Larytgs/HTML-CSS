@@ -12,8 +12,7 @@
         list-style-position: inside;
     }
     p img{
-        height: 200px; 
-        width: 200px;
+        
     }
     #paragrafo{
         width: 700px;

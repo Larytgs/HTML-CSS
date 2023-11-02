@@ -14,7 +14,6 @@
     p img{
         height:150px;
         width:150px;
-        background-color: wheat;
     }
     #paragrafo{
         margin:10px;

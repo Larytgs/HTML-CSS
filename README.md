@@ -1,6 +1,7 @@
 <style>
     body{
         font-size:10vw;
+        display: flex;
     }
     ul{
         columns: 2; 

@@ -16,7 +16,7 @@
         margin: 10px;
         padding: 10px;
         text-align: justify;
-        display: flex;
+        display: inline;
     }
 
 </style>

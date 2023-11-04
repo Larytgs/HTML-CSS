@@ -16,7 +16,7 @@
         margin: 10px;
         padding: 10px;
         text-align: justify;
-        display: inline;
+        display: inline; /*para ficar alinhadoo texto no celular*/
     }
 
 </style>

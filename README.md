@@ -15,7 +15,7 @@
         width: 800px;
         margin: 10px;
         padding: 10px;
-        text-align: center;
+        text-align: justify;
     }
 
 </style>

@@ -1,7 +1,6 @@
 <style>
     body{
         font-size:10vw;
-        display: flex;
     }
     ul{
         columns: 2; 
@@ -17,6 +16,7 @@
         margin: 10px;
         padding: 10px;
         text-align: justify;
+        display: flex;
     }
 
 </style>

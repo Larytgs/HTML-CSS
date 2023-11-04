@@ -15,7 +15,7 @@
         width: 800px;
         margin: 10px;
         padding: 10px;
-        font-size:10vw;
+        text-align: center;
     }
 
 </style>

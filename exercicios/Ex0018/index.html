@@ -9,19 +9,18 @@
             font-family: 'Times New Roman', Times, serif;
         }
         table{
-            width: 200px;
-            margin: 10px;
+            width: 400px;
+            height: 400px;
             border-collapse: collapse; /*borda colada ou junta*/
-        }
-        tr.linha{
-            background-color: aquamarine;
-        }
-        td.dado{
-            background-color: rgba(187, 255, 0, 0.527);
         }
         td{
             border: 1px solid black;
             padding: 2px;
+            text-align: center; /*alinhamento horizontal*/
+            vertical-align: top; /*alinhamento vertical*/
+        }
+        .numero{
+            text-align: right;
         }
     </style>
 </head>
@@ -41,7 +40,7 @@ TABLE = tabela
         <tr class="linha">
             <td>a2
             <td>b2
-            <td>c2
+            <td class="numero">c2
         </tr>
         <tr>
             <td>a3

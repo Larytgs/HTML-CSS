@@ -10,14 +10,18 @@
             font-family: 'Times New Roman', Times, serif;
         }
         table{
-            margin: auto;
+            width: 400px;
             border: 2px solid black;
             border-collapse: collapse; /*borda colada ou junta*/
             
         }
-        #menor{
-            width: 60px
+        caption{
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: 600;
+            background-color: rgba(240, 255, 255, 0.315);
+            padding: 10px;
         }
+        
         .num{
             text-align: right;
         }
@@ -36,14 +40,25 @@
 
     </style>
 </head>
+<!--Anatomia para tabelas grandes:
+TABLE
+    CAPTION - legenda da tabela
+    THEAD
+        TR, TD, TH
+    TBODY
+        TR, TD, TH
+    TFOOT
+        TR, TD, TH
+    -->
 <body>
-    <h1>Tabela de unidades federativas do Brasil por população - 2023</h1>
+    <h1>Tabelas Grande</h1>
     <table>
+        <caption>Tabela de unidades federativas - 2023</caption>
         <thead> <!--cabeça-->
             <tr>
-                <td id="menor">Posição</td>
-                <th>Estado</th>
-                <th>População</th>
+                <th style="width: 50px;" scope="col">Posição</th>
+                <th scope="col">Estado</th>
+                <th style="width: 100px;" scope="col">População</th>
             </tr>
         </thead>
             
@@ -102,9 +117,9 @@
 
         <tfoot> <!--rodapé-->
             <tr>
-                <td>Total de Habitantes</td>
-                <td>Valor:</td>
-                <td style="color: black;" class="num"><strong>151.058.725</strong></td>
+                <td></td>
+                <th scope="row">Total de Habitantes</th>
+                <td class="num"><strong>151.058.725</strong></td>
             </tr>
         </tfoot>
     </table>

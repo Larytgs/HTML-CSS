@@ -10,10 +10,11 @@
             font-family: 'Times New Roman', Times, serif;
         }
         table{
-            width: 400px;
+            width: 500px;
+            margin: auto;
             border: 2px solid black;
             border-collapse: collapse; /*borda colada ou junta*/
-            
+            position: relative;
         }
         caption{
             font-family: 'Times New Roman', Times, serif;
@@ -25,16 +26,32 @@
         .num{
             text-align: right;
         }
+
+        tbody > tr:nth-child(odd){
+            background-color: rgba(231, 119, 119, 0.582);
+        }
+        tbody >tr:nth-child(even){
+            background-color: rgba(127, 255, 212, 0.438);
+        }
+
+        thead > tr > th{
+            position: sticky; /*grudavel*/
+            top: -1px;
+            background-color: black;
+        }
+
         thead, tfoot{
-            background-color: rgba(0, 0, 0, 0.39);
+            background-color: black;
             color: white;
         }
+
         th{
             border: 2px solid black;
             padding: 8px;
         }
+
         td{
-            border: 1px solid black;
+            border: 2px solid black;
             padding: 7px;
         }
 
@@ -113,15 +130,46 @@ TABLE
                 <td>Santa Catarina</td>
                 <td class="num">7 610 361</td>
             </tr>
+            <tr>
+                <td>11º</td>
+                <td>Goiás</td>
+                <td class="num">7 056 495</td>
+            </tr>
+            <tr>
+                <td>12º</td>
+                <td>Maranhão</td>
+                <td class="num">6 775 805</td>
+            </tr>
+            <tr>
+                <td>13º</td>
+                <td>Paraíba</td>
+                <td class="num">3 974 687</td>
+            </tr>
+            <tr>
+                <td>14º</td>
+                <td>Amazonas</td>
+                <td class="num">3 941 613</td>
+            </tr>
+            <tr>
+                <td>15º</td>
+                <td>Espirito Santo</td>
+                <td class="num">3 833 712</td>
+            </tr>
         </tbody>
 
         <tfoot> <!--rodapé-->
             <tr>
                 <td></td>
                 <th scope="row">Total de Habitantes</th>
-                <td class="num"><strong>151.058.725</strong></td>
+                <td class="num"><strong>176.641.037</strong></td>
             </tr>
         </tfoot>
     </table>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis itaque non iste vel nobis. Ea nesciunt possimus pariatur odio accusantium neque laudantium, inventore ipsa nostrum quisquam dolor quia excepturi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt accusantium optio eos architecto, velit hic dignissimos temporibus laborum, fugit autem eveniet sequi deserunt repellat officiis at, tempora corporis dolorem pariatur. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores nihil voluptatum et quibusdam itaque doloribus porro commodi! At voluptates magni, dicta itaque distinctio facilis fugiat necessitatibus velit aut rerum eos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, velit quam. Illo sapiente, eius numquam temporibus magnam molestias suscipit assumenda, odit fuga dignissimos quae exercitationem officia praesentium tempora earum corrupti.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis itaque non iste vel nobis. Ea nesciunt possimus pariatur odio accusantium neque laudantium, inventore ipsa nostrum quisquam dolor quia excepturi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt accusantium optio eos architecto, velit hic dignissimos temporibus laborum, fugit autem eveniet sequi deserunt repellat officiis at, tempora corporis dolorem pariatur. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores nihil voluptatum et quibusdam itaque doloribus porro commodi! At voluptates magni, dicta itaque distinctio facilis fugiat necessitatibus velit aut rerum eos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, velit quam. Illo sapiente, eius numquam temporibus magnam molestias suscipit assumenda, odit fuga dignissimos quae exercitationem officia praesentium tempora earum corrupti.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis itaque non iste vel nobis. Ea nesciunt possimus pariatur odio accusantium neque laudantium, inventore ipsa nostrum quisquam dolor quia excepturi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt accusantium optio eos architecto, velit hic dignissimos temporibus laborum, fugit autem eveniet sequi deserunt repellat officiis at, tempora corporis dolorem pariatur. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores nihil voluptatum et quibusdam itaque doloribus porro commodi! At voluptates magni, dicta itaque distinctio facilis fugiat necessitatibus velit aut rerum eos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, velit quam. Illo sapiente, eius numquam temporibus magnam molestias suscipit assumenda, odit fuga dignissimos quae exercitationem officia praesentium tempora earum corrupti.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis itaque non iste vel nobis. Ea nesciunt possimus pariatur odio accusantium neque laudantium, inventore ipsa nostrum quisquam dolor quia excepturi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt accusantium optio eos architecto, velit hic dignissimos temporibus laborum, fugit autem eveniet sequi deserunt repellat officiis at, tempora corporis dolorem pariatur. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores nihil voluptatum et quibusdam itaque doloribus porro commodi! At voluptates magni, dicta itaque distinctio facilis fugiat necessitatibus velit aut rerum eos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, velit quam. Illo sapiente, eius numquam temporibus magnam molestias suscipit assumenda, odit fuga dignissimos quae exercitationem officia praesentium tempora earum corrupti.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis itaque non iste vel nobis. Ea nesciunt possimus pariatur odio accusantium neque laudantium, inventore ipsa nostrum quisquam dolor quia excepturi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt accusantium optio eos architecto, velit hic dignissimos temporibus laborum, fugit autem eveniet sequi deserunt repellat officiis at, tempora corporis dolorem pariatur. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores nihil voluptatum et quibusdam itaque doloribus porro commodi! At voluptates magni, dicta itaque distinctio facilis fugiat necessitatibus velit aut rerum eos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, velit quam. Illo sapiente, eius numquam temporibus magnam molestias suscipit assumenda, odit fuga dignissimos quae exercitationem officia praesentium tempora earum corrupti.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis itaque non iste vel nobis. Ea nesciunt possimus pariatur odio accusantium neque laudantium, inventore ipsa nostrum quisquam dolor quia excepturi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt accusantium optio eos architecto, velit hic dignissimos temporibus laborum, fugit autem eveniet sequi deserunt repellat officiis at, tempora corporis dolorem pariatur. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores nihil voluptatum et quibusdam itaque doloribus porro commodi! At voluptates magni, dicta itaque distinctio facilis fugiat necessitatibus velit aut rerum eos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, velit quam. Illo sapiente, eius numquam temporibus magnam molestias suscipit assumenda, odit fuga dignissimos quae exercitationem officia praesentium tempora earum corrupti.</p>
 </body>
 </html>

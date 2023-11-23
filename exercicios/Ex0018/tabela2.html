@@ -3,9 +3,110 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Tabela Grande</title>
+    <style>
+        body{
+            background-color: antiquewhite;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        table{
+            margin: auto;
+            border: 2px solid black;
+            border-collapse: collapse; /*borda colada ou junta*/
+            
+        }
+        #menor{
+            width: 60px
+        }
+        .num{
+            text-align: right;
+        }
+        thead, tfoot{
+            background-color: rgba(0, 0, 0, 0.39);
+            color: white;
+        }
+        th{
+            border: 2px solid black;
+            padding: 8px;
+        }
+        td{
+            border: 1px solid black;
+            padding: 7px;
+        }
+
+    </style>
 </head>
 <body>
-    
+    <h1>Tabela de unidades federativas do Brasil por população - 2023</h1>
+    <table>
+        <thead> <!--cabeça-->
+            <tr>
+                <td id="menor">Posição</td>
+                <th>Estado</th>
+                <th>População</th>
+            </tr>
+        </thead>
+            
+        <tbody> <!--corpo-->
+            <tr>
+                <td>1º</td>
+                <td>São Paulo</td>
+                <td class="num">44 411 238</td>
+            </tr>
+            <tr>
+                <td>2º</td>
+                <td>Minas Gerais</td>
+                <td class="num">20 538 718</td>
+            </tr>
+            <tr>
+                <td>3º</td>
+                <td>Rio de Janeiro</td>
+                <td class="num">16 054 524</td>
+            </tr>
+            <tr>
+                <td>4º</td>
+                <td>Bahia</td>
+                <td class="num">14 141 626</td>
+            </tr>
+            <tr>
+                <td>5º</td>
+                <td>Paraná</td>
+                <td class="num">11 444 380</td>
+            </tr>
+            <tr>
+                <td>6º</td>
+                <td>Rio Grande do Sul</td>
+                <td class="num">10 882 965</td>
+            </tr>
+            <tr>
+                <td>7º</td>
+                <td>Pernambuco</td>
+                <td class="num">9 058 931</td>
+            </tr>
+            <tr>
+                <td>8º</td>
+                <td>Ceará</td>
+                <td class="num">8 794 957</td>
+            </tr>
+            <tr>
+                <td>9º</td>
+                <td>Pará</td>
+                <td class="num">8 121 025</td>
+            </tr>
+            <tr>
+                <td>10º</td>
+                <td>Santa Catarina</td>
+                <td class="num">7 610 361</td>
+            </tr>
+        </tbody>
+
+        <tfoot> <!--rodapé-->
+            <tr>
+                <td>Total de Habitantes</td>
+                <td>Valor:</td>
+                <td style="color: black;" class="num"><strong>151.058.725</strong></td>
+            </tr>
+        </tfoot>
+    </table>
 </body>
 </html>

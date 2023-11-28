@@ -74,6 +74,9 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/tabela3.html" target="_blank">Executar o exercicio 018c - Tabela com Mesclagem</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/tabela4.html" target="_blank">Executar o exercicio 018d - Tabela responsivas</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/desafios.html" target="_blank">Executar o exercicio 018e - Desafios</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/desafios.html" target="_blank">Executar o exercicio 019a - Iframe1</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/desafios.html" target="_blank">Executar o exercicio 019b - Iframe2</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/desafios.html" target="_blank">Executar o exercicio 019c - Iframe3</a>
 
 ## **Repositório dos meus Desafios:**
 
@@ -82,6 +85,6 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex02.html" target="_blank">Executar o Desafio 5 exercicio: tradução das tags</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio8/index.html" target="_blank">Executar o Desafio 8 exercicio: de links</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio9/index.html" target="_blank">Executar o Desafio 9 exercicio: de videos</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio10/oficial.html" target="_blank">Executar o Desafio 10 projeto Indroid</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 12 projeto cordel</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 15 projeto cordel</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio10/oficial.html" target="_blank">Executar o Desafio 10 Projeto Indroid</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 12 Projeto Cordel</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio15/projeto_social.html" target="_blank">Executar o Desafio 15 Projeto Social</a>

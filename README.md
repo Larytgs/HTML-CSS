@@ -4,7 +4,7 @@
     }
     ul{
         columns: 2; 
-        border: 4px dotted black; 
+        border: 3px dotted black; 
         margin: 10px;
         background-color: #FDCFFF;
         padding: 10px;

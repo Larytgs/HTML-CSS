@@ -70,11 +70,11 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo06.html" target="_blank">Executar o exercicio 017f - Fundo fixo de tela</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo07.html" target="_blank">Executar o exercicio 017g - Alinhamento vertical</a>
 
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 018a - Tabela Simples</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 018b - Tabela Grande</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 018c - Tabela 3</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 018d - Tabela  com MEsclagem</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 018e - Desafios</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/tabela1.html" target="_blank">Executar o exercicio 018a - Tabela Simples</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/tabela2.html" target="_blank">Executar o exercicio 018b - Tabela Grande</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/tabela3.html" target="_blank">Executar o exercicio 018c - Tabela 3</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/tabela4.html" target="_blank">Executar o exercicio 018d - Tabela  com MEsclagem</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/desafios.html" target="_blank">Executar o exercicio 018e - Desafios</a>
 
 ## **Repositório dos meus Desafios:**
 

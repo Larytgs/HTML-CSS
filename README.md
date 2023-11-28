@@ -84,3 +84,4 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio9/index.html" target="_blank">Executar o Desafio 9 exercicio: de videos</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio10/oficial.html" target="_blank">Executar o Desafio 10 projeto Indroid</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 12 projeto cordel</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 15 projeto cordel</a>

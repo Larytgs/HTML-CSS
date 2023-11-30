@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario 3</title>
+</head>
+<body>
+    <h1>Formulario teste 4</h1>
+    <form action="cadastro.php" method="post" autocomplete="on">
+        <fieldset> <!--forma um quadrado em volta, agrupando os dados-->
+            <legend>Dados pessoais</legend>
+            <p>
+                <label for="Inome">Nome Completo: </label>
+                <input type="text" name="nome" id="Inome" required minlength="10" maxlength="40" placeholder="          Nome completo" size="20" autocomplete="name">
+            </p>
+            <p>
+                <label for="Iemal">Email: </label>
+                <input type="email" name="email" id="Iemal" required placeholder="              Seu email" reautocomplete="email">
+            </p>
+            <p>
+                <label for="Inum">Celular: </label>
+                <input type="tel" name="numero" id="Inum" required placeholder="        (xx)xxxxx-xxxx" pattern="^(\d{2}\)\d{4,5}-\d{4}$" autocomplete="tel-national">
+            </p>
+        </fieldset>
+        <!--Estudar mais sobre regEts-->
+        <br>
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Limpar">
+    </form>
+</body>
+</html>

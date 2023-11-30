@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>formulario</title>
+</head>
+<body>
+    <h1>Teste de formulario</h1>
+    <form action="cadastro.php" method="post" autocomplete="on">
+        <p>
+            <label for="Iusu">Usuario: </label>
+            <input type="text" name="usu" id="Iusu" required minlength="5" maxlength="15" size="10" placeholder="nome do usuario" autocomplete="username">
+        </p> <!--required: para campo obrigatorio-->
+        <p>  <!--minlength="5" maxlength="15": minimo e     maximo de letras no campo-->
+            <label for="Isenha">Senha: </label>
+            <input type="password" name="senha" id="Isenha" required minlength="6" maxlength="10" size="9" placeholder="minimo 6 letras" autocomplete="current-password">
+            <!--input:password: para a senha ficar bolinha-->
+        </p> <!--size="10": o tamanho da caixa, vai       mostrar 10 letras-->
+        <p> <!--placeholder="nome do usuario": mostra na caixinha esse texto-->
+            <!--autocomplete="current-password": senha atual-->
+            <!--autocomplete="new-password": nova senha-->
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+            <!--input:reset: para poder limpar-->
+        </p>
+    </form>
+</body>
+</html>

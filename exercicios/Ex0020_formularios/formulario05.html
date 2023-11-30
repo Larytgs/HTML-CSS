@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario 5</title>
+</head>
+<body>
+    <h1>Teste de formulario 5</h1>
+    <form action="cadastro.php" method="get">
+        <p>
+            <fieldset>
+                <legend>Sexo</legend>
+                <p>                                      <!--checked: para dxar marcado ja o feminino-->
+                    <input type="radio" name="sexo" id="Ifem" checked value="F"> <label for="Ifem">Feminino</label> <br>
+                    <input type="radio" name="sexo" id="Imax" value="M"> <label for="Imax">Masculino</label>
+                </p>         <!--colocar o mesmo nome para os dois, para selecionar um ou outro, se nao n vai dar certo-->
+            </fieldset>      <!--value: o que vai mostrar na URL-->
+        </p>
+        <p>
+            <fieldset>
+                <legend>Esportes Favoritos</legend>
+                <input type="checkbox" name="Esfut" id="Iesfut" value="futebol"> <label for="Iesfut">Futebol</label> <br>
+                
+                <input type="checkbox" name="Esvolei" id="Iesvolei" value="volei"> <label for="Iesvolei">Volei</label> <br>
+                
+                <input type="checkbox" name="Estenis" id="Iestenis" value="tenis"> <label for="Iestenis">Tenis</label> <br>
+                
+                <input type="checkbox" name="Esnat" id="Iesnat" value="natalçao"> <label for="Iesnat">Natação</label> <br>
+                
+                <input type="checkbox" name="Esbasq" id="Iesbasq" value="basquete"> <label for="Iesbasq">Basquete</label> <br>
+            </fieldset>
+        </p>
+
+        <p><input type="submit" value="Enviar"></p>
+        <p><input type="reset" value="Limpar"></p>
+    </form>
+</body>
+</html>

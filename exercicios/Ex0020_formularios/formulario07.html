@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario 7</title>
+</head>
+<body>
+    <h1>Teste de formulario 7</h1>
+    <form action="cadastro.php" method="post">
+        <fieldset>
+            <legend>Select, datalist e textarea</legend>
+            
+            <p>
+                <label for="Iestado">Estado: </label>
+                <select name="Estado" id="Iestado">
+                    
+                    <option value="" selected>-------Escolha-------</option>
+                    <optgroup label="Regiao Sudeste">
+                        <option value="RJ">Rio de Janeiro</option>
+                        <option value="MG">Minas Gerais</option>
+                        <option value="SP">São Paulo</option>
+                        <option value="PR">Paraná</option>
+                    </optgroup>
+                    
+                    <optgroup label="Regio Nordeste">
+                        <option value="MA">Maranhão</option>
+                        <option value="PE">Pernanbuco</option>
+                        <option value="RN">Rio Grande do Norte</option>
+                    </optgroup>
+                </select>
+            </p>
+
+            <p>
+                <label for="Iprofissao">Profissão: </label>
+                <input type="text" name="Profissão" id="Iprofissao" list="listaprofissão">
+                <datalist id="listaprofissão">
+                    <option value="Dev">Desenvolvedor</option>
+                    <option value="Prof">Professor</option>
+                    <option>Analista</option>
+                    <option>Contabilista</option>
+                </datalist>
+            </p>
+
+            <p>
+                <label for="Imsg">Mensagem: </label> <br>
+                <textarea name="msg" id="Imsg" cols="30" rows="10"></textarea>
+            </p>
+            <p>
+                <input type="submit" value="Enviar">
+                <input type="reset" value="Limpar">
+            </p>
+        </fieldset>
+    </form>
+</body>
+</html>

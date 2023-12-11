@@ -1,3 +1,26 @@
 @charset "UTF8";
 
 /*Estilos para impressora*/
+
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+    line-height: 1em;
+}
+
+menu{
+    display: none; /*n vai ser exibido*/
+}
+
+article{
+    width: 100%;
+}
+
+article::after{
+    content: 'Esse artigo foi impresso atraves do site www.cursoemvideo.com';
+}

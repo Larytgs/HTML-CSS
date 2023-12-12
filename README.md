@@ -70,14 +70,14 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio 017e - Posicionamento2</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo06.html" target="_blank">Executar o exercicio 017f - Fundo fixo de tela</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0017_github/fundo07.html" target="_blank">Executar o exercicio 017g - Alinhamento vertical</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/tabela1.html" target="_blank">Executar o exercicio 018a - Tabela Simples</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/tabela2.html" target="_blank">Executar o exercicio 018b - Tabela Grande</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/tabela3.html" target="_blank">Executar o exercicio 018c - Tabela com Mesclagem</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/tabela4.html" target="_blank">Executar o exercicio 018d - Tabela responsivas</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/desafios.html" target="_blank">Executar o exercicio 018e - Desafios</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/iframe01.html" target="_blank">Executar o exercicio 019a - Iframe1</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/iframe02.html" target="_blank">Executar o exercicio 019b - Iframe2</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/iframe03.html" target="_blank">Executar o exercicio 019c - Iframe3</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018_github/tabela1.html" target="_blank">Executar o exercicio 018a - Tabela Simples</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018_github/tabela2.html" target="_blank">Executar o exercicio 018b - Tabela Grande</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018_github/tabela3.html" target="_blank">Executar o exercicio 018c - Tabela com Mesclagem</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018_github/tabela4.html" target="_blank">Executar o exercicio 018d - Tabela responsivas</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018_github/desafios.html" target="_blank">Executar o exercicio 018e - Desafios</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018_github/iframe01.html" target="_blank">Executar o exercicio 019a - Iframe1</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0019_github/iframe02.html" target="_blank">Executar o exercicio 019b - Iframe2</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0019_github/iframe03.html" target="_blank">Executar o exercicio 019c - Iframe3</a>
 * <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0020_formularios/formulario01.html" target="_blank">Executar o exercicio 020a - Meu primeiro formulario</a>
 * <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0020_formularios/formulario02.html" target="_blank">Executar o exercicio 020b - Formulario 2</a>
 * <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0020_formularios/formulario03.html" target="_blank">Executar o exercicio 020c - Formulario 3</a>

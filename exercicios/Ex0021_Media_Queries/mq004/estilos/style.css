@@ -1,0 +1,50 @@
+@charset "UTF8";
+
+/*Versao Mobile Fist*/
+
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+}
+
+body{
+    background: black url(../imagens/back-phone.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+main{
+    background: rgba(255, 255, 255, 0.521);
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1,3em;
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+img#I-phone{ display: block;}
+img#tablet{ display: none;}
+img#print{ display: none;}
+img#pc{ display: none;}
+img#tv{ display: none;}

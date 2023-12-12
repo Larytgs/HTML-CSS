@@ -78,7 +78,6 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/iframe01.html" target="_blank">Executar o exercicio 019a - Iframe1</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/iframe02.html" target="_blank">Executar o exercicio 019b - Iframe2</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018/iframe03.html" target="_blank">Executar o exercicio 019c - Iframe3</a>
-
 * <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0020_formularios/formulario01.html" target="_blank">Executar o exercicio 020a - Meu primeiro formulario</a>
 * <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0020_formularios/formulario02.html" target="_blank">Executar o exercicio 020b - Formulario 2</a>
 * <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0020_formularios/formulario03.html" target="_blank">Executar o exercicio 020c - Formulario 3</a>
@@ -88,6 +87,10 @@
 * <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0020_formularios/formulario07.html" target="_blank">Executar o exercicio 020g - Formulario 7</a>
 * <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0020_formularios/formulario08.html" target="_blank">Executar o exercicio 020h - Formulario 8</a>
 * <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0020_formularios/formulario09.html" target="_blank">Executar o exercicio 020i - Formulario 9</a>
+
+* <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0021_Media_Queries/mq001/index.html" target="_blank">Executar o exercicio 021a - Media_Queries1</a>
+* <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0021_Media_Queries/mq002/index.html" target="_blank">Executar o exercicio 021b - Media_Queries2</a>
+* <a href="file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0021_Media_Queries/mq003/index.html" target="_blank">Executar o exercicio 021c - Media_Queries3</a>
 
 
 ## **Repositório dos meus Desafios:**

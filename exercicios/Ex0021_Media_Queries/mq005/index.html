@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Midia Query</title>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="estilos/style.css">
+    <link rel="stylesheet" href="estilos/media-query.css">
 </head>
-<body>
+<body onresize="mudouTamanho()">
     <header>
         <h1>Meu site</h1>
         <i id="burguer" class="material-icons" onclick="clickMenu()">menu</i>
@@ -31,13 +32,21 @@
         </article>
     </main>
     <script>
+        function mudouTamanho(){
+            if (window.innerwidth >= 768) {
+                itens.style.display = 'block'
+            } else {
+                itens.style.display = 'none'
+            }
+        } /*Se a tela for maior ou igual a 768px os itens é obrigado a mostrar */
+
         function clickMenu() {
             if (itens.style.display == 'block') {
                 itens.style.display = 'none'
             } else {
                 itens.style.display = 'block'
             }
-        } <!--Se os itens estiver aparecendo, esconde, se nao apareça-->
+        } /*Se os itens estiver aparecendo, esconde, se nao apareça*/
     </script>
 </body>
 </html>

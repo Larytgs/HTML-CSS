@@ -54,16 +54,17 @@ a:hover{
 }
 
 main{
-    width: 90vw;
-    background-color: rgba(247, 199, 136, 0.384);
+    margin: 0px 50px;
+    border: 1px solid black;
     padding: 20px;
-    margin: 10px;
-    border: 3px solid black;
-    border-radius: 10px;
-    box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.493);
+    background-color: white;
+
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
+    box-shadow: 0px 0px 10px black;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 main h2{

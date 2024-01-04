@@ -18,8 +18,21 @@ header h1{
     font-family: 'Courier New', Courier, monospace;
 }
 
-menu{
+i#burguer{
+    background-color: rgb(71, 71, 71);
     display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer; /*virar uma maozinha*/
+}
+i#burguer:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+menu{
+    display: none;
     
 }
 menu ul{

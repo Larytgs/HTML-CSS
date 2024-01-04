@@ -57,7 +57,7 @@ main{
     margin: 0px 50px;
     border: 1px solid black;
     padding: 20px;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.664);
 
     min-width: 300px;
     max-width: 1000px;
@@ -70,6 +70,7 @@ main{
 main h2{
     font-family: 'Courier New', Courier, monospace;
     font-weight: 800;
+    background-color: antiquewhite;
 }
 main p{
     font-family: 'Times New Roman', Times, serif;

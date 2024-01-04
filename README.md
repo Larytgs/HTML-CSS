@@ -91,6 +91,7 @@
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios/Ex0021_Media_Queries/mq002/index.html" target="_blank">Executar o exercicio 021b - Media_Queries2</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios/Ex0021_Media_Queries/mq003/index.html" target="_blank">Executar o exercicio 021c - Media_Queries3</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios/Ex0021_Media_Queries/mq004/index.html" target="_blank">Executar o exercicio 021c - Media_Queries4</a>
+* <a href="https://larytgs.github.io//HTML-CSS/exercicios/Ex0021_Media_Queries/mq005/index.html" target="_blank">Executar o exercicio 021c - Media_Queries5</a>
 
 
 ## **Repositório dos meus Desafios:**

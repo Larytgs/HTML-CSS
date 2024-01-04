@@ -15,7 +15,7 @@ Grandes telas: acima de 1200px
     }            /*quando a tela for grande, o menu aparece e o  icone desapaece*/
 
     menu{
-        display: block;
+        display: block; /*para mostrar o icone*/
     }
     menu > ul > li{
         display: inline-block;

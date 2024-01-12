@@ -65,3 +65,34 @@ div#formulario > h1{
 div#formulario > p{
     font-size: 0.9em;
 }
+
+form > input[type=submit] {
+    display: block;
+    font-size: 1em;
+    width: 100%;
+    background-color: var(--corverde);
+    color: white;
+    padding: 5px;
+    margin-bottom: 6px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer; /*maozinha*/
+}
+form > input[type=submit]:hover{
+    background-color: #1d504e;
+}
+
+form > button {
+    display: block;
+    font-size: 1em;
+    width: 100%;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-color: #1d504e;
+    border-radius: 10px;
+    cursor: pointer; /*maozinha*/
+}
+form > button:hover{
+    background-color: #6cd3cf8a;
+}

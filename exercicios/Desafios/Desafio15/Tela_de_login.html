@@ -19,6 +19,55 @@
             <div id="formulario">
                 <h1>Login</h1>
                 <p>Seja Bem Vindo! Faça o seu login para acessar sua conta e poder fazer as configuraçoes no seu ambiente</p>
+
+                <p>
+                    <label for="Inome">Nome completo: </label>
+                    <input type="text" name="nome" id="Inome">
+                </p>
+
+                <p>
+                    <label for="Isenha">Senha: </label>
+                    <input type="password" name="senha" id="Isenha" required minlength="6" maxlength="12" size="9" placeholder="Minimo 6 letras" autocomplete="current-password">>
+                </p>
+                <!--required: para campo obrigatorio-->
+                <!--minlength="5" maxlength="15": minimo e maximo de letras no campo-->
+                <!--input:password: para a senha ficar bolinha-->
+                <!--size="10": o tamanho da caixa, vai mostrar 10 letras-->
+                <!--placeholder="nome do usuario": mostra na caixinha esse texto-->
+                <!--autocomplete="current-password": senha atual-->
+                <!--autocomplete="new-password": nova senha-->
+
+                <p>
+                    <input type="submit" value="ENviar">
+                    <input type="reset" value="Limpar">
+                </p>
+                <!--input:submit : botão para enviar-->
+                <!--input:reset: para poder limpar-->
+
+                
+                <!--Label: as etiquetas, para fazer uma ligação.
+                name: usado mais para html e php
+                id: usado mais p o javascrip e label-->
+                
+                <!--envelopar o nome para label, e colocar o nome do id no "for", para ligar eles
+                <label for="Inome">Nome</label>
+                Pode colocar nome repetido-->
+
+                <!--Metodos GET(padrao) e POST
+                GET: ele coloca os seus dados na URL:
+                    file:///C:/Users/User/Documents/HTML-CSS/exercicios/Ex0020_formularios/cadastro.php?Nome=Laryssa&sobrenome=Tgs
+                - Usa qnd os dados nao sao sensiveis, importantes
+                - Quando quer q o link seja compartilhado
+                - Ate 3 mil bites (3 mil letras)
+
+                POST: nao mostra os dados na URL mas se inspecionar aparece, nao fica criptografado
+                - Usa qnd os dados sao sensiveis, importantes
+                - Usa qnd nao quer deixar visivel na URL
+                - Usa para poder enviar arquivos
+                
+            
+                Para ficar criptografado, precisa usar HTPS-->
+
             </div>
             <form action="login.php" method="post">
 

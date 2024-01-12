@@ -45,6 +45,7 @@ section#login{
 
 div#imagem{
     display: block;
+    border-radius: 10px;
     background: var(--corlilas) url(imagens/pexels-pascal-weiland-2244429.jpg) no-repeat;
     background-position: left bottom;
     background-size: cover;
@@ -54,4 +55,13 @@ div#imagem{
 div#formulario{
     display: block;
     padding: 10px;
+}
+
+div#formulario > h1{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+div#formulario > p{
+    font-size: 0.9em;
 }

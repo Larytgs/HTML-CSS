@@ -7,11 +7,11 @@
         }
         @font-face {
             font-family: 'bebasneue';
-            src: url(fontes/BebasNeue-Regular.ttf);
+            src: url(fontes/BebasNeue-Regular.ttf) format(truetype);
         }
         @font-face {
             font-family: 'caligrafia';
-            src: url(fontes/caligrafia.ttf);
+            src: url(fontes/caligrafia.ttf) format(truetype);
         }
 
         :root{

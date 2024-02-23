@@ -1,1 +1,15 @@
 @charset 'UTF8';
+
+@font-face {
+    font-family: 'titulo';
+    src: url(estilo/Mogent.otf) format(opentype);
+}
+
+@font-face {
+    font-family: '';
+    src: url(estilo/135atom_sans.ttf) format();
+}
+
+h1{
+    font-family: 'titulo';
+}

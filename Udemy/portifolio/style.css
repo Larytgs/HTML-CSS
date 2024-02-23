@@ -1,15 +1,85 @@
 @charset 'UTF8';
 
 @font-face {
-    font-family: 'titulo';
+    font-family: 'cabeçalho';
     src: url(estilo/Mogent.otf) format(opentype);
 }
 
 @font-face {
-    font-family: '';
-    src: url(estilo/135atom_sans.ttf) format();
+    font-family: 'titulo';
+    src: url(estilo/02_APompadourTextSample.ttf) format(truetype) url(estilo/03_APompadourBoldSample.otf) format(opentype);
 }
 
-h1{
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: #333;
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /*vai separar as partes do header do body e do footer*/
+}
+
+header{
+    background-color: #181717;
+    padding: 12px;
+
+    display: flex; /*coloquei na lateral os icones*/
+    align-items: center; /*centralizar os icones*/
+    justify-content: space-between; /*espaçamento igual*/
+}
+header nav{
+    display: flex; /*para deixar em linha*/
+    align-items: center; /*alinhado do centro*/
+} 
+header nav a{
+    margin-right: 1em;
+    font-size: 1.3em;
+}
+header h1{
+    color: aqua;
+    font-family: 'cabeçalho';
+}
+header h1:hover{
+    color: white;
+}
+
+
+
+main{
+    margin: 15px;
+    padding: 10px;
+
+}
+
+section h1{
+    padding: 10px;
     font-family: 'titulo';
+}
+section p{
+    text-align: justify;
+}
+
+aside h1{
+    padding: 10px;
+    font-family: 'titulo';
+}
+
+p{
+    text-align: justify;
+}
+
+
+footer{
+    background-color: #181717;
+    padding: 15px;
+
+    text-align: center;
 }

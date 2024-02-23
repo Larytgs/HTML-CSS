@@ -31,6 +31,17 @@
     Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.
 </p>
 
+## **Repositório dos meus Desafios:**
+
+
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex01.html" target="_blank">Executar o Desafio 5 exercicio: das redes sociais</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex02.html" target="_blank">Executar o Desafio 5 exercicio: tradução das tags</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio8/index.html" target="_blank">Executar o Desafio 8 exercicio: de links</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio9/index.html" target="_blank">Executar o Desafio 9 exercicio: de videos</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio10/oficial.html" target="_blank">Executar o Desafio 10 Projeto Indroid</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 12 Projeto Cordel</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio15/Tela_de_login.html" target="_blank">Executar o Desafio 15 Tela de login</a>
+
 ## **Repositório dos meus Exercicios:**
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html" target="_blank">Executar o exercicio 001a - teste</a>
@@ -92,15 +103,3 @@
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios/Ex0021_Media_Queries/mq003/index.html" target="_blank">Executar o exercicio 021c - Media_Queries3</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios/Ex0021_Media_Queries/mq004/index.html" target="_blank">Executar o exercicio 021c - Media_Queries4</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios/Ex0021_Media_Queries/mq005/index.html" target="_blank">Executar o exercicio 021c - Media_Queries5</a>
-
-
-## **Repositório dos meus Desafios:**
-
-
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex01.html" target="_blank">Executar o Desafio 5 exercicio: das redes sociais</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex02.html" target="_blank">Executar o Desafio 5 exercicio: tradução das tags</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio8/index.html" target="_blank">Executar o Desafio 8 exercicio: de links</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio9/index.html" target="_blank">Executar o Desafio 9 exercicio: de videos</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio10/oficial.html" target="_blank">Executar o Desafio 10 Projeto Indroid</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 12 Projeto Cordel</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio15/Tela_de_login.html" target="_blank">Executar o Desafio 15 Tela de login</a>

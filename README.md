@@ -74,7 +74,7 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018_tabelas/tabela2.html" target="_blank">Executar o exercicio 018b - Tabela Grande</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018_tabelas/tabela3.html" target="_blank">Executar o exercicio 018c - Tabela com Mesclagem</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018_tabelas/tabela4.html" target="_blank">Executar o exercicio 018d - Tabela responsivas</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0019_iframe/desafios.html" target="_blank">Executar o exercicio 018e - Desafios</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0018_tabelas/desafios.html" target="_blank">Executar o exercicio 018e - Desafios</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0019_iframe/iframe01.html" target="_blank">Executar o exercicio 019a - Iframe1</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0019_iframe/iframe02.html" target="_blank">Executar o exercicio 019b - Iframe2</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex0019_iframe/iframe03.html" target="_blank">Executar o exercicio 019c - Iframe3</a>

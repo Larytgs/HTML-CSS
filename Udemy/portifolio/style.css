@@ -15,6 +15,10 @@
     padding: 0px;
     font-family: 'Times New Roman', Times, serif;
 }
+:root{
+    --corturquesa: rgb(106, 208, 255);
+}
+
 
 body{
     width: 100%;
@@ -44,7 +48,7 @@ header nav a{
     font-size: 1.3em;
 }
 header h1{
-    color: aqua;
+    color: var(--corturquesa);
     font-family: 'cabeçalho';
 }
 header h1:hover{
@@ -91,7 +95,7 @@ p{
     cursor: pointer;
 }
 
-.card img{
+.cards img{
     width: 120px;
     height: 120px;
     padding: 2px 2px;
@@ -103,8 +107,8 @@ p{
     align-items: center;
     justify-content: center;
 }
-.cardp img{
-    width: 160px;
+.cardphp img{
+    width: 170px; /*modificado*/
     height: 120px;
     padding: 2px 2px;
     margin-right: 1.2em;
@@ -115,15 +119,50 @@ p{
     align-items: center;
     justify-content: center;
 }
+.cardpython img{
+    width: 120px; 
+    height: 120px; 
+    padding: 8px 8px; /*modificado*/
+    margin-right: 1.2em;
+    background-color: antiquewhite;
+    border-radius: 10px;
 
-.card img:hover{
-    box-shadow: 0px 0px 8px 0px rgb(106, 208, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cards img:hover{
+    box-shadow: 0px 0px 8px 0px var(--corturquesa);
+    transition-duration: 0.2s;
+}
+.cardphp img:hover{
+    box-shadow: 0px 0px 8px 0px var(--corturquesa);
+    transition-duration: 0.2s;
+}
+.cardpython img:hover{
+    box-shadow: 0px 0px 8px 0px var(--corturquesa);
     transition-duration: 0.2s;
 }
 
 
 figure{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 
+}
+figure img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    margin: 15px;
+    border: 1px solid var(--corturquesa);
+}
+figure img:hover{
+    box-shadow: 0px 0px 6px var(--corturquesa);
+    cursor: pointer;
 }
 
 footer{

@@ -1,6 +1,36 @@
 @charset "UTF8";
 
+@font-face {
+    font-family: 'titulo';
+    src: url(estilo/02_APompadourTextSample.ttf) format(truetype) url(estilo/03_APompadourBoldSample.otf) format(opentype);
+}
+
 *{
     padding: 0px;
     margin: 0px;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: wheat;
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /*vai separar as partes do header do body e do footer*/
+}
+
+header{
+    text-align: center;
+    color: white;
+    background-color: green;
+    padding: 12px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: green;
+    padding: 12px;
 }

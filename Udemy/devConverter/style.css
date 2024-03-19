@@ -13,7 +13,7 @@
 
 html, body{
     min-height: 100vh;
-    background-color: wheat;
+    background-color: #eeecec;
     color: white;
     text-align: center;
 
@@ -42,6 +42,7 @@ form{
     width: 100%;
     margin-bottom: 10px;
     color: black;
+    font-size: 1.3em;
 
     display: flex;
     flex-direction: column;
@@ -55,7 +56,7 @@ input, select, button{
     border-radius: 8px;
     width: 220px;
     padding: 10px;
-    font-size: 1em;
+    font-size: 1.2em;
     box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.452);
     margin: 10px 10px;
 }
@@ -89,6 +90,7 @@ button:hover{
 .form-group{
     display: flex;
     flex-direction: column;
+    margin: 40px;
 }
 #resultado{
     font-size: 3.5em;

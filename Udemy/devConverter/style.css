@@ -93,6 +93,7 @@ button:hover{
 #resultado{
     font-size: 3.5em;
     color: #5ab48d;
+    margin-bottom: 50px;
 }
 #resultado span{
     font-size: 0.6em;

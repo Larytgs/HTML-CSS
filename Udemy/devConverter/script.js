@@ -8,5 +8,5 @@ var form = document.getElementById('form');
 function converter(e){
 
     e.preventDefault() //para nao atualizar a pagina automaticamente
-    alert('oi')
+    window.alert('oi')
 }

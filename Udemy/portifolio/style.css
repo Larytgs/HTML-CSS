@@ -20,18 +20,15 @@
 }
 
 
-body{
-    width: 100%;
+html, body{
     height: 100vh;
     background-color: #333;
     color: white;
 
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between; /*vai separar as partes do header do body e do footer*/
 }
 
 header{
+    text-align: center;
     background-color: #181717;
     padding: 12px;
 
@@ -169,10 +166,10 @@ figure img:hover{
 }
 
 footer{
+    text-align: center;    
+    color: white;
     background-color: #181717;
     padding: 14px;
-
-    text-align: center;
 }
 
 
@@ -225,7 +222,7 @@ footer{
 }
 
 @media (max-width: 700px){
-    header{
+    /*header{
         width: 460px;
 
         flex-direction: column;
@@ -233,7 +230,7 @@ footer{
         justify-content: center;
 
         text-align: center;
-    }
+    }*/
 
     header h1{
         font-size: 2em;
@@ -280,7 +277,7 @@ footer{
         height: 250px;
     }
     
-    footer{
+    /*footer{
         width: 461px;
-    }
+    }*/
 }

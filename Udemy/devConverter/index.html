@@ -12,13 +12,31 @@
     </header>
 
     <main>
-        <section>
-            <h1></h1>
-        </section>
+        <form id="formulario">
+            <section class="inputs_conteiners">
+                
+                <div class="form-group">
+                    <label for="valor-real">Valor a ser convertido (R$)</label>
+                    <input type="number" name="valor-real" id="valor-real" placeholder="R$20,00" max="100000">
+                </div>
 
-        <aside>
+                <div class="form-group">
+                    <label for="valor-real">Escolha a moeda</label>
+                    <select id="currency">
+                        <option value="">Selecione...</option>
+                        <option value="euro">Euros</option>
+                        <option value="dolar">Dolar</option>
+                    </select>
+                </div>
 
-        </aside>
+            </section>
+
+            <button type="submit">Converter</button>
+
+        </form>
+
+        <h2 id="resultado">aaaa</h2><!--para mostrar o resultado-->
+
     </main>
 
     <footer>

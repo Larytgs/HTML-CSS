@@ -110,12 +110,11 @@ footer{
     color: white;
     background-color: #5ab48d;
     padding: 15px;
-    margin: 14px;
     position: fixed;
     width: 100%;
 }
 
-@media (max-width: 1200px){
+@media (max-width: 750px){
     header{
         text-align: center;
         cursor: pointer;
@@ -140,24 +139,18 @@ footer{
     .form-group{
         margin: 15px;
     }
-
-    main p{
-        width: 100%;
-        font-size: 1.2em;
-        text-align: center;
-    }
-
     #resultado{
         font-size: 1.9em;
         color: #5ab48d;
         margin-top: 30px;
     }
+
     button{
         font-size: 1em;
         font-weight: 500;
         margin-bottom: 40px;
     }
-    button:hover{
+    button:active{
         margin-bottom: 0px;
     }
     
@@ -167,8 +160,6 @@ footer{
         background-color: #5ab48d;
         padding: 12px;
         margin-top: 30px;
-        position: fixed;
-        width: 100%;
     }
     
 }

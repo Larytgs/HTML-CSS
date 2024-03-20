@@ -42,12 +42,12 @@ function converter(){ //valore de março de 2024
         resultado.innerHTML = formatarvalor('EN-gb', 'GBP') //£
 
         animateResult() //para chamar a função de baixo
-    }else if(selectCurrency.value === 'rublo'){
+    }/*else if(selectCurrency.value === 'rublo'){
         valueConverter = inputValue.value / 0.054;
         resultado.innerHTML = formatarvalor('', 'RUB') //₽
 
         animateResult() //para chamar a função de baixo
-    }else if(selectCurrency.value === 'yuan'){
+    }*/else if(selectCurrency.value === 'yuan'){
         valueConverter = inputValue.value / 0.70;
         resultado.innerHTML = formatarvalor('zh', 'CNY') //¥
 

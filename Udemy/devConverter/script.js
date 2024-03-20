@@ -34,7 +34,7 @@ function converter(){ //valore de março de 2024
         animateResult() //para chamar a função de baixo
     }else if(selectCurrency.value === 'peso'){
         valueConverter = inputValue.value / 0.0059;
-        resultado.innerHTML = formatarvalor('en-US', 'DOP') //$
+        resultado.innerHTML = formatarvalor('en-US', 'USD') //$
 
         animateResult() //para chamar a função de baixo
     }else if(selectCurrency.value === 'libra'){
@@ -65,7 +65,7 @@ function formatarvalor(Locate, currency){
 
 function animateResult(){
     return resultado.animate([ 
-        {transform: 'translateY(-80px)'}, //animação p descer
-        {transform: 'translateY(0px)'}, 
+        {transform: 'translateY(-50px)'}, //animação p descer
+        {transform: 'translateY(-10px)'}, 
     ],  {duration: 1000}); //duração em segundos
 }

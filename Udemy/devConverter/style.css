@@ -80,7 +80,7 @@ button:hover{
 
 
 #formulario{
-    margin: 50px;
+    margin-top: 90px;
 }
 .inputs_conteiners{
     display: flex;
@@ -95,7 +95,7 @@ button:hover{
 #resultado{
     font-size: 3.5em;
     color: #5ab48d;
-    margin-bottom: 50px;
+    margin: 50px;
 }
 #resultado span{
     font-size: 0.6em;
@@ -108,4 +108,6 @@ footer{
     color: white;
     background-color: #5ab48d;
     padding: 12px;
+    position: fixed;
+    width: 100%;
 }

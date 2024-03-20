@@ -44,6 +44,7 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 12 Projeto Cordel</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio14/tabela.html" target="_blank">Executar o Desafio 14 Tabela</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio15/Tela_de_login.html" target="_blank">Executar o Desafio 15 Tela de login</a>
+* <a href="https://larytgs.github.io//HTML-CSS/Udemy/devConverter/index.html" target="_blank">Executar exercicio da Udemy - Converter de moedas</a>
 
 ## **Repositório dos meus Exercicios:**
 
@@ -107,4 +108,3 @@
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq003/index.html" target="_blank">Executar o exercicio 021c - Media_Queries3</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq004/index.html" target="_blank">Executar o exercicio 021c - Media_Queries.Guanabara4</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios/Ex0021_Media_Queries/mq005/index.html" target="_blank">Executar o exercicio 021c - Media_Queries5</a>
-* <a href="https://larytgs.github.io//HTML-CSS/Udemy/devConverter/index.html" target="_blank">Udemy - Converter de moedas</a>

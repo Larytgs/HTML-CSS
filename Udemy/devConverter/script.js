@@ -1,9 +1,9 @@
-var form = document.getElementById('formulario');
+const form = document.getElementById('formulario');
     form.addEventListener('submit', prevenção) //adicionar um tipo de evento ao clicar em converter
     
-var inputValue = document.getElementById('valor-real');
-var selectCurrency = document.getElementById('currency');
-var resultado = document.getElementById('resultado');
+const inputValue = document.getElementById('valor-real');
+const selectCurrency = document.getElementById('currency');
+const resultado = document.getElementById('resultado');
 let valueConverter = 0;
 
 function prevenção(e){

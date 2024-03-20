@@ -80,6 +80,20 @@ main p{
 #texto{
     margin-bottom: 5%;
 }
+#links a{
+    text-decoration: none;
+    font-size: 1.3em;
+    color: #E44D26;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    background-color: #FAEBD7;
+    cursor: pointer;
+}
+#links a:hover{
+    color: #285CEC;
+    box-shadow: inset 2px 2px  #e44c266c;
+}
 #tecno div{
     font-size: 1em;
 }

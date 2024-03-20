@@ -70,9 +70,9 @@ button{
     font-size: 1.2em;
     font-weight: 500;
     cursor: pointer;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
-button:hover{
+button:active{ /*quando clicar*/
     background-color: white;
     color: black;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.452);
@@ -97,8 +97,7 @@ button:hover{
 #resultado{
     font-size: 3.5em;
     color: #5ab48d;
-    margin: 50px;
-    margin-bottom: 0px;
+    margin-bottom: 50px;
 }
 #resultado span{
     font-size: 0.6em;
@@ -110,8 +109,8 @@ footer{
     text-align: center;
     color: white;
     background-color: #5ab48d;
-    padding: 20px;
-    margin-top: 50px;
+    padding: 15px;
+    margin: 14px;
     position: fixed;
     width: 100%;
 }

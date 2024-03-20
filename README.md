@@ -38,7 +38,6 @@
 
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex01.html" target="_blank">Executar o Desafio 5 exercicio: das redes sociais</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio5/ex02.html" target="_blank">Executar o Desafio 5 exercicio: tradução das tags</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio8/index.html" target="_blank">Executar o Desafio 8 exercicio: de links</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio9/index.html" target="_blank">Executar o Desafio 9 exercicio: de videos</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Desafios/Desafio10/oficial.html" target="_blank">Executar o Desafio 10 Projeto Indroid</a>
@@ -50,6 +49,7 @@
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex001_teste/index.html" target="_blank">Executar o exercicio 001a - teste</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex002_simbolos_e_emojis/index.html">Executar o exercicio 002a - simbolos e emojis</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios/ex02.html" target="_blank">Tradução das tags</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex003_colocando_imagens/index.html" target="_blank">Executar o exercicio 003a - colocando imagens</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex004_icones/index.html" target="_blank">Executar o exercicio 004a - icones</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios/Ex005_hierarquia_de_titulos/index.html" target="_blank">Executar o exercicio 005a - hierarquia de titulos</a>

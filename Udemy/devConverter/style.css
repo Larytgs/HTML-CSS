@@ -70,12 +70,14 @@ button{
     font-size: 1.2em;
     font-weight: 500;
     cursor: pointer;
+    margin-bottom: 40px;
 }
 button:hover{
     background-color: white;
     color: black;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.452);
     font-weight: 800;
+    margin-bottom: 0px;
 }
 
 
@@ -96,18 +98,20 @@ button:hover{
     font-size: 3.5em;
     color: #5ab48d;
     margin: 50px;
+    margin-bottom: 0px;
 }
 #resultado span{
     font-size: 0.6em;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 footer{
     text-align: center;
     color: white;
     background-color: #5ab48d;
-    padding: 12px;
+    padding: 20px;
+    margin-top: 50px;
     position: fixed;
     width: 100%;
 }
@@ -120,6 +124,13 @@ footer{
         background-color: #5ab48d;
         padding: 10px;
     }
+    form{
+        font-size: 1.2em;
+    }
+    input, select, button{
+        font-size: 1em;
+    }
+
     #formulario{
         margin-top: 35px;
     }
@@ -138,10 +149,27 @@ footer{
     }
 
     #resultado{
-        font-size: 2em;
+        font-size: 1.9em;
         color: #5ab48d;
-        margin: 50px;
+        margin-top: 30px;
+    }
+    button{
+        font-size: 1em;
+        font-weight: 500;
+        margin-bottom: 40px;
+    }
+    button:hover{
+        margin-bottom: 0px;
     }
     
+    footer{
+        text-align: center;
+        color: white;
+        background-color: #5ab48d;
+        padding: 12px;
+        margin-top: 30px;
+        position: fixed;
+        width: 100%;
+    }
     
 }

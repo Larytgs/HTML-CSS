@@ -28,7 +28,7 @@ header{
     cursor: pointer;
     color: white;
     background-color: #5ab48d;
-    padding: 12px;
+    padding: 25px;
 }
 
 main{
@@ -80,7 +80,7 @@ button:hover{
 
 
 #formulario{
-    margin-top: 90px;
+    margin-top: 60px;
 }
 .inputs_conteiners{
     display: flex;
@@ -110,4 +110,22 @@ footer{
     padding: 12px;
     position: fixed;
     width: 100%;
+}
+
+@media (max-width: 750px){
+    .form-group{
+        width: 700px;
+
+        display: flex;
+        flex-direction: column; /*deixar a coluna em baixo*/
+    }
+    main p{
+        width: 100%;
+        font-size: 1.2em;
+        text-align: center;
+    }
+
+      
+    
+    
 }

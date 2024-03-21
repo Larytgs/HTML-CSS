@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMC</title>
+</head>
+<body>
+    <h1>Calculando o seu IMC</h1>
+    <p>
+        <label for="alt">Altura:</label>
+        <input type="number" name="alt" id="alt" placeholder="Qual a sua altura?">
+        
+        <label for="peso">Peso:</label>
+        <input type="number" name="peso" id="peso" placeholder="Qual o seu peso?">
+        
+        <input type="button" value="calcular" onclick="imc()">
+    </p>
+    <div id="resultado">
+        --Seu IMC é de...
+    </div>
+</body>
+</html>
+<script>
+    function imc(){
+        let peso = document.getElementById('peso')
+        let altura = document.getElementById('alt')
+        let res = document.getElementById('resultado')
+        
+        let n1 = Number(peso.value) //conversao de numero
+        let n2 = Number(altura.value) //se nao, nao funciona
+        s = n1 + n2
+        
+        soma = n1 / (n2 * n2)
+        res.innerHTML = `Seu IMC é de ${soma}` 
+        
+    }
+    
+</script>

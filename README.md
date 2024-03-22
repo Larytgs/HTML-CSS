@@ -85,6 +85,6 @@
 
 ## **Exercicios da Udemy:**
 
-* <a href="https://larytgs.github.io//HTML-CSS/Udemy/devConverter/index.html" target="_blank">Executar exercicio da Udemy - Converter de moedas</a>
+* <a href="https://larytgs.github.io//HTML-CSS/Udemy/devConverter/index.html" target="_blank">Executar exercicio da Udemy - Conversor de moedas</a>
 * <a href="https://larytgs.github.io//HTML-CSS/Udemy/exerciciosSimples/imc.html" target="_blank">Executar exercicio da Udemy - IMC</a>
 

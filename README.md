@@ -24,7 +24,7 @@
 
 <p><img align="right" src="imagens/minhafotomenor.png"></p>
 
-# Curso de HTML5 e CSS3 
+# Curso de HTML5 CSS3 e JAvaScript
 
 <p id= 'paragrafo'>
     Estou aprendendo a usar o repositório no Github.

@@ -8,7 +8,7 @@
         columns: 2; 
         border: 3px dotted black; 
         margin: 10px;
-        background-color: aquamarine;
+        background-color: #7fffd47a;
         padding: 10px;
         list-style-position: inside;
     }

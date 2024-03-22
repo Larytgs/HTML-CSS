@@ -4,33 +4,87 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Switch</title>
+    <style>
+        body{
+            min-height: 100vh;
+            background-color: rgba(146, 36, 36, 0.507);
+            text-align: center;
+        }
+        header{
+            margin: 20px;
+            padding: 10px;
+        }
+        main{
+            background-color: rgba(165, 42, 42, 0.61);
+            color: aliceblue;
+            width: 500px;
+            display: inline-block;
+            padding: 30px;
+            padding-top: 50px;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <h1>Loja de descontos</h1>
+        <h1>Loja de descontos $$$</h1>
     </header>
     <main>
         <section>
             <label for="valor">Valor da compra:</label>
-            <input type="number" name="valor" id="tot" placeholder="       Informe o valor total">
+            <input type="number" name="valor" id="total" placeholder="       Informe o valor total">
         </section>
         <br>
-        <section>
-            <label for="codigo">Digite seu codigo:</label>
-            <input type="number" name="codigo" id="codigo">
-            <ul>
-                <li>1 - para Cliente Comum
-                <li>2 - para Cliente VIP
-                <li>3 - para Funcionário
-            </ul>
-            
-        </section>
+        <form>
+            <section>
+                <label>Selecione seu codigo:</label>
+                <div id="codigo">
+                    <select>
+                        <option value="">Selecione...</option>
+                        <option value="1">1 - para Cliente Comum</option> <!--5% de desconto-->
+                        <option value="2">2 - para Cliente VIP</option> <!--15% de desconto-->
+                        <option value="3">3 - para Funcionário</option> <!--10% de desconto-->
+                    </select>
+                </div>
+            </section>
+            <br>
+            <button type="submit">Calcular</button>
+        </form>
+
+        <h2 id="resultado">Resultado..</h2>
     </main>
     <footer>
 
     </footer>
 </body>
 <script>
+    let compra = document.getElementById('total')
+    let cod = document.getElementById('codigo')
+    let result = document.getElementById('resultado')
+    desc = 0
 
+    let valor = Number(compra.value)
+
+    function prevenção(){
+        if (!compra.value || compra <= 0){
+            window.alert("Informe o valor Correto.")
+        }else if (cod.value == ''){
+            window.alert("Selecione um codigo para ver o desconto.")
+        }
+    }
+
+    switch(cod){
+        case 1:
+            desc = valor - (valor * 5 / 100)
+            console.log(`Desconto de 5%, valor total a ser pago: ${desc}`)
+            break
+        case 2:
+            desc = valor - (valor * 15 / 100)
+            console.log(`Desconto de 15%, valor total a ser pago: ${desc}`)
+            break
+        case 3:
+            desc = valor - (valor * 10 / 100)
+            console.log(`Desconto de 10%, valor total a ser pago: ${desc}`)
+            break
+    }
 </script>
 </html>

@@ -34,7 +34,7 @@
 ## **Portifólio**
 * <a href="https://larytgs.github.io/HTML-CSS/Udemy/portifolio/index.html" target="_blank">Executar o Portifólio</a>
 
-## **Repositório dos meus Desafios com o Curso em Video:**
+## **Repositório dos meus Desafios:**
 
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio5/ex01.html" target="_blank">Executar o Desafio 5 exercicio: das redes sociais</a>
@@ -46,7 +46,7 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio15/Tela_de_login.html" target="_blank">Executar o Desafio 15 Tela de login</a>
 * <a href="https://larytgs.github.io//HTML-CSS/Udemy/devConverter/index.html" target="_blank">Executar exercicio da Udemy - Converter de moedas</a>
 
-## **Repositório dos meus Exercicios:**
+## **Repositório dos meus Exercicios com o Curso em Video::**
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex001_teste/index.html" target="_blank">Executar o exercicio 001a - teste</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex002_simbolos_e_emojis/index.html">Executar o exercicio 002a - simbolos e emojis</a>

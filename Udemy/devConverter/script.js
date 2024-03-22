@@ -26,7 +26,6 @@ function converter(){ //valore de março de 2024
         resultado.innerHTML = formatarvalor('pt-BR', 'EUR') //€
 
         animateResult(); //para chamar a função de baixo
-        
     }else if(selectCurrency.value === 'dolar'){
         valueConverter = inputValue.value / 5.01;
         resultado.innerHTML = formatarvalor('en-US', 'USD') //$

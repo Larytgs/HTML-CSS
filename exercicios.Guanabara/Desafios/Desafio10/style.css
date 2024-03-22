@@ -180,7 +180,7 @@
             border-radius: 10px 10px 0px 0px;
         }
         aside > ul{
-            list-style-position: inside;
+            list-style-position: inside; /*deixar a lista organizada*/
             list-style-type: '\2714\00a0\00a0';
             columns: 2;
         } 

@@ -48,7 +48,8 @@
 
 ## **Repositório de uns dos meus Exercicios com o Curso em Video:**
 
-<!--* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex001_teste/index.html" target="_blank">Executar o exercicio 001a - teste</a>
+<!--
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex001_teste/index.html" target="_blank">Executar o exercicio 001a - teste</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex002_simbolos_e_emojis/index.html">Executar o exercicio 002a - simbolos e emojis</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex02.html" target="_blank">Tradução das tags</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex003_colocando_imagens/index.html" target="_blank">Executar o exercicio 003a - colocando imagens</a>
@@ -57,12 +58,14 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex006_html4_html5/html4.html" target="_blank">Executar o exercicio 006a - html4</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex006_html4_html5/html5.html" target="_blank">Executar o exercicio 006b - html5</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex007_negrito_e_italico/index.html" target="_blank">Executar o exercicio 007a - negrito e italico</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex008_formataçoes_adicionias/index.html" target="_blank">Executar o exercicio 008a - formataçoes adicionias</a>-->
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex008_formataçoes_adicionias/index.html" target="_blank">Executar o exercicio 008a - formataçoes adicionias</a>
+-->
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex008b_citações_E_Códigos/index.html" target="_blank">Executar o exercicio 008b - citações e Códigos</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex009_listas_OL-UL/index.html" target="_blank">Executar o exercicio 009a - listas OL-UL</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0010_imagens_dinamica_e_audios/index.html" target="_blank">Executar o exercicio 010a - imagens dinamica e audios</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0011_videos/index.html" target="_blank">Executar o exercicio 011a - videos</a>
-<!--* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0012a_Inline/index.html" target="_blank">Executar o exercicio 012a - Inline</a>
+<!--
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0012a_Inline/index.html" target="_blank">Executar o exercicio 012a - Inline</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0012b_CSS_Interno-Locais/index.html" target="_blank">Executar o exercicio 012b - CSS Interno-Locais</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0012c_CSS_Externo/index.html" target="_blank">Executar o exercicio 012c - CSS Externo</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0013_psicologia_das_cores/cor01.html" target="_blank">Executar o exercicio 013a - psicologia das cores - cor 1</a>
@@ -72,7 +75,8 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0014a_fonte_em_CSS/peso-estilo.html" target="_blank">Executar o exercicio 014c - peso-estilo</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0014b_alinhamento_e_fonte_externa/alinhamento.html" target="_blank">Executar o exercicio 014d - alinhamento</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0014b_alinhamento_e_fonte_externa/fonte-externa.html" target="_blank">Executar o exercicio 014e - fonte externa</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0014b_alinhamento_e_fonte_externa/google-font.html" target="_blank">Executar o exercicio 014f - google-font</a>-->
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0014b_alinhamento_e_fonte_externa/google-font.html" target="_blank">Executar o exercicio 014f - google-font</a>
+-->
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0015_seletor_personalisado/seletor01.html" target="_blank">Executar o exercicio 015a - seletor personalisado</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0015b_Pseudo-classe_no_CSS/hover.html" target="_blank">Executar o exercicio 015b - Pseudo-classe no CSS-hover</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0015b_Pseudo-classe_no_CSS/links.html" target="_blank">Executar o exercicio 015c - Pseudo-classe no CSS-links</a>
@@ -94,19 +98,26 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0019_iframe/iframe01.html" target="_blank">Executar o exercicio 019a - Iframe1</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0019_iframe/iframe02.html" target="_blank">Executar o exercicio 019b - Iframe2</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0019_iframe/iframe03.html" target="_blank">Executar o exercicio 019c - Iframe3</a>
-<!--* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario01.html" target="_blank">Executar o exercicio 020a - Meu primeiro formulario</a>
+<!--
+* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario01.html" target="_blank">Executar o exercicio 020a - Meu primeiro formulario</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario02.html" target="_blank">Executar o exercicio 020b - Formulario 1</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario03.html" target="_blank">Executar o exercicio 020c - Formulario 2</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario04.html" target="_blank">Executar o exercicio 020d - Formulario 3</a>
-* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario05.html" target="_blank">Executar o exercicio 020e - Formulario 4</a>-->
+* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario05.html" target="_blank">Executar o exercicio 020e - Formulario 4</a>
+-->
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario06.html" target="_blank">Executar o exercicio 020f - Formulario 1</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario07.html" target="_blank">Executar o exercicio 020g - Formulario 2</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario08.html" target="_blank">Executar o exercicio 020h - Formulario 3</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario09.html" target="_blank">Executar o exercicio 020i - Formulario 4</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq001/index.html" target="_blank">Executar o exercicio 021a - Media_Queries1</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq002/index.html" target="_blank">Executar o exercicio 021b - Media_Queries2</a>
-<!--* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq003/index.html" target="_blank">Executar o exercicio 021c - Media_Queries3</a>-->
+<!--
+* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq003/index.html" target="_blank">Executar o exercicio 021c - Media_Queries3</a>
+-->
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq004/index.html" target="_blank">Executar o exercicio 021c - Media_Queries.Guanabara4</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq005/index.html" target="_blank">Executar o exercicio 021c - Media_Queries5</a>
 
 ## **Repositório dos meus Exercicios com a Udemy:**
+
+* <a href="https://larytgs.github.io//HTML-CSS/Udemy/exerciciosSimples/array.js" target="_blank">Executar exercicio da Udemy - Array</a>
+* <a href="https://larytgs.github.io//HTML-CSS/Udemy/exerciciosSimples/imc.html" target="_blank">Executar exercicio da Udemy - IMC</a>

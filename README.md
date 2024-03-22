@@ -34,7 +34,7 @@
 ## **Portifólio**
 * <a href="https://larytgs.github.io/HTML-CSS/Udemy/portifolio/index.html" target="_blank">Executar o Portifólio</a>
 
-## **Repositório dos meus Desafios:**
+## **Repositório dos meus Desafios com o Curso em Video:**
 
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio5/ex01.html" target="_blank">Executar o Desafio 5 exercicio: das redes sociais</a>

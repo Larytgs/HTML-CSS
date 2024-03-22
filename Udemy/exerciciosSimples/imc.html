@@ -4,6 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IMC</title>
+    <style>
+        body{
+            background-color: rgb(19, 61, 47);
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+            color: aquamarine;
+        }
+        h1{
+            font-size: 2em;
+            font-weight: 800;
+            margin: 10px;
+            margin-top: 100px;
+            padding: 10px;
+        }
+        label{
+            font-size: 1.2em;
+            font-weight: bold;
+            color: aliceblue;
+            padding-left: 20px;
+        }
+        input button{
+            background-color: aquamarine;
+        }
+        #resultado{
+            font-size: 1.4em;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
     <h1>Calculando o seu IMC</h1>
@@ -17,7 +45,7 @@
         <input type="button" value="calcular" onclick="imc()">
     </p>
     <div id="resultado">
-        --Seu IMC é de...
+        Seu IMC é de...
     </div>
 </body>
 </html>
@@ -29,10 +57,21 @@
         
         let n1 = Number(peso.value) //conversao de numero
         let n2 = Number(altura.value) //se nao, nao funciona
-        s = n1 + n2
         
         soma = n1 / (n2 * n2)
-        res.innerHTML = `Seu IMC é de ${soma}` 
+        res.innerHTML = `Seu IMC é de ${soma} <br><br>` 
+
+        if (soma < 18.5){
+            res.innerHTML += `Voce esta Abaixo do Peso normal`
+        }else if(soma > 18.5 && soma <= 25){
+            res.innerHTML += `Voce esta com o Peso Ideal`
+        }else if(soma > 25 && soma <= 30){
+            res.innerHTML += `Voce esta Sobrepeso`
+        }else if(soma > 30 && soma <= 40){
+            res.innerHTML += `Voce esta com Obesidade`
+        }else{
+            res.innerHTML += `Voce com Obesidade Mórbida`
+        }     
         
     }
     

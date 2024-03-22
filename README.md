@@ -2,12 +2,13 @@
 <style>
     body{
         font-size:10vw;
+
     }
     ul{
         columns: 2; 
         border: 3px dotted black; 
         margin: 10px;
-        background-color: #FDCFFF;
+        background-color: aquamarine;
         padding: 10px;
         list-style-position: inside;
     }

@@ -31,8 +31,6 @@
     Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.
 </p>
 
-## **Portifólio**
-* <a href="https://larytgs.github.io/HTML-CSS/Udemy/portifolio/index.html" target="_blank">Executar o Portifólio</a>
 
 ## **Repositório dos meus Desafios do Curso em Video:**
 
@@ -84,3 +82,7 @@
 
 * <a href="https://larytgs.github.io//HTML-CSS/Udemy/devConverter/index.html" target="_blank">Executar exercicio da Udemy - Converter de moedas</a>
 * <a href="https://larytgs.github.io//HTML-CSS/Udemy/exerciciosSimples/imc.html" target="_blank">Executar exercicio da Udemy - IMC</a>
+
+## **Repositório dos meus Desafios do Curso em Video:**
+
+* <a href="https://larytgs.github.io/HTML-CSS/Udemy/portifolio/index.html" target="_blank">Executar o Portifólio</a>

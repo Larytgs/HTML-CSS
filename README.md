@@ -27,8 +27,8 @@
 # Repositório dos meus Cursos de HTML5 CSS3 e JavaScript
 
 <p id= 'paragrafo'>
-    Estou aprendendo a usar o repositório no Github.
-    Durante as aulas de HTML5 e CSS3, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias.
+    Olá, me chamo Laryssa (ou Lary😜), tenho 25 anos e sou de Curitiba. Sou graduada em Análises e desenvolvimento de sistemas, estudo programação desde 2020, com ênfase em desenvolvimento web.
+    Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente sobre JavaScript, para crescimento profissional e desenvolvimento de minhas habilidades.
 </p>
 
 

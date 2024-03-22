@@ -24,7 +24,7 @@
 
 <p><img align="right" src="imagens/minhafotomenor.png"></p>
 
-# Curso de HTML5 CSS3 e JavaScript
+# Repositório dos meus Cursos de HTML5 CSS3 e JavaScript
 
 <p id= 'paragrafo'>
     Estou aprendendo a usar o repositório no Github.
@@ -32,8 +32,7 @@
 </p>
 
 
-## **Repositório dos meus Desafios do Curso em Video:**
-
+## **Desafios do Curso em Video:**
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio5/ex01.html" target="_blank">Executar o Desafio 5 exercicio: das redes sociais</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio8/index.html" target="_blank">Executar o Desafio 8 exercicio: de links</a>
@@ -43,7 +42,7 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio14/tabela.html" target="_blank">Executar o Desafio 14 Tabela</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio15/Tela_de_login.html" target="_blank">Executar o Desafio 15 Tela de login</a>
 
-## **Repositório de uns dos meus Exercicios do Curso em Video:**
+## **Uns dos meus Exercicios do Curso em Video:**
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex008b_citações_E_Códigos/index.html" target="_blank">Executar o exercicio - citações e Códigos</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex009_listas_OL-UL/index.html" target="_blank">Executar o exercicio - listas OL-UL</a>
@@ -78,11 +77,13 @@
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq004/index.html" target="_blank">Executar o exercicio - Media_Queries.Guanabara4</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq005/index.html" target="_blank">Executar o exercicio - Media_Queries5</a>
 
-## **Repositório dos meus Exercicios da Udemy:**
+
+## **Desafios do Curso em Video:**
+
+* <a href="https://larytgs.github.io/HTML-CSS/Udemy/portifolio/index.html" target="_blank">Executar o Portifólio</a>
+
+## **Exercicios da Udemy:**
 
 * <a href="https://larytgs.github.io//HTML-CSS/Udemy/devConverter/index.html" target="_blank">Executar exercicio da Udemy - Converter de moedas</a>
 * <a href="https://larytgs.github.io//HTML-CSS/Udemy/exerciciosSimples/imc.html" target="_blank">Executar exercicio da Udemy - IMC</a>
 
-## **Repositório dos meus Desafios do Curso em Video:**
-
-* <a href="https://larytgs.github.io/HTML-CSS/Udemy/portifolio/index.html" target="_blank">Executar o Portifólio</a>

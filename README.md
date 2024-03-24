@@ -79,9 +79,10 @@
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq005/index.html" target="_blank">Executar o exercicio - Media_Queries5</a>
 
 
-## **Desafios do Curso em Video:**
+## **Desafios da Udemy:**
 
 * <a href="https://larytgs.github.io/HTML-CSS/Udemy/portifolio/index.html" target="_blank">Executar o Portifólio</a>
+* <a href="https://larytgs.github.io//HTML-CSS/Udemy/exerciciosSimples/switch.html" target="_blank">Executar Desafio - Switch case</a>
 
 ## **Exercicios da Udemy:**
 

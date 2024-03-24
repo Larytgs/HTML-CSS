@@ -18,11 +18,22 @@
             margin-top: 100px;
             padding: 10px;
         }
+        main{
+            background-color: rgba(34, 99, 77, 0.527);
+            width: 600px;
+            display: inline-block;
+            padding: 20px;
+            padding-bottom: 20px;
+            border: 5px dotted rgb(19, 61, 47);
+        }
         label{
             font-size: 1.3em;
             font-weight: bold;
             color: aliceblue;
             padding-left: 20px;
+            padding: 10px;
+
+            display: block;
         }
         input button{
             background-color: aquamarine;
@@ -30,23 +41,26 @@
         #resultado{
             font-size: 1.4em;
             font-weight: bold;
+            padding: 10px;
         }
     </style>
 </head>
 <body>
     <h1>Calculando o seu IMC</h1>
-    <p>
-        <label for="alt">Altura:</label>
-        <input type="number" name="alt" id="alt" placeholder="Qual a sua altura?">
-        
-        <label for="peso">Peso:</label>
-        <input type="number" name="peso" id="peso" placeholder="Qual o seu peso?">
-        
-        <input type="button" value="calcular" onclick="imc()">
-    </p>
-    <div id="resultado">
-        Seu IMC é de...
-    </div>
+    <main>
+        <div>
+            <label for="alt">Altura:</label>
+            <input type="number" name="alt" id="alt" placeholder="Qual a sua altura?">
+            
+            <label for="peso">Peso:</label>
+            <input type="number" name="peso" id="peso" placeholder="Qual o seu peso?">
+            
+            <input type="button" value="calcular" onclick="imc()">
+        </div>
+        <div id="resultado">
+            Seu IMC é de...
+        </div>
+    </main>
 </body>
 </html>
 <script>

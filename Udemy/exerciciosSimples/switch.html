@@ -93,7 +93,7 @@
             <section>
                 <label>Selecione seu codigo:</label>
                 <div>
-                    <select id="codigo">
+                    <select id="codigo" >
                         <option value="">Selecione...</option>
                         <option value="0">1 - para Cliente Comum</option> <!--5% de desconto-->
                         <option value="1">2 - para Cliente VIP</option> <!--15% de desconto-->
@@ -122,7 +122,8 @@
     let result = document.getElementById('resultado')
     
     let desc
-    let opc = c.selectedIndex.value
+    let opc = c//.options[c.selectedIndex].value;
+
 
     function prevenção(e){
         e.preventDefault() //para nao atualizar a pagina automaticamente

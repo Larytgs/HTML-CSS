@@ -6,12 +6,12 @@
     <title>Switch</title>
     <style>
         body{
-            min-height: 100vh;
+            min-height: 90vh;
             background-color: rgba(146, 36, 36, 0.507);
             text-align: center;
         }
         header{
-            margin: 20px;
+            margin: 15px;
             padding: 10px;
         }
         main{
@@ -20,11 +20,21 @@
             width: 500px;
             display: inline-block;
             padding: 30px;
-            padding-top: 50px;
+            padding-top: 30px;
             border: 5px dotted rgb(204, 102, 102);
+        }
+        h1{
+            font-size: 2em;
+        }
+        label{
+            font-size: 1.4em;
+        }
+        #total{
+            padding: 5px;
         }
         #codigo{
             padding: 10px;
+            margin-top: 5px;
         }
         #resultado{
             font-size: 2em;
@@ -32,7 +42,7 @@
         }
         button{
             padding: 15px;
-            background-color: rgb(204, 102, 102);
+            background-color: rgb(235, 140, 140);
             color: aliceblue;
             border: 3px dotted brown;
             cursor: pointer;
@@ -46,11 +56,12 @@
 <body>
     <header>
         <h1>Loja de descontos $$$</h1>
+        <p style="color: red;">(Ainda esta dando erro)</p>
     </header>
     <main>
         <section>
             <label>Valor da compra:</label>
-            <input type="number" name="totaç" id="total" 
+            <input type="number" name="total" id="total" 
             placeholder="       Informe o valor total">
         </section>
         <br>
@@ -60,9 +71,9 @@
                 <div>
                     <select id="codigo">
                         <option value="">Selecione...</option>
-                        <option value="1">1 - para Cliente Comum</option> <!--5% de desconto-->
-                        <option value="2">2 - para Cliente VIP</option> <!--15% de desconto-->
-                        <option value="3">3 - para Funcionário</option> <!--10% de desconto-->
+                        <option value="5%">1 - para Cliente Comum</option> <!--5% de desconto-->
+                        <option value="15%">2 - para Cliente VIP</option> <!--15% de desconto-->
+                        <option value="10%">3 - para Funcionário</option> <!--10% de desconto-->
                     </select>
                 </div>
             </section>
@@ -72,23 +83,21 @@
 
         <h2 id="resultado">Resultado..</h2>
     </main>
-    <footer>
-
-    </footer>
 </body>
+
 <script>
     const form = document.getElementById('formulario');
     form.addEventListener('submit', prevenção) //adicionar um tipo de evento ao clicar em converter
 
     let tot = document.getElementById('total')
-    let total = Number(tot.value)
+    let t = Number(tot.value)
 
     let cod = document.getElementById('codigo')
-    let codigo = Number(cod.value)
+    let c = Number(cod.value)
 
     let result = document.getElementById('resultado')
     
-    let opçao = cod.selectedIndex
+    let desc 
 
     function prevenção(e){
         e.preventDefault() //para nao atualizar a pagina automaticamente
@@ -104,20 +113,17 @@
     }
 
     function calcular(){
-        switch(cod){
-            case 1:
-                opçao == '1 - para Cliente Comum'
-                var desc = total - (total * 5 / 100)
+        switch(c){
+            case 0:
+                desc = tot.value - (tot.value * 5 / 100)
                 result.innerHTML = `Desconto de 5%, valor total a ser pago: ${desc}`
                 break
-            case 2:
-                opçao == '2 - para Cliente VIP'
-                var desc = total - (total * 15 / 100)
+            case 1:
+                desc = tot.value - (tot.value * 15 / 100)
                 result.innerHTML = `Desconto de 15%, valor total a ser pago: ${desc}`
                 break
-            case 3:
-                opçao == '3 - para Funcionário'
-                var desc = total - (total * 10 / 100)
+            case 2:
+                desc = tot.value - (tot.value * 10 / 100)
                 result.innerHTML = `Desconto de 10%, valor total a ser pago: ${desc}`
                 break
 

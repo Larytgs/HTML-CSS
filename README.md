@@ -78,6 +78,6 @@
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq004/index.html" target="_blank">Executar o exercicio - Media_Queries.Guanabara4</a>
 * <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq005/index.html" target="_blank">Executar o exercicio - Media_Queries5</a>
 
-## *Veja meus exercicios e desafios da plataforma UDemy, no site abaixo:*
+# *Veja meus exercicios e desafios da plataforma Udemy, no site abaixo:*
 
  <a href="https://larytgs.github.io/JavaScript" targer="_blank">JavaScript Udemy</a>

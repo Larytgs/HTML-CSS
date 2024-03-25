@@ -81,11 +81,11 @@
 
 ## **Desafios da Udemy:**
 
-* <a href="https://larytgs.github.io/HTML-CSS/Udemy/portifolio/index.html" target="_blank">Executar o Portifólio</a>
-* <a href="https://larytgs.github.io//HTML-CSS/Udemy/exerciciosSimples/switch.html" target="_blank">Executar Desafio - Switch case</a>
+* <a href="https://larytgs.github.io/JavaScript/Udemy/portifolio/index.html" target="_blank">Executar o Portifólio</a>
+* <a href="https://larytgs.github.io//JavaScript/Udemy/exerciciosSimples/switch.html" target="_blank">Executar Desafio - Switch case</a>
 
 ## **Exercicios da Udemy:**
 
-* <a href="https://larytgs.github.io//HTML-CSS/Udemy/devConverter/index.html" target="_blank">Executar exercicio da Udemy - Conversor de moedas</a>
-* <a href="https://larytgs.github.io//HTML-CSS/Udemy/exerciciosSimples/imc.html" target="_blank">Executar exercicio da Udemy - IMC</a>
+* <a href="https://larytgs.github.io//JavaScript/Udemy/devConverter/index.html" target="_blank">Executar exercicio da Udemy - Conversor de moedas</a>
+* <a href="https://larytgs.github.io//JavaScript/Udemy/exerciciosSimples/imc.html" target="_blank">Executar exercicio da Udemy - IMC</a>
 

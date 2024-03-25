@@ -94,10 +94,10 @@
                 <label>Selecione seu codigo:</label>
                 <div>
                     <select id="codigo" >
-                        <option value="">Selecione...</option>
-                        <option value="0">1 - para Cliente Comum</option> <!--5% de desconto-->
-                        <option value="1">2 - para Cliente VIP</option> <!--15% de desconto-->
-                        <option value="2">3 - para Funcionário</option> <!--10% de desconto-->
+                        <option value="0">Selecione...</option>
+                        <option value="1">1 - para Cliente Comum</option> <!--5% de desconto-->
+                        <option value="2">2 - para Cliente VIP</option> <!--15% de desconto-->
+                        <option value="3">3 - para Funcionário</option> <!--10% de desconto-->
                     </select>
                 </div>
             </section>
@@ -122,13 +122,13 @@
     let result = document.getElementById('resultado')
     
     let desc
-    let opc = c//.options[c.selectedIndex].value;
+    let opc = c.value//.options[c.selectedIndex].value;
 
 
     function prevenção(e){
         e.preventDefault() //para nao atualizar a pagina automaticamente
 
-        if (!tot.value || tot == 0){
+        if (!tot.value || tot <= 0){
             window.alert("Informe o valor Correto.")
             return
         }else if (cod.value == ''){
@@ -140,22 +140,22 @@
 
     function calcular(){
         switch(c){
-        case 0:
-            desc = tot.value - (tot.value * 5 / 100)
-            result.innerHTML = `Desconto de 5%, valor total a ser pago: ${desc}`
-            break
-        case 1:
-            desc = tot.value - (tot.value * 15 / 100)
-            result.innerHTML = `Desconto de 15%, valor total a ser pago: ${desc}`
-            break
-        case 2:
-            desc = tot.value - (tot.value * 10 / 100)
-            result.innerHTML = `Desconto de 10%, valor total a ser pago: ${desc}`
-            break
+            case 0:
+                desc = tot.value - (tot.value * 5 / 100)
+                result.innerHTML = `Desconto de 5%, valor total a ser pago: ${desc}`
+                break
+            case 1:
+                desc = tot.value - (tot.value * 15 / 100)
+                result.innerHTML = `Desconto de 15%, valor total a ser pago: ${desc}`
+                break
+            case 2:
+                desc = tot.value - (tot.value * 10 / 100)
+                result.innerHTML = `Desconto de 10%, valor total a ser pago: ${desc}`
+                break
 
-        default:
-            result.innerHTML = `Operação inválida`;
-        }
+            default:
+                result.innerHTML = `Operação inválida`;
+            }
     }
     
 </script>

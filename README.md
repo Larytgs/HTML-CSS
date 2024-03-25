@@ -81,7 +81,7 @@
 
 ## **Desafios da Udemy:**
 
-* <a href="https://larytgs.github.io//Documentos/JavaScript/Udemy/portifolio/index.html" target="_blank">Executar o Portifólio</a>
+* <a href="https://larytgs.github.io//JavaScript/Udemy/portifolio/index.html" target="_blank">Executar o Portifólio</a>
 * <a href="https://larytgs.github.io//JavaScript/Udemy/exerciciosSimples/switch.html" target="_blank">Executar Desafio - Switch case</a>
 
 ## **Exercicios da Udemy:**

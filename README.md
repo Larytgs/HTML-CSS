@@ -80,4 +80,4 @@
 
 ## *Veja meus exercicios e desafios da plataforma UDemy, no site abaixo:*
 
- * <a href="https://larytgs.github.io/JavaScript/">
+ * <a href="https://larytgs.github.io/JavaScript/" targer="_blank">JavaScript Udemy</a>

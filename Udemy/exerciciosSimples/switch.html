@@ -80,7 +80,6 @@
 <body>
     <header>
         <h1>Loja de descontos $$</h1>
-        <p style="color: red;">(Ainda esta dando erro)</p>
     </header>
     <main>
         <section>
@@ -116,14 +115,9 @@
     let tot = document.getElementById('total')
     let t = Number(tot.value)
 
-    let cod = document.getElementById('codigo')
-    let c = Number(cod.value)
-
     let result = document.getElementById('resultado')
     
     let desc
-    let opc = c.value//.options[c.selectedIndex].value;
-
 
     function prevenção(e){
         e.preventDefault() //para nao atualizar a pagina automaticamente
@@ -139,16 +133,19 @@
     }
 
     function calcular(){
+        let cod = document.getElementById('codigo')
+        let c = Number(cod.value)
+
         switch(c){
-            case 0:
+            case 1:
                 desc = tot.value - (tot.value * 5 / 100)
                 result.innerHTML = `Desconto de 5%, valor total a ser pago: ${desc}`
                 break
-            case 1:
+            case 2:
                 desc = tot.value - (tot.value * 15 / 100)
                 result.innerHTML = `Desconto de 15%, valor total a ser pago: ${desc}`
                 break
-            case 2:
+            case 3:
                 desc = tot.value - (tot.value * 10 / 100)
                 result.innerHTML = `Desconto de 10%, valor total a ser pago: ${desc}`
                 break

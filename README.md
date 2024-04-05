@@ -81,8 +81,8 @@
 
  ## **Meu resumo do conteúdo:**
 
+[Download do Resumo_de_HTML5_CSS3.docx](https://github.com/Larytgs/HTML-CSS/files/14891246/Resumo_de_HTML5_CSS3.docx) 
+
+ ## *Veja tambem, meus exercicios e desafios de JavaScript:*    
  
-
- ## *Veja meus exercicios e desafios de JavaScript, no site abaixo:*
-
  **<a href="https://larytgs.github.io/JavaScript" targer="_blank">JavaScript Udemy</a>**

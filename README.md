@@ -85,4 +85,4 @@
 
  ## *Veja tambem, meus exercicios e desafios de JavaScript:*    
  
- **<a href="https://larytgs.github.io/JavaScript" targer="_blank">JavaScript Udemy</a>**
+ **<a href="https://larytgs.github.io/JavaScript" targer="_blank">Link JavaScript</a>**

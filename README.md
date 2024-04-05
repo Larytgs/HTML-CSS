@@ -36,17 +36,16 @@
 ## **Desafios do Curso em Video:**
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio5/ex01.html" target="_blank">Executar o Desafio 5 exercicio: das redes sociais</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio8/index.html" target="_blank">Executar o Desafio 8 exercicio: de links</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio9/index.html" target="_blank">Executar o Desafio 9 exercicio: de videos</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio10/oficial.html" target="_blank">Executar o Desafio 10 Projeto Indroid</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 12 Projeto Cordel</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio14/tabela.html" target="_blank">Executar o Desafio 14 Tabela</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio15/Tela_de_login.html" target="_blank">Executar o Desafio 15 Tela de login</a>
 
 ## **Uns dos meus Exercicios do Curso em Video:**
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex008b_citações_E_Códigos/index.html" target="_blank">Executar o exercicio - citações e Códigos</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex009_listas_OL-UL/index.html" target="_blank">Executar o exercicio - listas OL-UL</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio8/index.html" target="_blank">Executar o exercicio - links</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0010_imagens_dinamica_e_audios/index.html" target="_blank">Executar o exercicio - imagens dinamica e audios</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0015_seletor_personalisado/seletor01.html" target="_blank">Executar o exercicio - seletor personalisado</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0015b_Pseudo-classe_no_CSS/hover.html" target="_blank">Executar o exercicio - Pseudo-classe no CSS-hover</a>
@@ -65,7 +64,8 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0018_tabelas/tabela2.html" target="_blank">Executar o exercicio - Tabela Grande</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0018_tabelas/tabela3.html" target="_blank">Executar o exercicio - Tabela com Mesclagem</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0018_tabelas/tabela4.html" target="_blank">Executar o exercicio - Tabela responsivas</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0018_tabelas/desafios.html" target="_blank">Executar o exercicio - Desafio de tabela</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0018_tabelas/desafios.html" target="_blank">Executar o exercicio - Desafio de tabela 1</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio14/tabela.html" target="_blank">Executar o exercicio - Desafio de tabela 2</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0019_iframe/iframe01.html" target="_blank">Executar o exercicio - Iframe1</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0019_iframe/iframe02.html" target="_blank">Executar o exercicio - Iframe2</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0019_iframe/iframe03.html" target="_blank">Executar o exercicio - Iframe3</a>

@@ -37,7 +37,7 @@
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio5/ex01.html" target="_blank">Executar o Desafio 5 exercicio: das redes sociais</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio9/index.html" target="_blank">Executar o Desafio 9 exercicio: de videos</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio10/oficial.html" target="_blank">Executar o Desafio 10 Projeto Indroid</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio10/projeto_indroid.html" target="_blank">Executar o Desafio 10 Projeto Indroid</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 12 Projeto Cordel</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio15/Tela_de_login.html" target="_blank">Executar o Desafio 15 Tela de login</a>
 

@@ -25,7 +25,7 @@
 
 <p><img align="right" src="imagens/minhafotomenor.png"></p>
 
-# Repositório dos meus Cursos de HTML5 CSS3 e JavaScripts
+# Repositório dos meus Cursos de HTML5 CSS3 e JavaScript
 
 <p id= 'paragrafo'>
     Olá, me chamo Laryssa (ou Lary😜), tenho 25 anos e sou de Curitiba. Sou graduada em Análises e desenvolvimento de sistemas, estudo programaçao desde 2020, com ênfase em desenvolvimento web.

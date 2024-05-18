@@ -17,20 +17,23 @@ header div{
     display: flex;
     flex-direction: column; /*img vai p baixo*/
 }
-header div h3{
-    padding: 10px;
+header div h2{
+    padding-bottom: 40px;
 }
 header div a{
     text-decoration: none;
 }
-header div img{
+header table img{
     width: 30px;
     height: 30px;
-    padding: 8.5px;
+    padding-bottom: 15px;
+}
+header td{
+    
 }
 
 #linha_vertical{
-    height: 500px;/*Altura da linha*/
+    height: 520px;/*Altura da linha*/
     border-left: 1px solid rgb(124, 123, 123);/* Adiciona borda direita na div como ser fosse uma linha.*/
     padding: 10px;
 }
@@ -40,12 +43,35 @@ main{
     max-width: 900px;
     text-align: center;
 }
-article{
-    display: block;
-    justify-content: space-between;
-    justify-content: center;
+section nav{
+    display: flex; /*para deixar em linha*/
+    align-items: center; /*alinhado do centro*/
 }
-article section nav a{
+section nav a{
     text-decoration: none;
     color: white;
+}
+section nav a p{
+    font-size: 0.8em;
+    margin-right: 10px;
+}
+
+section figure{
+    margin: 20px;
+}
+
+
+aside{
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+aside img{
+    width: 30px;
+    height: 30px;
+    padding: 8.5px;
+}
+aside p{
+    display: inline-block;
 }

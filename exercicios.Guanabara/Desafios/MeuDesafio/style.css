@@ -12,32 +12,40 @@ body{
 
 header{
     padding: 20px;
-    margin-bottom: 50px;
 }
 header div{
     display: flex;
-    flex-direction: column; /*img foi p baixo*/
-    justify-content: space-between; /*espaçamento igual*/
-    justify-content: left;
+    flex-direction: column; /*img vai p baixo*/
 }
 header div h3{
     padding: 10px;
-
+}
+header div a{
+    text-decoration: none;
 }
 header div img{
     width: 30px;
     height: 30px;
-    padding: 15px;
+    padding: 8.5px;
 }
-header figcaption{
-    display: flex; /*coloquei na lateral os icones*/
-    align-items: center; /*centralizar os icones*/
-    justify-content: space-between; /*espaçamento igual*/
-}
-
 
 #linha_vertical{
-    height: 295px;/*Altura da linha*/
-    border-right: 1px solid rgb(124, 123, 123);/* Adiciona borda direita na div como ser fosse uma linha.*/
+    height: 500px;/*Altura da linha*/
+    border-left: 1px solid rgb(124, 123, 123);/* Adiciona borda direita na div como ser fosse uma linha.*/
     padding: 10px;
+}
+
+main{
+    min-width: 300px;
+    max-width: 900px;
+    text-align: center;
+}
+article{
+    display: block;
+    justify-content: space-between;
+    justify-content: center;
+}
+article section nav a{
+    text-decoration: none;
+    color: white;
 }

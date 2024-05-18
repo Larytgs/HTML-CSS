@@ -13,12 +13,10 @@ body{
 header{
     padding: 20px;
 }
-header div{
-    display: flex;
-    flex-direction: column; /*img vai p baixo*/
-}
+
 header div h2{
     padding-bottom: 40px;
+    padding-left: 20px;
 }
 header div a{
     text-decoration: none;
@@ -26,22 +24,18 @@ header div a{
 header table img{
     width: 30px;
     height: 30px;
-    padding-bottom: 15px;
-}
-header td{
-    
+    padding: 8.5px;
 }
 
 #linha_vertical{
-    height: 520px;/*Altura da linha*/
+    height: 550px;/*Altura da linha*/
     border-left: 1px solid rgb(124, 123, 123);/* Adiciona borda direita na div como ser fosse uma linha.*/
-    padding: 10px;
+    padding:10px;
 }
 
 main{
     min-width: 300px;
     max-width: 900px;
-    text-align: center;
 }
 section nav{
     display: flex; /*para deixar em linha*/
@@ -50,28 +44,44 @@ section nav{
 section nav a{
     text-decoration: none;
     color: white;
+    padding-right: 20px;
+}
+section nav a img{
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    padding-left: 10px;
 }
 section nav a p{
     font-size: 0.8em;
     margin-right: 10px;
 }
 
-section figure{
-    margin: 20px;
+
+#fotoVideo{
+    margin: 30px;
+    text-align: center;
+}
+section div p{
+    display: inline;
+    padding: 10px;
+    text-align: left;
 }
 
 
-aside{
-    text-align: right;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+aside table tr td{
+    padding-right: 10px;
+}
+#meuperfil{
+    width: 60px;
+    height: 60px;
+    padding-bottom: 10px;
+}
+h5{
+    padding: 40px 30px;
 }
 aside img{
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
     padding: 8.5px;
-}
-aside p{
-    display: inline-block;
 }

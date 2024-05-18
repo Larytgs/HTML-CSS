@@ -23,9 +23,14 @@ header div{
 header div h3{
     padding: 10px;
 }
-header div p{
-    padding: 5px;
-    display: inline;
+header div img{
+    width: 30px;
+    height: 30px;
+    padding: 15px;
+}
+header p{
+    display: flex;
+    flex-direction: row;
 }
 
 #linha_vertical{

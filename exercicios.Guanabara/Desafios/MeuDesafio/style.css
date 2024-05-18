@@ -9,13 +9,27 @@ body{
     background-color: #000000e1;
     color: white;
 }
-header{
 
+header{
+    padding: 20px;
+    margin-bottom: 50px;
 }
-header abbr img{
+header div{
+    display: flex;
     flex-direction: column; /*img foi p baixo*/
     justify-content: space-between; /*espaçamento igual*/
-    align-items: center;
     justify-content: left;
-    text-align: left;
+}
+header div h3{
+    padding: 10px;
+}
+header div p{
+    padding: 5px;
+    display: inline;
+}
+
+#linha_vertical{
+    height: 295px;/*Altura da linha*/
+    border-right: 1px solid rgb(124, 123, 123);/* Adiciona borda direita na div como ser fosse uma linha.*/
+    padding: 10px;
 }

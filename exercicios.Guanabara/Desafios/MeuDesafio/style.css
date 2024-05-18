@@ -22,16 +22,19 @@ header div{
 }
 header div h3{
     padding: 10px;
+
 }
 header div img{
     width: 30px;
     height: 30px;
     padding: 15px;
 }
-header p{
-    display: flex;
-    flex-direction: row;
+header figcaption{
+    display: flex; /*coloquei na lateral os icones*/
+    align-items: center; /*centralizar os icones*/
+    justify-content: space-between; /*espaçamento igual*/
 }
+
 
 #linha_vertical{
     height: 295px;/*Altura da linha*/

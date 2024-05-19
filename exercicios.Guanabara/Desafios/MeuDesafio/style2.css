@@ -1,16 +1,27 @@
 @charset "UTF8";
 
+@font-face {
+    font-family: titulo;
+    src: url(fontes/josephsophia.otf);
+}
+
 *{
     margin: 0%;
     padding: 0%;
 }
 
+:root{
+    --colorinta:#ff226f;
+    --titulo: "titulo";                 
+}
+
 body{
-    background-color: #000000e1;
+    background-color: #000000;
     color: white;
 }
 
 header{
+    display: flex;
     padding: 20px;
 }
 header div nav{
@@ -18,69 +29,106 @@ header div nav{
     align-items: center; /*alinhado do centro*/
 }
 header div h2{
-    padding-bottom: 10px;
-    padding-right: 150px;
+    padding-bottom: 15px;
+    padding-right: 180px;
+    padding-left: 10px;
+    font-family: var(--titulo);
+    font-size: 2.1em;
+    font-weight: 100;
 }
-header div nav a{
+header div a{
     text-decoration: none;
     color: white;
-    padding-right: 20px;
+    padding-right: 15px;
+    padding-top: 15px;
 }
-header img{
-    width: 60px;
-    height: 60px;
-    text-align: center;
-    padding-left: 9px;
+header div img{
+    width: 63px; height: 63px;
+}
+header div nav img{
+    border-radius: 50%;
+    padding: 2px;
+    border: 3px solid var(--colorinta);
 }
 header div nav p{
     font-size: 0.8em;
 }
 
-
 #linha_vertical{
     height: 520px;/*Altura da linha*/
-    border-left: 1px solid rgb(124, 123, 123);/* Adiciona borda direita na div como ser fosse uma linha.*/
+    border-left: 1px solid rgb(63, 63, 63);/* Adiciona borda direita na div como ser fosse uma linha.*/
     padding: 10px;
 }
+
+header div table{
+    padding-top: 20px;
+    padding-left: 25%;
+}
+header table img{
+    width: 50px; height: 50px;
+    padding: 10px;
+    cursor: pointer;
+}
+header table td{
+    font-size: 0.8em;
+    cursor: pointer;
+}
+.seguir{
+    padding-left: 36%; 
+    color: #00c3ff;  
+    font-size: 0.73em;
+}
+header div div h5{ 
+    color: #adababd2; padding-left: 25%; padding-top: 10px; padding-bottom: 0px; width: 320px;
+    cursor: pointer;
+}
+
 
 main{
-    padding: 20px;
+    margin-top: -465px;
 }
-main table img{
-    width: 30px;
-    height: 30px;
-    padding: 8.5px;
+main article{
+    padding: 15px;
+    display: flex;
 }
-
-
-#fotoVideo{
-    text-align: center;
+main article table{
+    position: fixed;
+    margin-top: -50px;
 }
-section div p{
-    display: inline;
-    padding: 10px;
-    text-align: left;
+main article table img{
+    width: 30px; height: 30px;
+    padding: 13px;
 }
-section hr{
-    width: 30%; 
-    text-align: center; 
-    padding: 1px;
+main article table td{
+    cursor: pointer;
 }
 
-
-aside table tr td{
-    padding-right: 10px;
+main section{
+    padding-left: 28%;
 }
-#meuperfil{
-    width: 60px;
-    height: 60px;
+.div1{
+    position: relative;
+}
+.div2{
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+}
+main section div img{
+    width: 35px; height: 35px;
     padding-bottom: 10px;
 }
-h5{
-    padding: 40px 30px;
+main section div p{
+    display: inline;
+    padding: 12px;
 }
-aside img{
-    width: 50px;
-    height: 50px;
-    padding: 8.5px;
+main section figure img{
+    width: 500px; height: 500px;
+    margin: 10px;
+    background-color: #00c3ff;
 }
+main section figure figcaption{
+    padding: 10px
+}
+
+

@@ -1,14 +1,18 @@
 @charset "UTF8";
 
-
+@font-face {
+    font-family: 'Elegante';
+    src: url(fontes/Elegante\ Classica.ttf);
+}
 
 *{
     margin: 0%;
     padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 :root{        
-           
+    --fonteEle: 'Elegante';
 }
 
 html, body{
@@ -27,8 +31,9 @@ body{
 
 header h2{
     margin: 30px;
-    margin-top: 26%;
-    font-size: 3.1em;
+    margin-top: 24%;
+    padding-bottom: 0px;
+    font: 100 2.8em var(--fonteEle);
 }
 
 main div nav{
@@ -37,38 +42,40 @@ main div nav{
 }
 main div a{
     text-decoration: none;
-    color: white;
     padding-right: 15px;
-    padding-top: 15px;
+    padding-top: 0px;
 }
 main div img{
-    width: 180px; height: 180px;
-    padding: 10px;
+    width: 140px; height: 140px;
+    padding: 5px;
+    padding-top: 0px;
     border-radius: 10px;
 }
 main p{
-    color: grey;
+    color: #e5e5e583;
     text-align: center;
-    padding: 20px;
-    font-size: 1.5em;
+    padding: 0px;
+    font-size: 1em;
 }
 
 footer{
-    margin-top: 5%;
+    margin-top: 10%;
 }
 footer a{
     text-decoration: none;
     color: rgba(255, 255, 255, 0.384);
-    border: 1px solid rgba(100, 96, 96, 0.822);
+    border: 1px solid rgba(139, 137, 137, 0.801);
     padding: 8px;
     padding-left: 30px; padding-right: 30px;
-    font-size: 1.5em;
+    font: 1.1em 'Times New Roman', Times, serif;
+    Letter-spacing: 2px; /*separar as letras*/
 }
 footer a:hover{
     color: white;
     border: 2px solid white;
     cursor: pointer;
 }
+
 #concluido{
     background-color: white;
     color: black;
@@ -89,11 +96,10 @@ footer a:hover{
     }
 
     main div a{
-        padding-top: 25px;
         padding-right: 0px;
     }
     main div img{
-        width: 120px; height: 110px;
+        width: 120px; height: 120px;
     }
     main p{
         padding: 0px;
@@ -106,7 +112,7 @@ footer a:hover{
     footer a{
         padding: 8px;
         padding-left: 30px; padding-right: 30px;
-        font-size: 1.5em;
+        font-size: 1.2em;
     }
 }
 

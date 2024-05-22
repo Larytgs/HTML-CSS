@@ -18,6 +18,8 @@
 body{
     background-color: #000000;
     color: white;
+
+    overflow-x: hidden; /*tirando a rolagem horizontal*/
 }
 
 header{
@@ -28,78 +30,89 @@ header div nav{
     display: flex;
     align-items: center; /*alinhado do centro*/
 }
+
 header div h2{
     padding-bottom: 15px;
     padding-right: 180px;
     padding-left: 10px;
     font-family: var(--titulo);
-    font-size: 2.1em;
+    font-size: 2em;
     font-weight: 100;
+
+    border-right: 1px solid rgba(255, 255, 255, 0.144);
+    padding-right: 110px;
+    padding-left: 5px;
 }
+
 header div a{
     text-decoration: none;
     color: white;
     padding-right: 15px;
-    padding-top: 15px;
+    padding-top: 16px;
 }
+
 header div img{
-    width: 63px; height: 63px;
+    width: 55px; height: 55px;
 }
 header div nav img{
     border-radius: 50%;
     padding: 2px;
-    border: 3px solid var(--colorinta);
-}
-header div nav p{
-    font-size: 0.8em;
+    border: 2px solid var(--colorinta);
 }
 
-#linha_vertical{
-    height: 520px;/*Altura da linha*/
-    border-left: 1px solid rgb(63, 63, 63);/* Adiciona borda direita na div como ser fosse uma linha.*/
-    padding: 10px;
+header div nav p{
+    font-size: 0.7em;
 }
 
 header div table{
     padding-top: 20px;
-    padding-left: 25%;
+    padding-left: 15%;
 }
 header table img{
-    width: 50px; height: 50px;
-    padding: 10px;
+    width: 45px; height: 45px;
+    padding: 6px;
     cursor: pointer;
 }
 header table td{
-    font-size: 0.8em;
+    font-size: 0.7em;
     cursor: pointer;
 }
 .seguir{
-    padding-left: 36%; 
-    color: #00c3ff;  
+    padding-left: 45%; 
+    color: #0d88da;  
     font-size: 0.73em;
 }
-header div div h5{ 
+#textinho{
+    color: #6C6C6C;
+    padding-top: 30px; padding-bottom: 10px; padding-left: 60px;
+}
+header div div h4{ 
+    font: 600 0.8em Arial, Helvetica, sans-serif;
     color: #adababd2; padding-left: 25%; padding-top: 10px; padding-bottom: 0px; width: 320px;
     cursor: pointer;
 }
 
 
 main{
-    margin-top: -465px;
+    margin-top: -370px;
 }
 main article{
-    padding: 15px;
+    padding: 10px;
     display: flex;
 }
 main article table{
     position: fixed;
     margin-top: -50px;
+    
+    border-right: 1px solid rgba(255, 255, 255, 0.144);
+    padding-right: 71px;
 }
 main article table img{
-    width: 30px; height: 30px;
-    padding: 13px;
+    width: 25px; height: 25px;
+    padding: 12px;
 }
 main article table td{
+    font-size: 1em;
     cursor: pointer;
 }
 
@@ -111,19 +124,20 @@ main section{
 }
 .div2{
     position: absolute;
-    bottom: 20px;
-    left: 30px;
+    bottom: 15px;
+    padding-left: 40px;
 }
 main section div img{
     width: 35px; height: 35px;
-    padding-bottom: 10px;
+    padding-bottom: 1px;
+    padding-left: 10px;
 }
 main section div p{
     display: inline;
-    padding: 12px;
+    padding: 10px;
 }
 main section figure img{
-    width: 500px; height: 500px;
+    width: 450px; height: 450px;
     margin: 10px;
     background-color: #00c3ff;
 }

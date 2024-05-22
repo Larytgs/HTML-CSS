@@ -47,6 +47,7 @@ main div a{
     padding-right: 15px;
     padding-top: 0px;
 }
+
 main div img{
     width: 140px; height: 140px;
     padding: 0px;
@@ -57,6 +58,7 @@ main div img{
 main div img:hover{
     border: 3px solid white;
 }
+
 main p{
     color: #e5e5e583;
     text-align: center;

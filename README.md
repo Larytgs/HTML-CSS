@@ -41,6 +41,11 @@
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio12/projeto_cordel.html" target="_blank">Executar o Desafio 12 Projeto Cordel</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio15/Tela_de_login.html" target="_blank">Executar o Desafio 15 Tela de login</a>
 
+## **Meus próprios desafios: (no momento apenas vendo no media screen)**
+
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio/MeuInstagram.html" target="_blank">Executar o Desafio do Instagram</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio2/MinhaNetflix.html" target="_blank">Executar o Desafio da Netflix</a>
+
 ## **Uns dos meus Exercicios do Curso em Video:**
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex008b_citações_E_Códigos/index.html" target="_blank">Executar o exercicio - citações e Códigos</a>
@@ -82,11 +87,6 @@
 ## **Meu resumo do conteúdo:**
 
 **[Download do Resumo_de_HTML5_CSS3.docx](https://github.com/Larytgs/HTML-CSS/files/14891246/Resumo_de_HTML5_CSS3.docx)**
-
-## **Meus próprios desafios: (no momento apenas vendo no media screen)**
-
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio/MeuInstagram.html" target="_blank">Executar o Desafio do Instagram</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio2/MinhaNetflix.html" target="_blank">Executar o Desafio da Netflix</a>
 
 ## **Veja tambem, meus exercicios e desafios de JavaScript:**   
  

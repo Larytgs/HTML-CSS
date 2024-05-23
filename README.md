@@ -86,7 +86,7 @@
 ## **Meus próprios desafios:**
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio/MeuInstagram.html" target="_blank">Executar o Desafio do Instagram</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio2/MinhaNetflix.html" target="_blank">Executar o Desafio da Netfli</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio2/MinhaNetflix.html" target="_blank">Executar o Desafio da Netflix</a>
 
 ## **Veja tambem, meus exercicios e desafios de JavaScript:**   
  

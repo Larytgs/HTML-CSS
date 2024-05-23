@@ -44,10 +44,22 @@ header p{
     cursor: pointer;
     padding-top: 18px;
     padding-left: 19px;
-    font-size: 0.9em;
-    font-weight: 500;
-    color: #ffffffdc;
+    font-size: 0.8em;
+    font-weight: 600;
+    color: #ffffffc0;
 }
+header p:hover{ /*p tds ficarem mais escuros*/
+    color: #ffffff83;
+    /*colocar um tempo*/
+}
+header a{
+    text-decoration: none; color: #ffffffdc
+}
+header a:hover{ /*p ele ficar mais escuro tb*/
+    color: #ffffff83;
+    /*colocar um tempo*/
+}
+
 #iconeslat{
     margin-top: 10px;
     margin-left: 28.7%;
@@ -103,11 +115,8 @@ article div h2{
     font-size: 1.5em;
     color: rgba(255, 255, 255, 0.863);
     padding-left: 4%;
-    padding-top: 30px;
+    padding-top: 28px;
     padding-bottom: 8%;
-}
-article div h2:hover{
-    /*ver no resumo Ex0015b*/
 }
 article div img{
     width: 245px; height: 140px;

@@ -44,9 +44,21 @@ header p{
     cursor: pointer;
     padding-top: 18px;
     padding-left: 19px;
-    font-size: 0.9em;
-    font-weight: 500;
-    color: #ffffffdc;
+    font-size: 0.8em;
+    font-weight: 600;
+    color: #ffffffc0;
+}
+header p:hover{ /*p tds ficarem mais escuros*/
+    color: #ffffff83;
+    /*colocar um tempo*/
+}
+header a {
+    text-decoration: none; 
+    color: #ffffffdc
+}
+header a:hover{ /*p ele ficar mais escuro tb*/
+    color: #ffffff83;
+    /*colocar um tempo*/
 }
 #iconeslat{
     margin-top: 10px;
@@ -83,20 +95,6 @@ header p{
     display: inline;
     font-size: 0.8em;
 }
-/*.div1{
-    position: relative;
-}
-.div2{
-    position: absolute;
-    bottom: 0px;
-    padding-left: 40px;
-}*/
-#seta{
-    width: 12px; height: 8px; padding: 11px 8px;
-}
-#seta:hover{
-    padding-left: 0px;
-}
 
 
 article div h2{
@@ -104,9 +102,6 @@ article div h2{
     color: rgba(255, 255, 255, 0.863);
     padding-left: 4%;
     padding-top: 35px;
-}
-article div h2:hover{
-    /*ver no resumo Ex0015b*/
 }
 article div img{
     width: 245px; height: 140px;
@@ -119,4 +114,79 @@ article div img{
 }
 #ultimo{
     margin-bottom: 2%;
+}
+
+@media (max-width: 900px) {
+    
+
+    header div {
+        display: flex;
+
+        padding: 2px;
+    }
+    header img{
+        width: 90px; height: 30px;
+        cursor: pointer;
+    }
+    header p{
+        padding: 10px;
+        display: none; /*tirando os paragrafos*/
+    }
+    header p:hover{ /*p tds ficarem mais escuros*/
+        color: #ffffff83;
+        /*colocar um tempo*/
+    }
+    
+    #iconeslat{
+        margin-top: 10px;
+        margin-left: 28.7%;
+    }
+    .img{
+        width: 25px; height: 25px;
+    }
+
+
+    #oculto img{
+        width: 28px; height: 26px;
+        position: relative;
+    }
+    #oculto a{
+        display: none;
+        position: relative;
+        background-color: #e41c1c81;
+        color: white;
+        text-decoration: none;
+        padding-left: 1%;
+
+    }
+    #oculto:hover a{
+        display: block;
+        position: absolute;
+
+        height: 400px; width: 200px;
+        margin-top: 2%;
+        margin-left: -50px;
+    }
+    #oculto p{
+        position: absolute;
+        display: inline;
+        font-size: 0.8em;
+    }
+
+
+    article div h2{
+        font-size: 0.8em;
+        color: rgba(255, 255, 255, 0.863);
+        padding-left: 4%;
+        padding-top: 35px;
+    }
+    article div img{
+        width: 200px; height: 110px;
+        border-radius: 2px;
+        padding-top: 10px;
+        cursor: pointer;
+    }
+    #ultimo{
+        margin-bottom: 5%;
+    }
 }

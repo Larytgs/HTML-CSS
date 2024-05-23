@@ -44,14 +44,14 @@ header p{
     padding-left: 19px;
     font-size: 0.9em;
     font-weight: 500;
-    color: #ffffffc5;
+    color: #ffffffdc;
 }
 #ddd{
     margin: auto;
     margin-left: 28.7%;
 }
 .img{
-    width: 26px; height: 26px;
+    width: 28px; height: 26px;
 }
 
 article div h2{
@@ -59,9 +59,13 @@ article div h2{
     padding-left: 4%;
     padding-top: 30px;
 }
+article div h2:hover{
+    /*ver no resumo Ex0015b*/
+}
 article div img{
     width: 245px; height: 140px;
     padding-top: 10px;
+    cursor: pointer;
 }
 .primeiro{
     padding-left: 4%;

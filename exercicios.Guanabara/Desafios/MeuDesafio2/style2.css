@@ -1,0 +1,68 @@
+@charset "UTF8";
+
+@font-face {
+    font-family: 'Elegante';
+    src: url(fontes/Elegante\ Classica.ttf);
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    color: white;
+    background-color: #070707f5;
+
+    overflow-x: hidden; /*tirando a rolagem horizontal*/
+} /*colocar border-radius em cima*/
+
+header{
+    position: sticky; /*grudavel*/
+    top: -1px;
+    background-color: #070707;
+
+    /*Tentar usar o JS
+    function fixarCabecalhoTopo() {
+    if (window.pageYOffset >= cabecalhoTop) {
+        cabecalho.style.positon = "relative";
+    } else {
+        cabecalho.style.positon = "fixed";
+    }*/
+}
+header div {
+    display: flex;
+
+    padding: 4px;
+}
+header img{
+    width: 115px; height: 51px;
+}
+header p{
+    padding-top: 18px;
+    padding-left: 19px;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: #ffffffc5;
+}
+#ddd{
+    margin: auto;
+    margin-left: 28.7%;
+}
+.img{
+    width: 26px; height: 26px;
+}
+
+article div h2{
+    font-size: 1.03em;
+    padding-left: 4%;
+    padding-top: 30px;
+}
+article div img{
+    width: 250px; height: 140px;
+    padding-top: 10px;
+}
+.primeiro{
+    padding-left: 4%;
+}

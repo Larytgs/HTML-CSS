@@ -83,7 +83,7 @@
 
 **[Download do Resumo_de_HTML5_CSS3.docx](https://github.com/Larytgs/HTML-CSS/files/14891246/Resumo_de_HTML5_CSS3.docx)**
 
-## **Meus próprios desafios:**
+## **Meus próprios desafios: (no momento apenas vendo no media screen)**
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio/MeuInstagram.html" target="_blank">Executar o Desafio do Instagram</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio2/MinhaNetflix.html" target="_blank">Executar o Desafio da Netflix</a>

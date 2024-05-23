@@ -21,7 +21,7 @@ body{
 header{
     position: sticky; /*grudavel*/
     top: -1px;
-    background-color: #070707;
+    background-color: #07070767;
 
     /*Tentar usar o JS
     function fixarCabecalhoTopo() {
@@ -100,10 +100,11 @@ header p{
 
 
 article div h2{
-    font-size: 1.09em;
+    font-size: 1.5em;
     color: rgba(255, 255, 255, 0.863);
     padding-left: 4%;
-    padding-top: 35px;
+    padding-top: 30px;
+    padding-bottom: 8%;
 }
 article div h2:hover{
     /*ver no resumo Ex0015b*/

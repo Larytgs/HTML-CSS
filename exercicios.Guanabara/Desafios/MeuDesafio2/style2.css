@@ -231,11 +231,18 @@ article div img{
     article #imagemgrande{
         display: none;
     }
+    article #primeiroarticle{
+        display: none;
+    }
     article div img{
-        width: 200px; height: 110px;
-        border-radius: 2px;
+        width: 93px; height: 130px;
+        border-radius: 3px;
         padding-top: 10px;
+        margin-right: 2px;
         cursor: pointer;
+    }
+    .primeiro{
+        padding-left: 2%;
     }
     #ultimo{
         margin-bottom: 5%;

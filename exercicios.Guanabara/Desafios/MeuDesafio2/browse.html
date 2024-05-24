@@ -46,8 +46,8 @@
             <img id="imagemgrande" style="width: 100%;" src="imagens/herdeirosImagemprincipal.png" alt="">
         </article>
 
-        <article >
-            <div> 
+        <article>
+            <div id="primeiroarticle"> 
                 <h2 style="margin-top: -3.3%;"> </h2>
                 <img class="primeiro" src="imagens/filmes.series/cinderela e os 4 cavaleiros.png" alt="">
                 <img src="imagens/filmes.series/bridgerton.png" alt="">
@@ -69,11 +69,30 @@
         <article>
             <div> 
                 <h2>Minha lista</h2>
-                <img class="primeiro" src="imagens/filmes.series/todomundomeama.png">
-                <img src="imagens/filmes.series/goldenkamuy.png">
-                <img src="imagens/filmes.series/the 8 show.png">
-                <img src="imagens/filmes.series/cinderela e os 4 cavaleiros.png">
-                <img src="imagens/filmes.series/alquimia das almas.png">
+                <picture>
+                    <source media="(max-width: 450px)" srcset="imagens/filmes.series/todomundomeama2.png" type="image/png">
+                    <img src="imagens/filmes.series/todomundomeama.png" alt="normal">
+                </picture>
+                
+                <picture>
+                    <source media="(max-width: 450px)" srcset="imagens/filmes.series/goldenkamuy2.png" type="image/png">
+                    <img src="imagens/filmes.series/goldenkamuy.png" alt="normal">
+                </picture>
+
+                <picture>
+                    <source media="(max-width: 450px)" srcset="imagens/filmes.series/the8show2.png" type="image/png">
+                    <img src="imagens/filmes.series/the8show.png" alt="normal">
+                </picture>
+
+                <picture>
+                    <source media="(max-width: 450px)" srcset="display:none" type="image/png">
+                    <img src="imagens/filmes.series/cinderela e os 4 cavaleiros.png" alt="normal">
+                </picture>
+
+                <picture>
+                    <source media="(max-width: 450px)" srcset="display:none" type="image/png">
+                    <img src="imagens/filmes.series/alquimia das almas.png" alt="normal">
+                </picture>
             </div>
         </article>
 

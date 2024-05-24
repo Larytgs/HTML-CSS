@@ -145,7 +145,7 @@ footer a:hover{
         columns: 2;
     }
     main div img{
-        width: 90px; height: 90px;
+        width: 100px; height: 100px;
         padding-top: 25px;
     }
     main div img:hover{

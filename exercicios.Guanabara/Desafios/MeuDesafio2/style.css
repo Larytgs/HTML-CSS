@@ -22,6 +22,7 @@ html, body{
     justify-content: space-between; /*vai separar as partes do header do body e do footer*/
 }
 body{
+    min-width: 100vw;
     color: white;
     background-color: #000000e5;
 
@@ -97,7 +98,7 @@ footer a:hover{
 }
 
 
-@media (max-width: 900px) {
+@media (max-width: 700px) {
 
     header h2{
         margin: 0px;
@@ -134,17 +135,15 @@ footer a:hover{
     
 @media (max-width: 450px){
     
-    body{
-        width: 100%;
-    }
-    
     header h2{
-        margin-top: 55%;
-        font-size: 1em;
+        margin-top: 10%;
+        margin-left: -40%;
+        margin-bottom: 35%;
+        font-size: 1.3em;
     }
 
     main{
-        width: 50%;
+        
     }
     main div nav{
         display: block;
@@ -158,8 +157,8 @@ footer a:hover{
         border: none;
     }
     main p{
-        padding: 0px;
-        font-size: 0.7em;
+        padding: 1px;
+        font-size: 0.9em;
         color: white;
     }
 

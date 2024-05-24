@@ -137,8 +137,13 @@ footer a:hover{
     
 @media (max-width: 450px){
     
+    header{
+        text-align: center;
+    }
     header div{
         display: flex;
+        align-items: center;
+        justify-content: center; /*espaçamento igual*/
     }
     header div img{
         display: inline;
@@ -149,7 +154,6 @@ footer a:hover{
     header div a img{
         width: 30px; height: 30px; 
         margin-left: 310%;  
-        padding-top: 25%;
     }
 
     header h2{

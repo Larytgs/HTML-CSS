@@ -144,7 +144,7 @@ footer a:hover{
     /*Parte de gerenciar perfis:*/
     #gerenciarperfil{
         display: flex;
-        margin-top: 10px;
+        margin-top: 5%;
         margin-left: -150px;
         text-align: left; /*n esta dando*/
     }

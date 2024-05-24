@@ -136,10 +136,7 @@ footer a:hover{
 
     
 @media (max-width: 450px){
-    
-    header{
-        text-align: center;
-    }
+
     header div{
         display: flex;
         align-items: center;

@@ -132,3 +132,38 @@ footer a:hover{
 }
 
     
+@media (max-width: 450px){
+    
+    body{
+        width: 100%;
+    }
+    
+    header h2{
+        margin-top: 55%;
+        font-size: 1em;
+    }
+
+    main{
+        width: 50%;
+    }
+    main div nav{
+        display: block;
+        columns: 2;
+    }
+    main div img{
+        width: 90px; height: 90px;
+        padding-top: 25px;
+    }
+    main div img:hover{
+        border: none;
+    }
+    main p{
+        padding: 0px;
+        font-size: 0.7em;
+        color: white;
+    }
+
+    footer{
+        display: none;
+    }
+}

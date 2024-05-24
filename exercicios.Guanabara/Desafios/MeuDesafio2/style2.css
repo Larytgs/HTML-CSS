@@ -22,18 +22,9 @@ header{
     position: sticky; /*grudavel*/
     top: -1px;
     background-color: #070707;
-
-    /*Tentar usar o JS
-    function fixarCabecalhoTopo() {
-    if (window.pageYOffset >= cabecalhoTop) {
-        cabecalho.style.positon = "relative";
-    } else {
-        cabecalho.style.positon = "fixed";
-    }*/
 }
 header div {
     display: flex;
-
     padding: 4px;
 }
 header img{
@@ -50,7 +41,7 @@ header p{
 }
 header p:hover{ /*p tds ficarem mais escuros*/
     color: #ffffff83;
-    /*colocar um tempo*/
+    transition: 0.5s;
 }
 header a {
     text-decoration: none; 
@@ -66,6 +57,8 @@ header a:hover{ /*p ele ficar mais escuro tb*/
 }
 .img{
     width: 28px; height: 26px;
+
+    /*colocar animation na lupa*/
 }
 
 
@@ -116,12 +109,18 @@ article div img{
     margin-bottom: 2%;
 }
 
+@media (max-width: 1100px){
+    header div {
+        display: flex;
+        padding: 4px;
+    }
+}
+
 @media (max-width: 900px) {
     
 
     header div {
         display: flex;
-
         padding: 2px;
     }
     header img{
@@ -136,6 +135,7 @@ article div img{
         color: #ffffff83;
         /*colocar um tempo*/
     }
+    
     
     #iconeslat{
         margin-top: 10px;

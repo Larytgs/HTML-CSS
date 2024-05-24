@@ -24,7 +24,7 @@ html, body{
 body{
     min-width: 100vw;
     color: white;
-    background-color: #000000e5;
+    background-color: #000000;
 
     overflow-x: hidden; /*tirando a rolagem horizontal*/
 } /*colocar border-radius em cima*/
@@ -146,15 +146,16 @@ footer a:hover{
         display: inline;
         width: 120px; height: 51px;
         margin-top: 10px;
-        margin-left: -20%;
+        margin-left: 130px;
     }
     header div a img{
         width: 30px; height: 30px; 
-        margin-left: 310%;  
+        margin-left: 130px;  
     }
     header h2{
         margin-top: 15%;
         font-size: 1.2em;
+        text-align: center;
     }
 
     main div nav{

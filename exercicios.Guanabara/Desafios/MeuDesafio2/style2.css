@@ -239,7 +239,7 @@ footer{
     }
     header #botoes button{
         cursor: pointer;
-        background-color: #070707c4;
+        background-color: #2e2e2ec4;
         color: rgba(255, 255, 255, 0.863);
         border: 1px solid rgba(255, 255, 255, 0.76);
         border-radius: 15px;

@@ -29,7 +29,9 @@ body{
     overflow-x: hidden; /*tirando a rolagem horizontal*/
 } /*colocar border-radius em cima*/
 
-
+header div img{
+    display: none;
+}
 header h2{
     margin: 30px;
     margin-top: 24%;
@@ -135,10 +137,26 @@ footer a:hover{
     
 @media (max-width: 450px){
     
+    header div{
+        display: flex;
+    }
+    header div img{
+        display: inline;
+        width: 120px; height: 51px;
+        margin-top: 10px;
+        margin-left: 25%;
+    }
+    header div a img{
+        width: 30px; height: 30px; 
+        margin-left: 320%;  
+        padding-top: 25%;
+    }
+
     header h2{
-        margin-top: 30%;
+        margin-top: 15%;
         font-size: 1.2em;
     }
+
     main div nav{
         display: block;
         columns: 2;

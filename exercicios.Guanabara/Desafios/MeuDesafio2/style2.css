@@ -27,6 +27,9 @@ header div {
     display: flex;
     padding: 4px;
 }
+header #logo{
+    display: none;
+}
 header img{
     width: 115px; height: 51px;
     cursor: pointer;
@@ -179,6 +182,54 @@ article div img{
         color: rgba(255, 255, 255, 0.863);
         padding-left: 4%;
         padding-top: 35px;
+    }
+    article div img{
+        width: 200px; height: 110px;
+        border-radius: 2px;
+        padding-top: 10px;
+        cursor: pointer;
+    }
+    #ultimo{
+        margin-bottom: 5%;
+    }
+}
+
+@media (max-width: 450px){  
+ 
+    header{
+        position: sticky; /*grudavel*/
+        top: -1px;
+        /*tentar tirar o backgroung*/
+    }
+    header div img{ /*tirou todos os icones*/
+        display: none;
+        padding: 5px;
+    }
+    header #logo{
+        display: block;
+        width: 20px; height: 40px;
+        margin-left: 10px;
+        padding-right: 120px;
+    }
+    header #chrome{
+        display: block;
+        width: 20px; height: 18px;
+        padding-right: 17px;
+    }
+    header #lupa{
+        display: block;
+        width: 20px; height: 20px; 
+    }
+
+
+    article div h2{
+        font-size: 0.8em;
+        color: rgba(255, 255, 255, 0.863);
+        padding-left: 4%;
+        padding-top: 35px;
+    }
+    article #imagemgrande{
+        display: none;
     }
     article div img{
         width: 200px; height: 110px;

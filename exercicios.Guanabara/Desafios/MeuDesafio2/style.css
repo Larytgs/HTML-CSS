@@ -29,12 +29,13 @@ body{
     overflow-x: hidden; /*tirando a rolagem horizontal*/
 } /*colocar border-radius em cima*/
  
-#gerenciarperfil img{
+#gerenciarperfil img{ /*Parte de gerenciar perfil*/ 
     display: none;
 }
-header div img{
+header div img{ /*Parte inicial*/
     display: none;
 }
+
 header h2{
     margin: 30px;
     margin-top: 24%;
@@ -140,13 +141,26 @@ footer a:hover{
     
 @media (max-width: 450px){
 
+    /*Parte de gerenciar perfis:*/
+    #gerenciarperfil{
+        display: flex;
+        margin-top: 10px;
+        margin-left: -150px;
+        text-align: left; /*n esta dando*/
+    }
     #gerenciarperfil img{
         display: flex;
-        width: 30px; height: 30px;
+        width: 20px; height: 15px;
+        margin: 0px; /*para tirar o estilo da parte inicial*/
+        margin-right: 10px;
+        padding-bottom: 50px;                
     }
-    header #gerenciarperfil{
+    #gerenciarperfil h2{
+        margin: 0%; /*para tirar o estilo da parte inicial*/
+        padding-bottom: 50px;
     }
 
+    /*Parte inicial:*/
     header div{
         display: flex;
         align-items: center;

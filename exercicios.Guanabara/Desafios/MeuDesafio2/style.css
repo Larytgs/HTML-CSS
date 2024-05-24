@@ -28,7 +28,10 @@ body{
 
     overflow-x: hidden; /*tirando a rolagem horizontal*/
 } /*colocar border-radius em cima*/
-
+ 
+#gerenciarperfil img{
+    display: none;
+}
 header div img{
     display: none;
 }
@@ -137,6 +140,13 @@ footer a:hover{
     
 @media (max-width: 450px){
 
+    #gerenciarperfil img{
+        display: flex;
+        width: 30px; height: 30px;
+    }
+    header #gerenciarperfil{
+    }
+
     header div{
         display: flex;
         align-items: center;
@@ -146,7 +156,7 @@ footer a:hover{
         display: inline;
         width: 120px; height: 51px;
         margin-top: 10px;
-        margin-left: 180px;
+        margin-left: 120px;
     }
     header div a img{
         width: 30px; height: 30px; 

@@ -30,6 +30,9 @@ header div {
 header #logo{
     display: none;
 }
+header #chrome{
+    display: none;
+}
 header img{
     width: 115px; height: 51px;
     cursor: pointer;
@@ -178,9 +181,9 @@ article div img{
 
 
     article div h2{
-        font-size: 0.8em;
+        font-size: 1em;
         color: rgba(255, 255, 255, 0.863);
-        padding-left: 4%;
+        padding-left: 0%;
         padding-top: 35px;
     }
     article div img{

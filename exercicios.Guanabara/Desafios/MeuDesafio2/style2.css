@@ -247,6 +247,13 @@ footer{
         padding: 5px 10px 5px 10px;
         margin: 1px -10px 6px 15px;
     }
+    header #botoes img{
+        display: inline;
+        width: 15px; height: 15px;
+        margin: -3px;
+        margin-left: 1px;
+        padding: 0px;
+    }
 
 
     article div h2{

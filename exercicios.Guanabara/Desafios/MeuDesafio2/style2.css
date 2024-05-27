@@ -98,6 +98,9 @@ header a:hover{ /*p ele ficar mais escuro tb*/
     font-size: 0.8em;
 }
 
+main .galary{
+    display: none;
+}
 
 article div h2{
     font-size: 1.09em;
@@ -206,7 +209,7 @@ footer{
 @media (max-width: 450px){  
  
     body{
-        overflow-x: hidden; /*tirando a rolagem horizontal*/
+        overflow-x: visible; /*tirando a rolagem horizontal*/
     }
 
     header{
@@ -236,6 +239,7 @@ footer{
     }
     header #botoes{
         display: block;
+        position: sticky;
     }
     header #botoes button{
         cursor: pointer;
@@ -256,24 +260,21 @@ footer{
     }
 
 
-    article div h2{
-        font-size: 0.8em;
-        color: rgba(255, 255, 255, 0.863);
-        padding-left: 4%;
-        padding-top: 35px;
-    }
     article #imagemgrande{
         display: none;
     }
     article #primeiroarticle{
         display: none;
-    }
+    } 
     article div img{
-        width: 93px; height: 130px;
+        width: 100px; height: 150px;
         border-radius: 3px;
         padding-top: 10px;
         margin-right: 2px;
         cursor: pointer;
+    }
+    .semimagem{
+        display: none;
     }
     .primeiro{
         padding-left: 2%;
@@ -311,3 +312,36 @@ footer{
         font-size: 0.3em;
     }
 }
+/*main .galary{
+        display: block;
+    }
+    main .fotos{
+        width: 200%;
+    }
+    main .fotos .primeiro{
+        margin-left: -10px;
+    }
+    /*.galary .fotos{
+        width: 500%;
+        animation-name: animacao;
+        animation-duration: 20s;
+        animation-iteration-count: infinite;
+    }*/
+    /*section .fotos img{
+        width: 93px; height: 130px;
+        border-radius: 3px;
+        padding-top: 10px;
+        margin-right: 2px;
+        cursor: pointer;
+    }*/
+    /*@keyframes animacao {
+        0% { margin-left: 0; }
+        20% { margin-left: 0; }
+        25% { margin-left: -100; }
+        45% { margin-left: -100; }
+        50% { margin-left: -200; }
+        70% { margin-left: -200; }
+        75% { margin-left: -300; }
+        95% { margin-left: -300; }
+        100% { margin-left: -400; }
+    }*/

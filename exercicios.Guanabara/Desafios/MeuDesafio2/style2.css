@@ -110,6 +110,9 @@ article div img{
     padding-top: 10px;
     cursor: pointer;
 }
+.continuar2{
+    display: none;
+}
 .primeiro{
     padding-left: 4%;
 }
@@ -264,6 +267,13 @@ footer{
     article #imagemgrande{
         display: none;
     }
+    .continuar1{
+        display: none;
+    }
+    .continuar2{
+        display: inline;
+        width: 100px; height: 170px;
+    }
     article #primeiroarticle{
         display: none;
     } 
@@ -279,9 +289,6 @@ footer{
     }
     .primeiro{
         padding-left: 2%;
-    }
-    .continuar{
-        height: 170px; width: 100px;
     }
     main #ultimo{
         margin-bottom: 80px;

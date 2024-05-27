@@ -306,8 +306,7 @@ footer{
         text-decoration: none;
     }
     footer p{
-        padding-top: 5px;
-        padding-left: -50%;
+        margin-top: 5px;
         color: white;
         font-size: 0.3em;
     }

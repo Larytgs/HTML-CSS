@@ -205,6 +205,7 @@ footer{
 @media (max-width: 450px){  
  
     body{
+        background-color: #000000;
         overflow-x: visible; /*tirando a rolagem horizontal*/
     }
 
@@ -278,8 +279,8 @@ footer{
     .primeiro{
         padding-left: 2%;
     }
-    #ultimo{
-        margin-bottom: 5%;
+    main #ultimo{
+        margin-bottom: 80px;
     }
 
     footer{
@@ -293,20 +294,20 @@ footer{
         display: flex;
     }
     footer #primeirof{
-        margin-left: 10%;
+        margin-left: 5%;
     }
     footer img{
         display: flex;
         width: 30px; height: 30px;
-        padding-top: 4px;
-
-        margin-right: 30px;
+        padding-top: 5px;
+        margin-right: 60px;
     }
     footer a{
         text-decoration: none;
     }
     footer p{
-        padding: 5px;
+        padding-top: 5px;
+        padding-left: -50%;
         color: white;
         font-size: 0.3em;
     }

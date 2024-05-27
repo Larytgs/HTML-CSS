@@ -24,7 +24,7 @@ html, body{
 body{
     min-width: 100vw;
     color: white;
-    background-color: #000000dc;
+    background-color: #000000;
 
     overflow-x: hidden; /*tirando a rolagem horizontal*/
 } /*colocar border-radius em cima*/

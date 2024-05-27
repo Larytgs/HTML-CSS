@@ -98,10 +98,6 @@ header a:hover{ /*p ele ficar mais escuro tb*/
     font-size: 0.8em;
 }
 
-main .galary{
-    display: none;
-}
-
 article div h2{
     font-size: 1.09em;
     color: rgba(255, 255, 255, 0.863);
@@ -258,7 +254,6 @@ footer{
         margin-left: 1px;
         padding: 0px;
     }
-
 
     article #imagemgrande{
         display: none;

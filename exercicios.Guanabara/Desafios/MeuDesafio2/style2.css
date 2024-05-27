@@ -288,7 +288,7 @@ footer{
         width: 99vh;
         position: fixed; /*grudavel*/
         bottom: 0px;
-        background-color: #070707;
+        background-color: #000000;
     }
     footer div{
         display: flex;

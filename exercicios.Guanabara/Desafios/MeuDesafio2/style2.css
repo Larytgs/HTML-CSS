@@ -279,6 +279,9 @@ footer{
     .primeiro{
         padding-left: 2%;
     }
+    .continuar{
+        height: 170px; width: 100px;
+    }
     main #ultimo{
         margin-bottom: 80px;
     }

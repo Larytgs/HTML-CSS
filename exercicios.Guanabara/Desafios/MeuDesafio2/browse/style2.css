@@ -36,6 +36,12 @@ header div {
 
     padding: 4px;
 }
+header #chrome{
+    display: none;
+}
+header #botoes{
+    display: none;
+}
 header img{
     width: 115px; height: 51px;
     cursor: pointer;
@@ -129,4 +135,206 @@ article div img{
 }
 #ultimo{
     margin-bottom: 2%;
+}
+
+@media (max-width: 1100px){
+    header div {
+        display: flex;
+        padding: 4px;
+    }
+}
+
+@media (max-width: 900px) {
+    
+
+    header div {
+        display: flex;
+        padding: 2px;
+    }
+    header img{
+        width: 90px; height: 30px;
+        cursor: pointer;
+    }
+    header p{
+        padding: 10px;
+        display: none; /*tirando os paragrafos*/
+    }
+    header p:hover{ /*p tds ficarem mais escuros*/
+        color: #ffffff83;
+        /*colocar um tempo*/
+    }
+    
+    
+    #iconeslat{
+        margin-top: 10px;
+        margin-left: 28.7%;
+    }
+    .img{
+        width: 25px; height: 25px;
+    }
+
+
+    #oculto img{
+        width: 28px; height: 26px;
+        position: relative;
+    }
+    #oculto a{
+        display: none;
+        position: relative;
+        background-color: #e41c1c81;
+        color: white;
+        text-decoration: none;
+        padding-left: 1%;
+
+    }
+    #oculto:hover a{
+        display: block;
+        position: absolute;
+
+        height: 400px; width: 200px;
+        margin-top: 2%;
+        margin-left: -50px;
+    }
+    #oculto p{
+        position: absolute;
+        display: inline;
+        font-size: 0.8em;
+    }
+
+
+    article div h2{
+        font-size: 1em;
+        color: rgba(255, 255, 255, 0.863);
+        padding-left: 0%;
+        padding-top: 35px;
+    }
+    article div img{
+        width: 200px; height: 110px;
+        border-radius: 2px;
+        padding-top: 10px;
+        cursor: pointer;
+    }
+    #ultimo{
+        margin-bottom: 5%;
+    }
+}
+
+@media (max-width: 450px){  
+ 
+    body{
+        background-color: #000000;
+        overflow-x: visible; /*tirando a rolagem horizontal*/
+    }
+
+    header{
+        background-color: #070707af;
+        position: sticky; /*grudavel*/
+        top: -1px;
+        /*tentar tirar o backgroung*/
+    }
+    header div img{ /*tirou todos os icones*/
+        display: none;
+        padding: 5px;
+    }
+    header #logo{
+        display: block;
+        width: 20px; height: 40px;
+        margin-left: 10px;
+        padding-right: 130px;
+    }
+    header #chrome{
+        display: block;
+        width: 22px; height: 19px;
+        padding-right: 13px;
+    }
+    header #lupa{
+        display: block;
+        width: 22px; height: 22px; 
+    }
+    header #botoes{
+        display: block;
+        position: sticky;
+    }
+    header #botoes button{
+        cursor: pointer;
+        background-color: #2e2e2ec4;
+        color: rgba(255, 255, 255, 0.863);
+        border: 1px solid rgba(255, 255, 255, 0.76);
+        border-radius: 15px;
+        font-size: 1em;
+        padding: 5px 11px 5px 11px;
+        margin: 1px -10px 6px 15px;
+    }
+    header #botoes img{
+        display: inline;
+        width: 15px; height: 15px;
+        margin: -3px;
+        margin-left: 1px;
+        padding: 0px;
+    }
+
+    article div h2{
+        font-size: 1.2em;
+        padding-left: 2%;
+        padding-top: 35px;
+    }
+    article #imagemgrande{
+        display: none;
+    }
+    .continuar1{
+        display: none;
+    }
+    .continuar2{
+        display: inline;
+        width: 100px; height: 170px;
+    }
+    article #primeiroarticle{
+        display: none;
+    } 
+    article div img{
+        width: 112px; height: 160px;
+        border-radius: 3px;
+        padding-top: 10px;
+        margin-right: 2px;
+        cursor: pointer;
+    }
+    .semimagem{
+        display: none;
+    }
+    .primeiro{
+        padding-left: 2%;
+    }
+    main #ultimo{
+        margin-bottom: 80px;
+    }
+
+    footer{
+        display: block;
+        width: 99vh;
+        position: fixed; /*grudavel*/
+        bottom: 0px;
+        background-color: #000000;
+    }
+    footer div{
+        display: flex;
+    }
+    footer #primeirof{
+        margin-left: 5%;
+    }
+    footer img{
+        display: flex;
+        width: 28px; height: 28px;
+        padding-top: 5px;
+        margin-right: 60px;
+    }
+    footer a{
+        text-decoration: none;
+    }
+    footer p{
+        margin-top: 5px;
+        margin-bottom: 10px;
+        color: white;
+        font-size: 0.6em;
+        font-weight: 600;
+    }
 }

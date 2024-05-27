@@ -10,7 +10,8 @@
 <body>
     <header>
         <div>
-            <div>
+            <div id="titulos">
+                <img id="logo" src="../imagens/logograndenetflix.png">
                 <img style="margin-left: 35px; margin-right: 15px;" src="../imagens/Netflix_Logo_PMS.png" alt="">
                 <p><a href="../browse.html">Inicio</a></p>
                 <p>Séries</p>
@@ -20,34 +21,60 @@
                 <p>Navegar por idomas</p>
             </div>
             <div id="iconeslat">
+                <img id="chrome" src="../imagens/chrome.png">
+                <img id="lupa" class="img" src="../imagens/lupa.png">
                 <img class="img" src="../imagens/lupa.png" alt="">
                 <p style="padding: 5px 19px 5px 19px">Infantil</p>
                 <img class="img" src="../imagens/sino.png" alt="">
                     <nav id="oculto">
                         <img style="width: 50px; height: 30px; padding-left: 19px;" src="../imagens/setacimagem.png" alt="">
                         <div>
-                            <a href="#"><img src="imagens/GisaPerfil.png"><div><p>Gisa</p></div></a>
-                            <a href="#"><img src="imagens/MatheusPerfil.png"><div><p>Math</p></div></a>
-                            <a href="#"><img src="imagens/SaraPerfil.png"><div><p>Sarita</p></div></a>
-                            <a href="#"><img src="imagens/InfantilPerfil.png"><div><p>Infantil</p></div></a>
-                            <a href="#"><img src="imagens/lupa.png"><div><p>Gerenciar perfil</p></div></a>
-                            <a href="#"><img src="imagens/lupa.png"><div><p>Transferir perfil</p></div></a>
-                            <a href="#"><img src="imagens/lupa.png"><div><p>Conta</p></div></a>
-                            <a href="#"><img src="imagens/lupa.png"><div><p>Central de ajuda</p></div></a>
+                            <a href="#"><img src="../imagens/GisaPerfil.png"><div><p>Gisa</p></div></a>
+                            <a href="#"><img src="../imagens/MatheusPerfil.png"><div><p>Math</p></div></a>
+                            <a href="#"><img src="../imagens/SaraPerfil.png"><div><p>Sarita</p></div></a>
+                            <a href="#"><img src="../imagens/InfantilPerfil.png"><div><p>Infantil</p></div></a>
+                            <a href="#"><img src="../imagens/lupa.png"><div><p>Gerenciar perfil</p></div></a>
+                            <a href="#"><img src="../imagens/lupa.png"><div><p>Transferir perfil</p></div></a>
+                            <a href="#"><img src="../imagens/lupa.png"><div><p>Conta</p></div></a>
+                            <a href="#"><img src="../imagens/lupa.png"><div><p>Central de ajuda</p></div></a>
                         </div>                       
                     </nav>
             </div>
+        </div>
+        <div id="botoes">
+            <button type="button">Séries</button>
+            <button type="button">Filmes</button>
+            <button type="button">Categorias  <img src="../imagens/setapbaixo.png"></button>
         </div>
     </header>
     <main>
         <article>
             <div> 
                 <h2>Minha lista</h2>
-                <img class="primeiro" style="height: 138px;" src="../imagens/filmes.series/todomundomeama.png">
-                <img src="../imagens/filmes.series/goldenkamuy.png">
-                <img src="../imagens/filmes.series/the 8 show.png">
-                <img src="../imagens/filmes.series/cinderela e os 4 cavaleiros.png">
-                <img src="../imagens/filmes.series/alquimia das almas.png">
+                <picture>
+                    <source media="(max-width: 450px)" srcset="../imagens/filmes.series/todomundomeama2.png" type="image/png">
+                    <img class="primeiro" src="../imagens/filmes.series/todomundomeama.png" alt="normal">
+                </picture>
+                
+                <picture>
+                    <source media="(max-width: 450px)" srcset="../imagens/filmes.series/goldenkamuy2.png" type="image/png">
+                    <img src="../imagens/filmes.series/goldenkamuy.png" alt="normal">
+                </picture>
+
+                <picture>
+                    <source media="(max-width: 450px)" srcset="../imagens/filmes.series/the8show2.png" type="image/png">
+                    <img src="../imagens/filmes.series/the8show.png" alt="normal">
+                </picture>
+
+                <picture>
+                    <source media="(max-width: 450px)" srcset="../imagens/filmes.series/cinderela e os 4 cavaleiros2.png" type="image/png">
+                    <img src="../imagens/filmes.series/cinderela e os 4 cavaleiros.png" alt="normal">
+                </picture>
+
+                <picture>
+                    <source media="(max-width: 450px)" srcset="../imagens/filmes.series/alquimia das almas2.png" type="image/png">
+                    <img src="../imagens/filmes.series/alquimia das almas.png" alt="normal">
+                </picture>
             </div>
         </article>
 

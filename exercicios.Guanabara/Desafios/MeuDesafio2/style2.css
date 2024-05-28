@@ -30,6 +30,10 @@ header div {
 header #logo{
     display: none;
 }
+header #logogrande{
+    margin-left: 35px; margin-right: 15px;
+    width: 115px;  height: 50px;
+}
 header #chrome{
     display: none;
 }
@@ -158,6 +162,9 @@ footer{
         width: 90px; height: 30px;
         cursor: pointer;
     }
+    header #logogrande{
+        margin-left: 35px; margin-right: 15px;
+    }
     header p{
         padding: 10px;
         display: none; /*tirando os paragrafos*/
@@ -184,9 +191,6 @@ footer{
     }
 
 
-    #oculto #principal{
-        display: none;  
-    }
     #oculto:hover #principal{
         display: block;
         position: absolute;
@@ -227,7 +231,7 @@ footer{
     article div h2{
         font-size: 1em;
         color: rgba(255, 255, 255, 0.863);
-        padding-left: 0%;
+        padding-left: 4%;
         padding-top: 35px;
     }
     article div img{
@@ -273,6 +277,13 @@ footer{
         display: block;
         width: 22px; height: 22px; 
     }
+    #sominhaimg{
+        display: none;
+    }
+    #imgcseta{
+        display: none;
+    }
+
     header #botoes{
         display: block;
         position: sticky;
@@ -303,6 +314,7 @@ footer{
     article #imagemgrande{
         display: none;
     }
+
     .continuar1{
         display: none;
     }
@@ -310,6 +322,7 @@ footer{
         display: inline;
         width: 100px; height: 170px;
     }
+
     article #primeiroarticle{
         display: none;
     } 

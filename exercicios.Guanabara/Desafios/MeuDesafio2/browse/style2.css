@@ -78,40 +78,52 @@ header a:hover{ /*p ele ficar mais escuro tb*/
 }
 
 
-#oculto img{
-    width: 28px; height: 26px;
-    position: relative;
-}
-#oculto a{
+#sominhaimg{
     display: none;
-    position: relative;
-    background-color: #e41c1c81;
-    color: white;
-    text-decoration: none;
-    padding-left: 1%;
-
 }
-#oculto:hover a{
+#imgcseta{
+    display: block;
+}
+
+#oculto #principal{
+    display: none;  
+}
+#oculto:hover #principal{
     display: block;
     position: absolute;
 
-    height: 400px; width: 200px;
-    margin-top: 2%;
-    margin-left: -50px;
+    background-color: rgba(0, 0, 0, 0.849);
+    height: 380px; width: 200px;
+    margin-top: 1.5%;
+    margin-left: -9%;
 }
-#oculto p{
+#principal img{
     position: absolute;
-    display: inline;
-    font-size: 0.8em;
+    width: 30px; height: 30px;
+    left: 1px;
+    bottom: -1px;
+    padding-left: 4px;
 }
-/*.div1{
+#principal .imgmenor{
+    padding-left: 10px;
+    width: 20px; height: 20px;
+}
+#principal a{
     position: relative;
+    display: flex;
+    text-decoration: none;
+    font-size: 1em;
 }
-.div2{
-    position: absolute;
-    bottom: 0px;
+#principal p{
+    display: inline;
     padding-left: 40px;
-}*/
+}
+#sair{
+    font-size: 0.9em;
+    padding-top: 10px;
+    padding-left: 20%;
+}
+
 #seta{
     width: 12px; height: 8px; padding: 11px 8px;
 }
@@ -170,38 +182,57 @@ article div img{
     
     #iconeslat{
         margin-top: 10px;
-        margin-left: 28.7%;
+        margin-left: 55%;
     }
     .img{
-        width: 25px; height: 25px;
+        width: 28px; height: 28px;
     }
-
-
-    #oculto img{
-        width: 28px; height: 26px;
-        position: relative;
-    }
-    #oculto a{
+    #imgcseta{
         display: none;
-        position: relative;
-        background-color: #e41c1c81;
-        color: white;
-        text-decoration: none;
-        padding-left: 1%;
-
     }
-    #oculto:hover a{
+    #sominhaimg{
+        display: block;
+        width: 26px; height: 26px;
+    }
+
+
+    #oculto #principal{
+        display: none;  
+    }
+    #oculto:hover #principal{
         display: block;
         position: absolute;
-
-        height: 400px; width: 200px;
-        margin-top: 2%;
-        margin-left: -50px;
+    
+        background-color: rgba(0, 0, 0, 0.849);
+        height: 390px; width: 200px;
+        margin-top: 1.1%;
+        margin-left: -9%;
     }
-    #oculto p{
+    #principal img{
         position: absolute;
+        width: 30px; height: 30px;
+        left: 1px;
+        bottom: -1px;
+        padding-left: 4px;
+    }
+    #principal .imgmenor{
+        padding-left: 10px;
+        width: 20px; height: 20px;
+    }
+    #principal a{
+        position: relative;
+        display: flex;
+        text-decoration: none;
+        font-size: 0.4em;
+    }
+    #principal p{
         display: inline;
-        font-size: 0.8em;
+        padding-left: 40px;
+    }
+    header #sair{
+        font-size: 1em;
+        padding-top: 10px;
+        padding-left: 20%;
     }
 
 

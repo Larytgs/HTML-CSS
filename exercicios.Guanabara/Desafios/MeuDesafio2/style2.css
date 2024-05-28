@@ -83,10 +83,10 @@ header a:hover{ /*p ele ficar mais escuro tb*/
     display: block;
     position: absolute;
 
-    background-color: rgba(0, 0, 0, 0.849);
+    background-color: rgba(0, 0, 0, 0.904);
     height: 380px; width: 200px;
-    margin-top: 1.1%;
-    margin-left: -9%;
+    margin-top: 1.6%;
+    margin-left: -12%;
 }
 #principal img{
     position: absolute;
@@ -103,14 +103,14 @@ header a:hover{ /*p ele ficar mais escuro tb*/
     position: relative;
     display: flex;
     text-decoration: none;
-    font-size: 1.1em;
+    font-size: 1em;
 }
 #principal p{
     display: inline;
     padding-left: 40px;
 }
-header #sair{
-    font-size: 1em;
+#sair{
+    font-size: 0.9em;
     padding-top: 10px;
     padding-left: 20%;
 }
@@ -180,6 +180,7 @@ footer{
     }
     #sominhaimg{
         display: block;
+        width: 26px; height: 26px;
     }
 
 

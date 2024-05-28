@@ -70,7 +70,7 @@ header a{
 }
 header a:hover{ /*p ele ficar mais escuro tb*/
     color: #ffffff83;
-    /*colocar um tempo*/
+    transition: 0.5s;
 }
 
 #iconeslat{
@@ -138,6 +138,7 @@ header a:hover{ /*p ele ficar mais escuro tb*/
 
 article div h2{
     font-size: 1.5em;
+    font-weight: 100;
     color: rgba(255, 255, 255, 0.863);
     padding-left: 4%;
     padding-top: 28px;

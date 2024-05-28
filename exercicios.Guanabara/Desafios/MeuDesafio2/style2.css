@@ -131,6 +131,9 @@ article div img{
     padding-top: 10px;
     cursor: pointer;
 }
+.continuar1{
+    width: 240px; height: 150px;
+}
 .continuar2{
     display: none;
 }

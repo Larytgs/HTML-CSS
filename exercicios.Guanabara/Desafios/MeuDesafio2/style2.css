@@ -241,7 +241,7 @@ footer{
  
     body{
         background-color: #000000;
-        overflow-x: visible; /*tirando a rolagem horizontal*/
+        overflow-x: hidden; /*tirando a rolagem horizontal*/
     }
 
     header{

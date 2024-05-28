@@ -240,7 +240,6 @@ footer{
 @media (max-width: 450px){  
  
     body{
-        background-color: #6e1515;
         overflow-x: hidden; /*tirando a rolagem horizontal*/
     }
 
@@ -257,7 +256,7 @@ footer{
     header #logo{
         display: block;
         width: 20px; height: 40px;
-        margin-left: 10px;
+        margin-left: 20px;
         padding-right: 30px;
     }
     header #chrome{

@@ -13,120 +13,10 @@
 
 body{
     color: white;
-    background-color: #141414;
+    background-color: #0e0d0d;
 
     overflow-x: hidden; /*tirando a rolagem horizontal*/
 } /*colocar border-radius em cima*/
-
-header{
-    position: sticky; /*grudavel*/
-    top: -1px;
-    background-color: #070707;
-}
-header div {
-    display: flex;
-    padding: 4px;
-}
-header #logo{
-    display: none;
-}
-header #logogrande{
-    margin-left: 35px; margin-right: 15px;
-    width: 115px;  height: 50px;
-}
-header #chrome{
-    display: none;
-}
-header #botoes{
-    display: none;
-}
-header img{
-    width: 115px; height: 51px;
-    cursor: pointer;
-}
-header p{
-    cursor: pointer;
-    padding-top: 18px;
-    padding-left: 19px;
-    font-size: 0.8em;
-    font-weight: 600;
-    color: #ffffffc0;
-}
-header p:hover{ /*p tds ficarem mais escuros*/
-    color: #ffffff83;
-    transition: 0.5s;
-}
-header a {
-    text-decoration: none; 
-    color: #ffffffdc
-}
-header a:hover{ /*p ele ficar mais escuro tb*/
-    color: #ffffff83;
-    /*colocar um tempo*/
-}
-#iconeslat{
-    margin-top: 10px;
-    margin-left: 28.7%;
-}
-.img{
-    width: 28px; height: 26px;
-
-    /*colocar animation na lupa*/
-}
-#sominhaimg{
-    display: none;
-}
-#imgcseta{
-    display: block;
-}
-
-#oculto #principal{
-    display: none;  
-}
-#oculto:hover #principal{
-    display: block;
-    position: absolute;
-
-    background-color: rgba(0, 0, 0, 0.904);
-    height: 330px; width: 200px;
-    margin-top: 1.6%;
-    margin-left: -12%;
-}
-#principal img{
-    position: absolute;
-    width: 32px; height: 32px;
-    left: 1px;
-    bottom: -1px;
-}
-#principal a{
-    margin-bottom: -2px;
-}
-#iconesmenor{
-    display: flex;
-    flex-direction: column;
-}
-#iconesmenor a{
-    margin-bottom: -9px;
-}
-#iconesmenor .imgmenor{
-    width: 25px; height: 25px;
-    padding-left: 3px;
-}
-#principal a{
-    position: relative;
-    display: flex;
-    text-decoration: none;
-}
-#principal p{
-    display: inline;
-    padding-left: 40px;
-    font-size: 0.8em;
-}
-#sair{
-    font-size: 0.9em;
-    padding-top: 10px;
-    padding-left: 20%;
-}
 
 article div h2{
     font-size: 1.09em;
@@ -140,101 +30,9 @@ article div img{
     padding-top: 10px;
     cursor: pointer;
 }
-.continuar1{
-     height: 150px;
-}
-.continuar2{
-    display: none;
-}
-.primeiro{
-    padding-left: 4%;
-}
-#ultimo{
-    margin-bottom: 2%;
-}
+
 footer{
     display: none;
-}
-
-@media (max-width: 1100px){
-    header div {
-        display: flex;
-        padding: 4px;
-    }
-}
-
-@media (max-width: 900px) {
-    
-
-    header div {
-        display: flex;
-        padding: 2px;
-    }
-    header img{
-        width: 90px; height: 30px;
-        cursor: pointer;
-    }
-    header #logogrande{
-        margin-left: 35px; margin-right: 15px;
-    }
-    header p{
-        padding: 10px;
-        display: none; /*tirando os paragrafos*/
-    }
-    header p:hover{ /*p tds ficarem mais escuros*/
-        color: #ffffff83;
-        /*colocar um tempo*/
-    }
-    
-    #iconeslat{
-        margin-top: 10px;
-        margin-left: 55%;
-    }
-    .img{
-        width: 28px; height: 28px;
-    }
-    #imgcseta{
-        display: none;
-    }
-    #sominhaimg{
-        display: block;
-        width: 26px; height: 26px;
-    }
-
-    #oculto:hover #principal{
-        margin-top: 1.6%;
-        margin-left: -26%;
-    }
-    #principal a{
-        margin-bottom: -1px;
-    }
-    #iconesmenor{
-        display: flex;
-        flex-direction: column;
-        margin-top: 5px;
-    }
-    #iconesmenor a{
-        margin-bottom: -5px;
-    }
-    #iconesmenor p{
-        padding-bottom: 5px;
-    }
-
-    article div h2{
-        font-size: 1em;
-        color: rgba(255, 255, 255, 0.863);
-        padding-left: 4%;
-        padding-top: 35px;
-    }
-    article div img{
-        width: 200px; height: 110px;
-        border-radius: 2px;
-        padding-top: 10px;
-        cursor: pointer;
-    }
-    #ultimo{
-        margin-bottom: 5%;
-    }
 }
 
 @media (max-width: 450px){  
@@ -244,57 +42,80 @@ footer{
     }
 
     header{
-        background-color: #070707af;
         position: sticky; /*grudavel*/
         top: -1px;
-        /*tentar tirar o backgroung*/
+        background-color: #070707af;
     }
-    header div img{ /*tirou todos os icones*/
-        display: none;
-        padding: 5px;
+    header #titulo{
+        font-size: 1em;
+        padding: 10px;
     }
-    header #logo{
-        display: block;
-        width: 20px; height: 40px;
-        margin-left: 25px;
-        padding-right: 30px;
+    header div{
+        display: flex;
+    }
+    
+    #iconeslat{
+        margin-top: 10px;
+        margin-left: 20%;
+    }
+    .img{
+        width: 28px; height: 26px;
+    
+        /*colocar animation na lupa*/
     }
     header #chrome{
         display: block;
         width: 22px; height: 19px;
-        padding-right: 0px;
     }
     header #lupa{
         display: block;
         width: 22px; height: 22px; 
     }
-    #sominhaimg{
-        display: none;
+
+    #foto{
+        text-align: center;
     }
-    #imgcseta{
-        display: none;
+    #foto img{
+        text-align: center;
+        padding-top: 10px;
+        width: 80px;
+        border-radius: 10px;
+    }
+    #foto a{
+        display: flex;
+        text-align: center;
+        text-decoration: none;
+        color: white;
+    }
+    #foto h2{
+        font-size: 1.5em;
+        padding-left: 35%;
+    }
+    #foto #setapbaixo{
+        display: flex;
+        width: 18px; height: 15px;
+        margin-left: 5px;
     }
 
-    header #botoes{
-        display: block;
-        position: sticky;
+    .notdow{
+        display: flex;
     }
-    header #botoes button{
-        cursor: pointer;
-        background-color: #2e2e2ec4;
-        color: rgba(255, 255, 255, 0.863);
-        border: 1px solid rgba(255, 255, 255, 0.76);
-        border-radius: 15px;
-        font-size: 1em;
-        padding: 5px 11px 5px 11px;
-        margin: 1px -10px 6px 15px;
+    .notdow a{
+        display: flex;
+        padding-left: 2%;
+        text-decoration: none;
     }
-    header #botoes img{
-        display: inline;
-        width: 15px; height: 15px;
-        margin: -3px;
-        margin-left: 1px;
-        padding: 0px;
+    .notdow img{
+        width: 40px; height: 40px;
+    }
+    .notdow p{
+        color: white;
+        margin: 10px;
+        font-size: 1.1em;
+    }
+    .notdow #setpdireita{
+        width: 20px; height: 25px;
+        margin: 8px;
     }
 
     article div h2{
@@ -325,9 +146,21 @@ footer{
         cursor: pointer;
     }
     
-    .semimagem{
-        display: none;
+    #mlist{
+        display: flex;
     }
+    #mlist h2{
+        font-size: 1.2em;
+        padding-left: 2%;
+        padding-right: 60%;
+    }
+    #mlist a{
+        padding-top: 10%;
+    }
+    #mlist img{
+        width: 20px; height: 25px;
+    }
+
     .primeiro{
         padding-left: 2%;
     }
@@ -365,36 +198,3 @@ footer{
         font-weight: 600;
     }
 }
-/*main .galary{
-        display: block;
-    }
-    main .fotos{
-        width: 200%;
-    }
-    main .fotos .primeiro{
-        margin-left: -10px;
-    }
-    /*.galary .fotos{
-        width: 500%;
-        animation-name: animacao;
-        animation-duration: 20s;
-        animation-iteration-count: infinite;
-    }*/
-    /*section .fotos img{
-        width: 93px; height: 130px;
-        border-radius: 3px;
-        padding-top: 10px;
-        margin-right: 2px;
-        cursor: pointer;
-    }*/
-    /*@keyframes animacao {
-        0% { margin-left: 0; }
-        20% { margin-left: 0; }
-        25% { margin-left: -100; }
-        45% { margin-left: -100; }
-        50% { margin-left: -200; }
-        70% { margin-left: -200; }
-        75% { margin-left: -300; }
-        95% { margin-left: -300; }
-        100% { margin-left: -400; }
-    }*/

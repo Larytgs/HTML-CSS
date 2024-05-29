@@ -33,7 +33,7 @@ header{
 }
 header div {
     display: flex;
-    justify-content: left;
+    /*justify-content: left;*/
     padding-top: 4px;
 }
 #primeiroID{
@@ -44,6 +44,7 @@ header h2, #logo, nav{
 }
 header #logogrande{
     width: 115px;  height: 50px;
+    margin-left: 30%;
 }
 header #chrome, #botoes{
     display: none;
@@ -60,6 +61,7 @@ header p{
     font-size: 0.8em;
     font-weight: 600;
     color: #ffffffc0;
+
 }
 header p:hover{ /*p tds ficarem mais escuros*/
     color: #ffffff83;

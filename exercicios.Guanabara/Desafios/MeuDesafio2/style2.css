@@ -27,7 +27,7 @@ header div {
     display: flex;
     padding: 4px;
 }
-header #logo{
+header #logocll{
     display: none;
 }
 header #logogrande{
@@ -253,7 +253,7 @@ footer{
         display: none;
         padding: 5px;
     }
-    header #logo{
+    header #logocll{
         display: block;
         width: 20px; height: 40px;
         margin-left: 25px;

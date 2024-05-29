@@ -36,6 +36,9 @@ header div {
 
     padding: 4px;
 }
+header h2{
+    display: none;
+}
 header #logo{
     display: none;
 }
@@ -72,16 +75,22 @@ header a:hover{ /*p ele ficar mais escuro tb*/
     color: #ffffff83;
     transition: 0.5s;
 }
+header #botoes{
+    display: none;
+}
 
 #iconeslat{
     margin-top: 10px;
     margin-left: 28.7%;
 }
+#iconeslatcll{
+    display: none;
+}
 .img{
     width: 28px; height: 26px;
+
+    /*colocar animation na lupa*/
 }
-
-
 #sominhaimg{
     display: none;
 }
@@ -96,31 +105,40 @@ header a:hover{ /*p ele ficar mais escuro tb*/
     display: block;
     position: absolute;
 
-    background-color: rgba(0, 0, 0, 0.849);
-    height: 380px; width: 200px;
-    margin-top: 1.5%;
-    margin-left: -9%;
+    background-color: rgba(0, 0, 0, 0.904);
+    height: 330px; width: 200px;
+    margin-top: 1.6%;
+    margin-left: -12%;
 }
 #principal img{
     position: absolute;
-    width: 30px; height: 30px;
+    width: 32px; height: 32px;
     left: 1px;
     bottom: -1px;
-    padding-left: 4px;
 }
-#principal .imgmenor{
-    padding-left: 10px;
-    width: 20px; height: 20px;
+#principal a{
+    margin-bottom: -2px;
+}
+#iconesmenor{
+    display: flex;
+    flex-direction: column;
+}
+#iconesmenor a{
+    margin-bottom: -9px;
+}
+#iconesmenor .imgmenor{
+    width: 25px; height: 25px;
+    padding-left: 3px;
 }
 #principal a{
     position: relative;
     display: flex;
     text-decoration: none;
-    font-size: 1em;
 }
 #principal p{
     display: inline;
     padding-left: 40px;
+    font-size: 0.8em;
 }
 #sair{
     font-size: 0.9em;
@@ -177,13 +195,22 @@ article div img{
         top: -1px;
         /*tentar tirar o backgroung*/
     }
+    header #logogrande{
+        display: none;
+    }
     header #titulo{
-        font-size: 1em;
+        display: none;
+    }
+    header h2{
+        display: block;
+        font-size: 1.4em;
         padding: 10px;
         margin-right: 5%;
     }    
-    
     #iconeslat{
+        display: none;
+    }
+    #iconeslatcll{
         display: block;
         margin-top: 10px;
         margin-left: 43%;

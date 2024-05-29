@@ -99,7 +99,9 @@ footer{
     }
 
     .notdow{
-        display: flex;
+        display: flex; /*coloquei na lateral os icones*/
+        align-items: center; /*centralizar os icones*/
+        justify-content: space-between; /*espaçamento igual*/
     }
     .notdow a{
         display: flex;

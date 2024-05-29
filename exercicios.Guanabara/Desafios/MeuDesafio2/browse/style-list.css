@@ -200,9 +200,7 @@ article div img{
     header nav{
         margin: 5px;
         display: flex;
-        align-items: center; /*centralizar os icones*/
         justify-content: space-between; /*espaçamento igual*/
-
     }
     #iconeslatcll{
         display: flex;

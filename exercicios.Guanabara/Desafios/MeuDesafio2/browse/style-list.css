@@ -35,7 +35,7 @@ header div {
     display: flex;
     padding: 4px;
 }
-header h2, hr, #logo, #titulocll{
+header h2, hr, #logo, nav{
     display: none;
 }
 header #logogrande{
@@ -197,28 +197,32 @@ article div img{
     header #logogrande, #titulonote, #iconeslat, #paranote{
         display: none;
     }
-    #titulocll{
-        display: flex; /*coloquei na lateral os icones*/
+    header nav{
+        margin: 5px;
+        display: flex;
+        align-items: center; /*centralizar os icones*/
         justify-content: space-between; /*espaçamento igual*/
-        padding: 10px;
+
     }
-    #titulocll #iconeslatcll{
-        display: block;
-        margin-left: 125%;
+    #iconeslatcll{
+        display: flex;
         width: 28px; height: 28px; 
     }
-    #titulocll img{
+    nav img{
         width: 28px; height: 25px;
     }
-    header h2{
+    header #T1{
         display: inline;
-        font-size: 1em;
-        margin-left: 20px;
+        font-size: 1.3em;
+    }
+    header #T2{
+        display: block;
+        margin-top: 10px;
+        font-size: 1.1em;
+        margin-left: 15px;
     }
 
     
-
-
     header #botoes{
         display: block;
     }
@@ -289,7 +293,8 @@ article div img{
         margin-top: 70px;
     }
     article #fotos .play{
-        width: 50px; height: 50px;
+        width: 35px; height: 35px;
+        margin-top: 45px;
     }
     .primeiro{
         padding-left: 0%;

@@ -49,6 +49,7 @@ footer{
     header #titulo{
         font-size: 1em;
         padding: 10px;
+        margin-right: 5%;
     }
     header div{
         display: flex;

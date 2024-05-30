@@ -29,7 +29,7 @@ header div {
     padding-top: 3px;
 }
 header #logogrande{
-    margin-left: 35px; margin-right: 15px;
+    margin-left: -14px; margin-right: -50px;
     width: 115px;  height: 50px;
     cursor: pointer;
 }
@@ -63,23 +63,31 @@ header a:hover{ /*p ele ficar mais escuro tb*/
     transition: 0.5s;
 }
 
-
+#titulos{
+    margin-right: 25%;
+    
+}
 #iconeslat{
     margin-top: 10px;
-    margin-right: 40px;
+    margin-right: 5%;
 }
+#lupa{
+    width: 28px; height: 26px;
+    padding-top: 3px;
+    /*colocar animation na lupa*/
+}
+#sino{
+    width: 28px; height: 24px;
+    margin-right: 5px;
+    padding-top: 5px;
+}
+
 #iconeslatcll{
     display: none;
-}
-.img{
-    width: 28px; height: 26px;
-
-    /*colocar animation na lupa*/
 }
 #sominhaimg{
     display: none;
 }
-
 #imgcseta{
     display: block;
     width: 53px; height: 33px;
@@ -171,10 +179,77 @@ article div img{
 
 
 
-@media (max-width: 1100px){
+@media (max-width: 850px){
+    
     header div {
         display: flex;
-        padding: 4px;
+        justify-content: space-between;
+        padding-top: 3px;
+    }
+    header #logogrande{
+        margin-left: -300%; margin-right: -50px;
+        width: 115px;  height: 50px;
+        cursor: pointer;
+    }
+    #titulos{
+        display: none;
+    }
+}
+
+@media (max-width: 730px){
+    
+    header div {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 3px;
+    }
+    header #logogrande, #titulos, #iconeslat{
+        display: none;
+    }
+
+    header nav{
+        display: flex;
+        justify-content: space-between;
+        margin: 10px;
+    }
+    nav img{
+        width: 28px; height: 25px;
+    }
+    header #T1{
+        display: flex;
+        font-size: 1.3em;
+        padding-right: 123px;
+    }
+    #lapis{
+        width: 28px; height: 25px; 
+    }
+    header #T2{
+        display: block;
+        margin-top: 14px;
+        font-size: 1.1em;
+        margin-left: 15px;
+    }
+
+    
+    header #botoes{
+        display: block;
+    }
+    header #botoes button{
+        cursor: pointer;
+        background-color: #2e2e2ec4;
+        color: rgba(255, 255, 255, 0.863);
+        border: 1px solid rgba(255, 255, 255, 0.76);
+        border-radius: 15px;
+        font-size: 0.8em;
+        padding: 5px 11px 5px 11px;
+        margin: 1px -10px 6px 15px;
+    }
+    header #botoes img{
+        display: inline;
+        width: 15px; height: 15px;
+        margin: -3px;
+        margin-left: 1px;
+        padding: 0px;
     }
 }
 
@@ -191,34 +266,29 @@ article div img{
         top: -1px;
         /*tentar tirar o backgroung*/
     }
-    header #logogrande, #titulonote, #iconeslat, #paranote{
+    header #logogrande, #titulos, #iconeslat, #paranote{
         display: none;
     }
-    header div{
+
+    header nav{
         display: flex;
         justify-content: space-between;
-    }
-    #primeiroID{
-        display: block;
-    }
-    header nav{
-        margin: 5px;
-        display: flex;
-    }
-    #iconeslatcll{
-        display: flex;
-        width: 28px; height: 28px; 
+        margin: 10px;
     }
     nav img{
         width: 28px; height: 25px;
     }
     header #T1{
-        display: inline;
+        display: flex;
         font-size: 1.3em;
+        padding-right: 123px;
+    }
+    #lapis{
+        width: 28px; height: 25px; 
     }
     header #T2{
         display: block;
-        margin-top: 10px;
+        margin-top: 14px;
         font-size: 1.1em;
         margin-left: 15px;
     }
@@ -227,10 +297,6 @@ article div img{
     header #botoes{
         display: block;
     }
-    /*header #botoes{
-        display: block;
-        position: sticky;
-    }*/
     header #botoes button{
         cursor: pointer;
         background-color: #2e2e2ec4;
@@ -239,7 +305,7 @@ article div img{
         border-radius: 15px;
         font-size: 0.8em;
         padding: 5px 11px 5px 11px;
-        margin: 1px -10px 6px 15px;
+        margin: 10px -10px 6px 15px;
     }
     header #botoes img{
         display: inline;
@@ -287,15 +353,16 @@ article div img{
         display: flex;
         width: 145px; height: 80px;
         border-radius: 10px;
-        cursor: pointer;
+        margin: 0px;
+        margin-left: 5px;
     }
     article #fotos p{
         font-size: 0.8em;
-        margin-top: 70px;
+        margin-top: 40px;
     }
     article #fotos .play{
         width: 35px; height: 35px;
-        margin-top: 45px;
+        margin-top: 15px;
     }
     .primeiro{
         padding-left: 0%;

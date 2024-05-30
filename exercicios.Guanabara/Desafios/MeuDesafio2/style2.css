@@ -294,10 +294,10 @@ footer{
     }
 
     header #botoes{
-        display: block;
-        position: sticky;
+        display: flex;
     }
     header #botoes button{
+        justify-content: space-between;
         cursor: pointer;
         background-color: #2e2e2ec4;
         color: rgba(255, 255, 255, 0.863);
@@ -305,7 +305,7 @@ footer{
         border-radius: 15px;
         font-size: 1em;
         padding: 5px 11px 5px 11px;
-        margin: 1px -10px 6px 15px;
+        margin-top: 10px;
     }
     header #botoes img{
         display: inline;
@@ -313,6 +313,17 @@ footer{
         margin: -3px;
         margin-left: 1px;
         padding: 0px;
+    }
+
+    #categoriaoculta div{
+        display: none;
+    }
+    #categoriaoculta:active div{
+        display: block;
+        position: absolute;
+
+        background-color: rgba(0, 0, 0, 0.904);
+        height: 350px; width: 200px;
     }
 
     article div h2{

@@ -85,6 +85,7 @@ header #titulos p:hover{ /*p tds ficarem mais escuros*/
 #imgcseta{
     display: block;
     width: 53px; height: 33px;
+    cursor: pointer;
 }
 
 #oculto #principal{
@@ -95,41 +96,22 @@ header #titulos p:hover{ /*p tds ficarem mais escuros*/
     position: absolute;
 
     background-color: rgba(0, 0, 0, 0.904);
-    height: 330px; width: 200px;
+    height: 350px; width: 200px;
     margin-top: 1.6%;
     margin-left: -12%;
 }
 #principal img{
     position: absolute;
     width: 32px; height: 32px;
-    left: 1px;
+    left: 5px;
     bottom: -1px;
-}
-#principal a{
-    margin-bottom: -2px;
-}
-#iconesmenor{
-    display: flex;
-    flex-direction: column;
-}
-#iconesmenor a{
-    margin-bottom: -9px;
-}
-#iconesmenor .imgmenor{
-    width: 25px; height: 25px;
-    padding-left: 3px;
 }
 #principal a{
     position: relative;
     display: flex;
     text-decoration: none;
     cursor: pointer;
-    padding-top: 16px;
-    padding-left: 1px;
-}
-#principal a:hover{
-    text-decoration: underline;
-    
+    padding-top: 15px;
 }
 #principal p{
     display: inline;
@@ -138,12 +120,22 @@ header #titulos p:hover{ /*p tds ficarem mais escuros*/
     font-weight: 500;
     color: white;
 }
+#principal p:hover{
+    text-decoration: underline;
+}
+#iconesmenor{
+    display: flex;
+    flex-direction: column;
+}
+#iconesmenor img{
+    width: 25px; height: 25px;
+    padding-left: 5px;
+}
 #sair{
     font-size: 0.9em;
     color: white;
     font-weight: 600;
-    padding-top: 10px;
-    padding-left: 30%;
+    margin-left: 20%;
 }
 
 article div h2{

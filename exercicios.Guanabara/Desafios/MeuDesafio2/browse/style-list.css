@@ -16,7 +16,7 @@ body{
     background-color: #141414;
 
     overflow-x: hidden; /*tirando a rolagem horizontal*/
-} /*colocar border-radius em cima*/
+}
 
 header{
     position: sticky; /*grudavel*/
@@ -91,10 +91,13 @@ header a:hover{ /*p ele ficar mais escuro tb*/
 #sominhaimg{
     display: none;
 }
-#oculto{
-    display: block;
-}
+
 #imgcseta{
+    display: block;
+    width: 53px; height: 33px;
+    cursor: pointer;
+}
+#oculto{
     display: block;
 }
 
@@ -106,52 +109,50 @@ header a:hover{ /*p ele ficar mais escuro tb*/
     position: absolute;
 
     background-color: rgba(0, 0, 0, 0.904);
-    height: 330px; width: 200px;
+    height: 355px; width: 200px;
     margin-top: 1.6%;
     margin-left: -12%;
 }
 #principal img{
     position: absolute;
     width: 32px; height: 32px;
-    left: 1px;
-    bottom: -1px;
-}
-#principal a{
-    margin-bottom: -2px;
-}
-#iconesmenor{
-    display: flex;
-    flex-direction: column;
-}
-#iconesmenor a{
-    margin-bottom: -9px;
-}
-#iconesmenor .imgmenor{
-    width: 25px; height: 25px;
-    padding-left: 3px;
+    left: 7px;
+    top: 5px;
 }
 #principal a{
     position: relative;
     display: flex;
     text-decoration: none;
+    cursor: pointer;  
 }
 #principal p{
     display: inline;
-    padding-left: 40px;
+    margin-top: -9px;
+    margin-left: 28px;
+    padding-bottom: 10px;
     font-size: 0.8em;
+    font-weight: 500;
+    color: white;
+}
+#principal p:hover{
+    text-decoration: underline;
+}
+#iconesmenor{
+    display: flex;
+    flex-direction: column;
+}
+#iconesmenor img{
+    width: 25px; height: 25px;
+    padding-left: 7px;
 }
 #sair{
     font-size: 0.9em;
+    color: white;
+    font-weight: 600;
     padding-top: 10px;
-    padding-left: 20%;
+    margin-left: 20%;
 }
 
-#seta{
-    width: 12px; height: 8px; padding: 11px 8px;
-}
-#seta:hover{
-    padding-left: 0px;
-}
 
 #paranote{
     display: block;

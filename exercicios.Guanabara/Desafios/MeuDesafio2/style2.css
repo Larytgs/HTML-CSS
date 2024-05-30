@@ -26,7 +26,7 @@ header{
 header div {
     display: flex;
     justify-content: space-between;
-    padding:  3px;
+    padding: 3px;
 }
 header #logocll{
     display: none;

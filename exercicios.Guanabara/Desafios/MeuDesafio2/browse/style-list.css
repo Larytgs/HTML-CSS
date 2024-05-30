@@ -22,19 +22,16 @@ header{
     position: sticky; /*grudavel*/
     top: -1px;
     background-color: #07070727;
-
-    /*Tentar usar o JS
-    function fixarCabecalhoTopo() {
-    if (window.pageYOffset >= cabecalhoTop) {
-        cabecalho.style.positon = "relative";
-    } else {
-        cabecalho.style.positon = "fixed";
-    }*/
 }
 header div {
     display: flex;
-    /*justify-content: left;*/
-    padding-top: 4px;
+    justify-content: space-between;
+    padding-top: 3px;
+}
+header #logogrande{
+    margin-left: 35px; margin-right: 15px;
+    width: 115px;  height: 50px;
+    cursor: pointer;
 }
 #primeiroID{
     display: none;
@@ -42,26 +39,17 @@ header div {
 header h2, #logo, nav{
     display: none;
 }
-header #logogrande{
-    width: 115px;  height: 50px;
-    margin-left: 30%;
-}
 header #chrome, #botoes{
     display: none;
 }
 
-header img{
-    width: 115px; height: 51px;
-    cursor: pointer;
-}
 header p{
     cursor: pointer;
-    padding-top: 18px;
+    padding-top: 20px;
     padding-left: 19px;
     font-size: 0.8em;
     font-weight: 600;
     color: #ffffffc0;
-
 }
 header p:hover{ /*p tds ficarem mais escuros*/
     color: #ffffff83;
@@ -78,7 +66,7 @@ header a:hover{ /*p ele ficar mais escuro tb*/
 
 #iconeslat{
     margin-top: 10px;
-    margin-left: 35%;
+    margin-right: 40px;
 }
 #iconeslatcll{
     display: none;

@@ -47,15 +47,16 @@
             </div>
         </div>
         <div id="botoes">
-            <button style="margin-right: -50px;" type="button">Séries</button>
-            <button style="margin-right: 0px;" type="button">Filmes</button>
-            <nav id="categoriaoculta">
-                <button type="button">Categorias  <img src="./imagens/setapbaixo.png"></button>
-                <div>
-                    <p>oi</p>
-                    <p>oi</p>
+            <button type="button">Séries</button>
+            <button type="button">Filmes</button>
+            <button onclick="mostrar('tabelacategoria')" type="button">Categorias<img src="./imagens/setapbaixo.png"></button>
+            <div id="onde-vai-mostrar">
+                <div id="tabelacategoria">
+                    <p>Aventura</p>
+                    <p>Comédia</p>
+                    <p>Ação</p>
                 </div>
-            </nav>
+            </div>
         </div>
     </header>
     <main>
@@ -91,7 +92,7 @@
         </article>
 
         <article>
-            <div> 
+            <div style="margin-top: -15px;"> 
                 <h2>Minha lista</h2>
                 <picture>
                     <source media="(max-width: 450px)" srcset="imagens/filmes.series/todomundomeama2.png" type="image/png">
@@ -298,6 +299,6 @@
         </div>
     </footer>
 
-    <!--<script src="script.js"></script>-->
+    <script src="script.js"></script>
 </body>
 </html>

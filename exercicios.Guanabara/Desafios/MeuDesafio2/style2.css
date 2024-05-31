@@ -295,9 +295,9 @@ footer{
 
     header #botoes{
         display: flex;
+        justify-content: left;
     }
     header #botoes button{
-        justify-content: space-between;
         cursor: pointer;
         background-color: #2e2e2ec4;
         color: rgba(255, 255, 255, 0.863);
@@ -306,25 +306,32 @@ footer{
         font-size: 1em;
         padding: 5px 11px 5px 11px;
         margin-top: 10px;
+        margin-left: 10px;
     }
     header #botoes img{
         display: inline;
         width: 15px; height: 15px;
         margin: -3px;
-        margin-left: 1px;
+        margin-left: 5px;
         padding: 0px;
     }
-
-    #categoriaoculta div{
-        display: none;
+    #onde-vai-mostrar div p{
+        display: flex;
+        font-size: 1em;
+        padding: 0px;
     }
-    #categoriaoculta:active div{
+    #tabelacategoria{
+        display: none;
+        width: 300px; 
+        background-color: red;
+    }
+    /*#tabelacategoria:active div{
         display: block;
         position: absolute;
 
         background-color: rgba(0, 0, 0, 0.904);
         height: 350px; width: 200px;
-    }
+    }*/
 
     article div h2{
         font-size: 1.2em;

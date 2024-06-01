@@ -45,6 +45,7 @@
 
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio/MeuInstagram.html" target="_blank">Executar o Desafio do Instagram</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio2/MinhaNetflix.html" target="_blank">Executar o Desafio da Netflix</a>
+* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/MeuDesafio3/veterinariasaolourenco.html" target="_blank">Executar o Desafio Veterinária</a>
 
 ## **Uns dos meus Exercicios do Curso em Video:**
 

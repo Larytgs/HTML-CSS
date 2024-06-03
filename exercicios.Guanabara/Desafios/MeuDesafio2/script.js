@@ -1,8 +1,8 @@
-function mostrar(elemento){
-    var display = document.getElementById(elemento).style.display;
-    if (display == 'none'){
-        document.getElementById(elemento).style.display = 'block';
+function sair(elemento){
+    var lista = document.getElementById(elemento).style.lista;
+    if (lista == 'block'){
+        document.getElementById(elemento).style.lista = 'none';
     }else{
-        document.getElementById(elemento).style.display = 'none';
+        document.getElementById(elemento).style.lista = 'block';
     }
 }

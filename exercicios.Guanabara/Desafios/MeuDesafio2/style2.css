@@ -316,23 +316,14 @@ footer{
         margin-left: 5px;
         padding: 0px;
     }
-    /*#onde-vai-mostrar div p{
-        display: flex;
-        font-size: 1em;
-        padding: 0px;
-    }
-    #tabelacategoria{
-        display: none;
-        width: 300px; 
-        background-color: red;
-    }*/
-    #categoriaoculta:hover #lista{            
+    
+    
+    #categoriaoculta #lista{  
+        display: none;          
         position: relative;
         height: 95vh;
         padding: 10px;
-    }
-    #categoriaoculta #lista{
-        display: none;
+        text-align: center;
     }
     #categoriaoculta:hover #lista{
         display: block;
@@ -356,11 +347,9 @@ footer{
     #lista a:hover{
         text-decoration: underline;
     }
-    #lista img{
-        width: 100px; height: 100px;
+    #lista #x{
+        width: 60px; height: 60px;
         cursor: pointer;
-        text-align: center;
-        margin-bottom: 10%;
     }
 
     article div h2{

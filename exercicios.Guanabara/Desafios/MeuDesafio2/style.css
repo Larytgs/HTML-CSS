@@ -56,7 +56,7 @@ main nav img{
 }
 main nav img:hover{
     box-shadow: 1px 1px 2px 2px rgba(255, 255, 255, 0.87);
-    padding: 0%;
+    padding: 0%; /*para tirar as tremidas das fts*/
 }
 main p{
     color: #e5e5e583;
@@ -94,24 +94,25 @@ footer a:hover{
 }
 
 
-@media (max-width: 700px) {
+@media (max-width: 750px) {
 
     header h2{
         margin: 0px;
         margin-top: 55%;
-        font-size: 1.9em;
+        font-size: 2em;
     }
 
     main div a{
         padding-right: 0px;
     }
     main div img{
-        width: 80px; height: 80px;
-        padding-top: 20px;
+        width: 100px; height: 100px;
+        margin-top: 20px;
+        padding: 0%;
     }
     main p{
-        padding: 0px;
-        font-size: 0.7em;
+        padding-top: 3px;
+        font-size: 0.9em;
     }
 
     footer{
@@ -119,7 +120,7 @@ footer a:hover{
     }
     footer a{
         padding: 8px 25px 8px 25px; 
-        font-size: 0.8em;
+        font-size: 0.9em;
     }
 }
 

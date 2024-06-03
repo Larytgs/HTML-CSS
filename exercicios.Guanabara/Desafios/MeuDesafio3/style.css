@@ -5,19 +5,20 @@
     padding: 0px;
 }
 body{
-    background-color: #96c95c94;
+    background-image: linear-gradient(to top, #025B18, #1F8F3B, #51C26D, #98F5AF);
     text-align: justify;
     margin: 0px;
-    overflow-x: hidden;
 }
 header{
-    background-image: linear-gradient(to top, #025B18, #1F8F3B, #51C26D, #98F5AF);
-    border: 1px solid black;
+    background-color: #51C26D;
     padding: 10px;
     height: 150%;
 
     display: flex;
     justify-content: space-between;
+}
+main{
+    overflow-x: hidden;
 }
 #logo img{
     width: 120px; height: 120px;

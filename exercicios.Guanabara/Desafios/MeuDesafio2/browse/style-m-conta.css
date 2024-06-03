@@ -177,33 +177,83 @@ footer{
         margin-bottom: 80px;
     }
 
-    footer{
+    #principal{
         display: block;
         width: 99vh;
         position: fixed; /*grudavel*/
         bottom: 0px;
         background-color: #000000;
     }
-    footer div{
+    #principal div{
         display: flex;
     }
-    footer #primeirof{
+    #principal #primeirof{
         margin-left: 5%;
     }
-    footer img{
+    #principal img{
         display: flex;
         width: 28px; height: 28px;
         padding-top: 5px;
         margin-right: 60px;
     }
-    footer a{
+    #principal a{
         text-decoration: none;
     }
-    footer p{
+    #principal p{
         margin-top: 5px;
         margin-bottom: 10px;
         color: white;
         font-size: 0.6em;
         font-weight: 600;
+    }
+
+    footer #paratrocarperfil{
+        display: none;
+        position: fixed; /*grudavel*/
+        bottom: 0px;
+    }
+    footer #todos{
+        display: inline-block;
+        background-color: #000000;
+        width: 400px;
+    }
+    footer #parte1{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+        margin-bottom: 8px;
+    }
+    footer #parte1 h1{
+        font-size: 1.4em;
+        font-family: 'Times New Roman', Times, serif;
+        padding-left: 5%;
+        padding-right: 30%;
+    }
+    footer #parte1 img{
+        margin-top: -6px;
+    }
+    footer #parte2 img{
+        display: flex;
+        margin-right: 15px;
+        width: 40px; height: 40px;
+    }
+    footer #parte3{
+        display: flex;
+        margin-bottom: 10px;
+    }
+    footer #parte3 a{
+        text-decoration: none;
+        color: white;
+    }
+    footer #parte3 h1{
+        font-size: 1.1em;
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: -50px;
+        margin-top: 10px;
+    }
+    footer #parte3 img{
+        margin-left: 100px;
+        margin-top: 5px;
+        width: 22px; height: 20px;
     }
 }

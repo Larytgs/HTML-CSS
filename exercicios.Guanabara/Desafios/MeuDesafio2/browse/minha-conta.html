@@ -23,7 +23,7 @@
     <main>
         <article id="foto">
             <img src="../imagens/LaryssaPerfil.png">
-            <a href="#"><h2>Laryssa</h2><img id="setapbaixo" src="../imagens/setapbaixo.png"></a>
+            <a onclick="menufooter('paratrocarperfil')" href="#"><h2>Laryssa</h2><img id="setapbaixo" src="../imagens/setapbaixo.png"></a>
         </article>
 
         <article class="notdow" style="padding-top: 30px;">
@@ -66,15 +66,56 @@
 
     </main>
 
-    <footer>
+    <footer id="principal">
         <div>
             <a id="primeirof" href="../browse.html"><img style="height: 25px; padding-top: 7px; " src="../imagens/casa.png"><div><p style="margin-left: 3px;">Início</p></div></a>
             <a href="#"><img src="../imagens/game.png"><div><p style="margin-left: 1px;">Jogos</p></div></a>
             <a href="#"><img src="../imagens/nvdds.png"><div><p style="margin-left: -3px;">Novidade</p></div></a>
             <a href="#"><img src="../imagens/LaryssaPerfil.png"><div><p style="margin-left: -12px;">Minha netflix</p></div></a>
         </div>
+
+        <div id="paratrocarperfil">
+            <div id="todos">
+                <div id="parte1">
+                    <h1>Troque de perfil</h1>
+                    <img src="../imagens/X.png" alt="X">
+                </div>
+                <div id="parte2">
+                    <a style="margin-left: 45px;" href="#"><img src="../imagens/LaryssaPerfil.png" alt="Laryssa"><p>Laryssa</p></a>
+                    <a href="#"><img src="../imagens/GisaPerfil.png" alt="Gisa"><p style="padding-left: 8px;">Gisa</p></a>
+                    <a href="#"><img src="../imagens/MatheusPerfil.png" alt="Matheus"><p style="padding-left: 8px;">Math</p></a>
+                    <a href="#"><img src="../imagens/SaraPerfil.png" alt="Sara"><p style="padding-left: 5px;">Sarita</p></a>
+                    <a href="#"><img src="../imagens/InfantilPerfil.png" alt="Infantil"><p style="padding-left: 4px;">Infantil</p></a>
+                </div>
+                <div id="parte3">
+                    <img src="../imagens/lapis.png" alt="">
+                    <a href="../ManageProfiles.html"><h1>Gerenciar perfis</h1></a>
+                </div>
+            </div>
+        </div>
     </footer>
 
+    <script>
+        function menufooter(elemento){
+            var display = document.getElementById(elemento).style.display;
+            if (display == 'none'){ //vai dxar o 2º footer block
+                document.getElementById(elemento).style.display = 'block';
+                display.addEventListener('click', clicar1)
+            }else{ //vai dxar o 2º footer none
+                document.getElementById(elemento).style.display = 'none';
+                display.addEventListener('click', clicar2)
+            }
+        }
+        function clicar1(){ //vai dxar o principal none
+            var principal = document.getElementById('principal')
+            document.getElementById('principal').style.display = 'none';
+        }
+        function clicar2() { //vai dxar o principal block
+            var principal = document.getElementById('principal')
+            document.getElementById('principal').style.display = 'block';
+        }
+        
+    </script>
     <!--<script src="script.js"></script>-->
 </body>
 </html>

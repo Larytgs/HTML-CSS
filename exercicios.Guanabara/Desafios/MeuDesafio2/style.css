@@ -35,7 +35,6 @@ body{
 header div img{ /*Parte inicial*/
     display: none;
 }
-
 header h2{
     margin: 30px;
     margin-top: 24%;
@@ -43,31 +42,25 @@ header h2{
     font: 100 2.8em var(--fonteEle);
 }
 
-main div nav{
+main nav{
     display: flex;
-    align-items: center; /*alinhado do centro*/
 }
-main div a{
+main nav a{
     text-decoration: none;
-    padding: 5px;
     padding-right: 15px;
 }
-main div .click{
-    transition: 10s;
-}
-main div img{
+main nav img{
     width: 138px; height: 138px;
     margin-right: 5px;
     border-radius: 5px;
 }
-main div img:hover{
+main nav img:active{
     border: 3px solid white;
 }
-
 main p{
     color: #e5e5e583;
     text-align: center;
-    padding: 5px;
+    padding-top: 5px;
     font-size: 1em;
 }
 
@@ -182,18 +175,17 @@ footer a:hover{
         text-align: center;
     }
 
-    main div nav{
+    main nav{
         display: block;
         columns: 2;
     }
-    main div img{
+    main nav img{
         width: 100px; height: 100px;
-        padding-top: 25px;
     }
-    main div img:hover{
+    main nav img:active{
         border: none;
     }
-    main p{
+    main nav p{
         padding-top: 3px;
         font-size: 0.9em;
         color: white;

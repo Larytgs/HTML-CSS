@@ -233,12 +233,13 @@ footer{
     }
     footer #parte2 img{
         display: flex;
-        margin-right: 15px;
-        width: 40px; height: 40px;
+        margin-right: 10px;
+        width: 45px; height: 45px;
+        border-radius: 10px;
     }
     footer #parte3{
         display: flex;
-        margin-bottom: 10px;
+        margin-bottom: 15px;
     }
     footer #parte3 a{
         text-decoration: none;

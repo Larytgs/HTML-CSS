@@ -317,7 +317,7 @@ footer{
         padding: 0px;
     }
     
-    
+
     #categoriaoculta #lista{  
         display: none;          
         position: relative;
@@ -350,6 +350,7 @@ footer{
     #lista #x{
         width: 60px; height: 60px;
         cursor: pointer;
+        padding-bottom: 12px;
     }
 
     article div h2{

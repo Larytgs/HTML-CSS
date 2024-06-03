@@ -337,12 +337,12 @@ footer{
     }
     #lista a{
         display: flex;
-        align-items: center;
         text-decoration: none;
         color: white;
         cursor: pointer;
         font-size: 1.4em;
         padding-top: 2%;
+        text-align: center;
     }
     #lista a:hover{
         text-decoration: underline;

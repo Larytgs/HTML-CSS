@@ -218,7 +218,7 @@ article div img{
     header #T1{
         display: flex;
         font-size: 1.3em;
-        padding-right: 155px;
+        padding-right: 123px;
     }
     #lapis{
         width: 28px; height: 25px; 
@@ -281,7 +281,7 @@ article div img{
     header #T1{
         display: flex;
         font-size: 1.3em;
-        padding-right: 123px;
+        padding-right: 155px;
     }
     #lapis{
         width: 28px; height: 25px; 
@@ -320,7 +320,7 @@ article div img{
     }
     article div p{
         color: white;
-        margin-top: 2%;
+        margin-top: 3%;
         margin-left: 2%;
         margin-bottom: -5%;
         font-size: 0.8em;
@@ -334,11 +334,11 @@ article div img{
         color: white;
         padding-left: 2%;
         font-weight: 600;
-        margin-bottom: -20px;
+        padding-bottom: 5px;
     }
     article div div img{
         width: 10px; height: 10px;
-        margin-top: 33px;
+        margin-top: 26px;
         margin-left: 5px;
     }
 

@@ -54,8 +54,9 @@ main nav img{
     margin-right: 5px;
     border-radius: 5px;
 }
-main nav img:active{
-    border: 3px solid white;
+main nav img:hover{
+    box-shadow: 1px 1px 2px 2px rgba(255, 255, 255, 0.87);
+    padding: 0%;
 }
 main p{
     color: #e5e5e583;
@@ -107,11 +108,6 @@ footer a:hover{
     main div img{
         width: 80px; height: 80px;
         padding-top: 20px;
-    }
-    main div img:hover{
-        border: 2px solid white;
-        padding: 0px;
-        animation: none;
     }
     main p{
         padding: 0px;
@@ -175,15 +171,15 @@ footer a:hover{
         text-align: center;
     }
 
+
     main nav{
         display: block;
         columns: 2;
     }
     main nav img{
         width: 100px; height: 100px;
-    }
-    main nav img:active{
-        border: none;
+        padding: 0%;
+        margin-top: 10px;
     }
     main nav p{
         padding-top: 3px;

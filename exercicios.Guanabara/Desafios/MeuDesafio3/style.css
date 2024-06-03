@@ -13,9 +13,37 @@ body{
 header{
     background-image: linear-gradient(to top, #025B18, #1F8F3B, #51C26D, #98F5AF);
     border: 1px solid black;
-    padding: 20px;
+    padding: 10px;
     height: 150%;
+
+    display: flex;
+    justify-content: space-between;
 }
+#logo img{
+    width: 120px; height: 120px;
+    margin-left: 30px;
+}
+#titulos{
+    display: flex;
+}
+#titulos a{
+    text-decoration: none;
+    margin-top: 40px;
+    margin-right: 15px;
+}
+#titulos h1{
+    color: white;
+    font-size: 1.5em;
+}
+#titulos h1:hover{
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.795);
+}
+#sociais img{
+    width: 40px; height: 40px;
+    margin-top: 30px;
+}
+
+
 main{
     margin: 0px 50px;
     border: 1px solid black;

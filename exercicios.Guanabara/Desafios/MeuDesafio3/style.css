@@ -4,18 +4,18 @@
     font-family: 'elegante';
     src: url(fonts/Elegante\ Classica.ttf) format(truetype);
 }
-@font-face {
-    font-family: 'elegante2';
-    src: url(fonts/Cream\ Cake.otf) format(opentype);
-}
 
+:root{
+    --titulos: 'elegante', Times, serif;
+    --paragrafos: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
 * {
     margin: 0px;
     padding: 0px;
 }
+
 body{
     background-image: linear-gradient(to top, #025B18, #1F8F3B, #51C26D, #98F5AF);
-    text-align: justify;
     margin: 0px;
 }
 
@@ -40,8 +40,8 @@ header #titulos a{
     text-decoration: none;
 }
 header #titulos h1{
-    font: 600 1.5em 'elegante', Times, serif;
-    color: white;
+    font: 600 1.5em var(--titulos);
+    color: black;
     margin-top: 40px;
     margin-right: 15px;
 }
@@ -53,9 +53,7 @@ header #sociais img{
     margin-top: 30px;
 }
 
-/*main{
-    overflow-x: hidden;
-}*/
+
 main{
     margin: 0px 50px;
     border: 1px solid black;
@@ -79,7 +77,6 @@ main #primeiraimagem img{
 main #texto1{
     padding: 20px 50px;
     margin: 10px;
-    /*background-color: #51C26D;*/
     border-radius: 10px;
 }
 main #unidades{
@@ -88,20 +85,16 @@ main #unidades{
     text-align: center;
     padding: 20px 50px 10px 50px;
 }
-main #unidades a{
-    text-decoration: none;
-    color: #025B18;
-}
-main #unidades a img{
+main #unidades img{
     width: 25px;
 }
 main #unidades h1{
-    font: 600 1.4em 'elegante', Times, serif;
+    font: 600 1.4em var(--titulos);
     padding-bottom: 10px;
     text-align: center;
 }
 main #unidades p{
-    font: 100 0.9em 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font: 100 0.9em var(--paragrafos);
     width: 350px;
     padding: 5px;
 }
@@ -113,12 +106,12 @@ main #serviços{
     padding: 20px 50px 10px 50px;
 }
 main #serviços h1{
-    font: 600 1.4em 'elegante', Times, serif;
+    font: 600 1.4em var(--titulos);
     padding-bottom: 10px;
     text-align: center;
 }
 main #serviços p{
-    font: 100 0.9em 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font: 100 0.9em var(--paragrafos);
     width: 350px;
     padding: 5px;
 }
@@ -138,12 +131,12 @@ main #texto2 img{
     width: 130px; 
 }
 main #texto2 h1{
-    font: 600 1.1em 'elegante', Times, serif;
+    font: 600 1.1em var(--titulos);
     padding-top: 10px;
     text-align: left;
 }
 main #texto2 p{
-    font: 100 1em 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font: 100 1em var(--paragrafos);
     width: 370px;
     padding-top: 20px;
 }
@@ -153,7 +146,7 @@ main #texto3{
     padding: 30px 40px;
 }
 main #texto3 h1{
-    font: 600 1.4em 'elegante', Times, serif;
+    font: 600 1.4em var(--titulos);
     text-align: center;
 }
 main #saude{
@@ -167,12 +160,12 @@ main #saude img{
     width: 150px;
 }
 main #saude h1{
-    font: 600 1.1em 'elegante', Times, serif;
+    font: 600 1.1em var(--titulos);
     padding-top: 10px;
     text-align: center;
 }
 main #saude p{
-    font: 100 1em 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font: 100 1em var(--paragrafos);
     width: 350px;
     padding-top: 20px;
 }
@@ -186,24 +179,24 @@ main #texto4{
     border-radius: 10px;
 }
 main #texto4 h1{
-    font: 600 1.4em 'elegante', Times, serif;
+    font: 600 1.4em var(--titulos);
     text-align: center;
 }
-main .cuidados{
+main #cuidados{
     display: block;
     columns: 2;
 }
-main .cuidados img{
+main #cuidados img{
     width: 130px; 
     padding-top: 20px;
 }
-main #texto4 .cuidados h1{
+main #texto4 #cuidados h1{
     font: 600 1.1em 'elegante', Times, serif;
     padding-top: 10px;
     text-align: left;
 }
-main .cuidados p{
-    font: 100 1em 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+main #cuidados p{
+    font: 100 1em var(--paragrafos);
     width: 370px;
     padding-top: 20px;
 }
@@ -213,7 +206,7 @@ main #texto5{
     padding: 30px 50px;
 }
 main #texto5 h1{
-    font: 600 1.4em 'elegante', Times, serif;
+    font: 600 1.4em var(--titulos);
     text-align: center;
 }
 main #especialistas{
@@ -230,10 +223,8 @@ main #texto5 #especialistas ul{
     margin-top: 20px;
 }
 main #texto5 p{
-    font: 100 1em 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
-    padding-top: 20px;
-    padding-left: 30px;
-    padding-right: 30px;
+    font: 100 1em var(--paragrafos);
+    padding: 20px 30px;
 }
 
 
@@ -244,7 +235,7 @@ main #texto6{
     border-radius: 10px;
 }
 main #texto6 h1{
-    font: 600 1.4em 'elegante', Times, serif;
+    font: 600 1.4em var(--titulos);
     text-align: center;
 }
 main #carteirinha{
@@ -253,7 +244,7 @@ main #carteirinha{
     text-align: center;
 }
 main #carteirinha p{
-    font: 100 1em 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font: 100 1em var(--paragrafos);
     width: 370px;
     padding-top: 10%;
     padding-left: 30%;

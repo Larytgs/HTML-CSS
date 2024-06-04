@@ -9,7 +9,10 @@ body{
     text-align: justify;
     margin: 0px;
 }
+
 header{
+    position: sticky; /*grudavel*/
+    top: -1px;
     background-color: #51C26D;
     padding: 10px;
     height: 150%;
@@ -17,34 +20,33 @@ header{
     display: flex;
     justify-content: space-between;
 }
-main{
-    overflow-x: hidden;
-}
-#logo img{
+header #logo img{
     width: 120px; height: 120px;
     margin-left: 30px;
 }
-#titulos{
+header #titulos{
     display: flex;
 }
-#titulos a{
+header #titulos a{
     text-decoration: none;
     margin-top: 40px;
     margin-right: 15px;
 }
-#titulos h1{
+header #titulos h1{
     color: white;
     font-size: 1.5em;
 }
-#titulos h1:hover{
+header #titulos h1:hover{
     box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.795);
 }
-#sociais img{
-    width: 40px; height: 40px;
+header #sociais img{
+    width: 35px; height: 35px;
     margin-top: 30px;
 }
 
-
+/*main{
+    overflow-x: hidden;
+}*/
 main{
     margin: 0px 50px;
     border: 1px solid black;
@@ -58,8 +60,179 @@ main{
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
-main img{
+main #primeiraimagem img{
     width: 100%;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+}
+
+
+main #texto1{
+    padding: 20px 50px;
+    margin: 10px;
+    /*background-color: #51C26D;*/
+    border-radius: 10px;
+}
+main #unidades{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px 50px 10px 50px;
+}
+main #unidades a{
+    text-decoration: none;
+    color: #025B18;
+}
+main #unidades a img{
+    width: 35px;
+}
+main #unidades h1{
+    font: 600 1.4em 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+    text-align: center;
+}
+main #unidades p{
+    font: 600 1em 'Times New Roman', Times, serif;
+    width: 350px;
+    padding: 5px;
+}
+
+main #serviços{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px 50px 10px 50px;
+}
+main #serviços h1{
+    font: 600 1.4em 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+    text-align: center;
+}
+main #serviços p{
+    font: 600 1em 'Times New Roman', Times, serif;
+    width: 350px;
+    padding: 5px;
+}
+
+
+main #texto2{
+    padding: 20px 50px 20px 50px;
+    margin: 10px;
+    background-color: #51C26D;
+    border-radius: 10px;
+}
+main #texto2{
+    display: block;
+    columns: 2;
+}
+main #texto2 img{
+    width: 130px; 
+}
+main #texto2 h1{
+    font-size: 1.1em;
+    padding-top: 10px;
+    text-align: left;
+}
+main #texto2 p{
+    font-size: 1em;
+    width: 370px;
+    padding-top: 20px;
+}
+
+
+main #texto3{
+    padding: 30px 40px;
+}
+main #texto3 h1{
+    text-align: center;
+    font-size: 1.5em;
+}
+main #saude{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 20px 50px 10px 50px;
+}
+main #saude img{
+    width: 150px;
+}
+main #saude h1{
+    font-size: 1em;
+    padding-top: 10px;
+    text-align: center;
+}
+main #saude p{
+    font-size: 1em;
+    width: 350px;
+    padding-top: 20px;
+}
+
+
+
+main #texto4{
+    padding: 20px 50px 20px 50px;
+    margin: 10px;
+    background-color: #51C26D;
+    border-radius: 10px;
+}
+main #texto4 h1{
+    text-align: center;
+    font-size: 1.5em;
+}
+main .cuidados{
+    display: block;
+    columns: 2;
+}
+main .cuidados img{
+    width: 130px; 
+    padding-top: 20px;
+}
+main #texto4 .cuidados h1{
+    font-size: 1.1em;
+    padding-top: 10px;
+    text-align: left;
+}
+main .cuidados p{
+    font-size: 1em;
+    width: 370px;
+    padding-top: 20px;
+}
+
+
+main #texto5{
+    padding: 30px 50px;
+}
+main #texto5 h1{
+    text-align: center;
+    font-size: 1.5em;
+}
+main #texto5 ul{
+    margin-left: 40px;
+}
+main #texto5 p{
+    font-size: 1em;
+    width: 100%;
+    padding-top: 20px;
+}
+
+
+main #texto6{
+    padding: 20px 50px 20px 50px;
+    margin: 10px;
+    background-color: #51C26D;
+    border-radius: 10px;
+}
+main #texto6 h1{
+    text-align: center;
+    font-size: 1.5em;
+}
+main #carteirinha{
+    display: block;
+    columns: 2;
+}
+main #carteirinha p{
+    font-size: 1em;
+    width: 370px;
+    padding-top: 100px;
 }

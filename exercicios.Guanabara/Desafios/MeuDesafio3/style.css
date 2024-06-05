@@ -79,21 +79,21 @@ main #texto1{
     margin: 10px;
     border-radius: 10px;
 }
-main #unidades{
+main .unidades{
     display: flex;
     justify-content: space-between;
     text-align: center;
     padding: 20px 50px 10px 50px;
 }
-main #unidades img{
+main .unidades img{
     width: 25px;
 }
-main #unidades h1{
+main .unidades h1{
     font: 600 1.4em var(--titulos);
     padding-bottom: 10px;
     text-align: center;
 }
-main #unidades p{
+main .unidades p{
     font: 100 0.9em var(--paragrafos);
     width: 350px;
     padding: 5px;
@@ -219,7 +219,7 @@ main #texto5 #especialistas p{
     width: 400px;
 }
 main #texto5 #especialistas ul{
-    margin-left: 40px;
+    margin-left: 25%;
     margin-top: 20px;
 }
 main #texto5 p{
@@ -256,4 +256,65 @@ main #carteirinha img{
     margin-bottom: 20px;
     border-radius: 5px;
     transform: rotate(10deg);
+}
+
+
+aside{
+    background-color: #62C87B;
+    padding: 10px;
+    height: 150%;    
+}
+aside #contatos{
+    display: block;
+    columns: 2;
+}
+aside #contatos #logo img{
+    width: 120px; height: 120px;
+    margin-left: 50%;
+    margin-top: 5%;
+}
+aside #contatos a{
+    text-decoration: none;
+    color: black;
+    display: inline-flex;
+    align-items: end;
+    padding: 10px;
+    padding-top: 80px;
+}
+aside #contatos p:hover{
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.795);
+}
+aside #contatos img{
+    width: 35px; height: 35px;
+    padding: 2px;
+}
+
+aside .unidades{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px 50px 10px 50px;
+}
+aside .unidades img{
+    width: 25px;
+}
+aside .unidades h1{
+    font: 600 1.4em var(--titulos);
+    padding-bottom: 10px;
+    text-align: center;
+}
+aside .unidades p{
+    font: 100 0.9em var(--paragrafos);
+    width: 350px;
+    padding: 5px;
+}
+
+footer{
+    padding: 20px;
+    background-color: #025B18;
+}
+footer p{
+    font: 100 0.9em var(--paragrafos);
+    text-align: center;
+    color: white;
 }

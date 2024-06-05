@@ -13,9 +13,9 @@
             <img src="imagens/logos/logo.png" alt="">
         </div>
         <div id="titulos">
-            <a id="home" href="#"><h1>Home</h1></a>
-            <a onclick="serviços('texto5')" href="#texto5"><h1>Serviços</h1></a>
-            <a onclick="contatos('contatos')" href="#contatos"><h1>Contatos</h1></a>
+            <a href="#"><h1>Home</h1></a>
+            <a href="#texto5"><h1>Serviços</h1></a>
+            <a href="#contatos"><h1>Contatos</h1></a>
         </div>
         <div id="sociais">
             <a href="https://api.whatsapp.com/send?phone=5541998730081&text=Ol%C3%A1!%20%20Gostaria%20de%20informa%C3%A7%C3%B5es.%20%20Pode%20me%20ajudar?" target="_blank"><img src="imagens/logos/whatsapp.png"></a>
@@ -168,29 +168,39 @@
         </div>
         <div class="unidades">
             <div>
-                <h1>Unidade Boa Vista <img src="imagens/link.png"></h1>
+                <h1>Unidade Boa Vista <a href="https://www.google.com/maps/place/Rua+Lodovico+Geronazzo,+1584+-+Boa+Vista,+Curitiba+-+PR,+82560-040/@-25.3833064,-49.2503732,15z/data=!4m6!3m5!1s0x94dce6f3168ea2df:0x4d2ede6ab4492cb2!8m2!3d-25.3831202!4d-49.2503196!16s%2Fg%2F11csflr3zg?entry=tts" target="_blank"><img src="imagens/link.png" alt=""></a></h1>
                 <p>📍Clínica e Emergência 24h</p>
                 <p>Rua Lodovico Geronazzo, 1584 - Curitiba</p>
                 <p>☎ (41)3354-5895</p>
+                <p>📲 WhatsApp (41)99873-0081</p>
             </div>
             <div>
-                <h1>Unidade São Lourenço<img src="imagens/link.png"></h1>
+                <h1>Unidade São Lourenço <a href="https://www.google.com/maps/place/Cl%C3%ADnica+Veterin%C3%A1ria+S%C3%A3o+Louren%C3%A7o/@-25.3835655,-49.2615734,15z/data=!4m6!3m5!1s0x94dce6ea2bca10df:0xc30117808a409c49!8m2!3d-25.3835655!4d-49.2615734!16s%2Fg%2F11c4b7j5yy?entry=tts" target="_blank"><img src="imagens/link.png" alt=""></a></h1>
                 <p>📍Banho e Tosa</p>
                 <p>Av. Anita Garibaldi, 3386 - Curitiba</p>
                 <p>☎ (41)3085-0268</p>
+                <p>📲 WhatsApp (41)99884-0051</p>                    
             </div>
-        </div>
-
-        <div id="ParaoTopo">
-            <a href="#home"><img src="imagens/link.png"</a>
         </div>
     </aside>
 
+    <aside id="ParaoTopo">
+        <div>
+            <a onclick="scrollToTop()"><img src="imagens/setapcima.png" alt=""></a>
+        </div>
+    </aside>
 
     <footer>
         <p>&copy; Laryssa Tortato Gomes da Silva</p>
     </footer>
 
-    <script src="script.js"></script>
+    <script>
+        const scrollToTop = () => {
+        window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+        })
+    }
+    </script>
 </body>
 </html>

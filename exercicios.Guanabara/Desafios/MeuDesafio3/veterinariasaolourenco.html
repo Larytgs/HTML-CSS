@@ -7,15 +7,15 @@
     <link rel="shortcut icon" href="imagens/logos/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body>     
     <header>
         <div id="logo">
             <img src="imagens/logos/logo.png" alt="">
         </div>
         <div id="titulos">
-            <a href="#"><h1>Home</h1></a>
-            <a href="#"><h1>Serviços</h1></a>
-            <a href="#"><h1>Contatos</h1></a>
+            <a id="home" href="#"><h1>Home</h1></a>
+            <a onclick="serviços('texto5')" href="#texto5"><h1>Serviços</h1></a>
+            <a onclick="contatos('contatos')" href="#contatos"><h1>Contatos</h1></a>
         </div>
         <div id="sociais">
             <a href="https://api.whatsapp.com/send?phone=5541998730081&text=Ol%C3%A1!%20%20Gostaria%20de%20informa%C3%A7%C3%B5es.%20%20Pode%20me%20ajudar?" target="_blank"><img src="imagens/logos/whatsapp.png"></a>
@@ -104,7 +104,7 @@
                     <p>As vacinas combatem várias doenças. Seu pet será protegido de várias doenças, incluindo raiva, gripe, cinomose, parvovirus, leucemia, leptospirose e rinotraqueite.</p>
                 </div>
                 <div>
-                    <img src="imagens/castraçao2.png" alt="">
+                    <img src="imagens/castraçao.png" alt="">
                     <h1>Castração</h1>
                     <p>Quando o tutor castra o seu animalzinho ele previne doenças, aumenta o tempo de vida, sem contar a diminuição do número de animais abandonados.</p>
                 </div>
@@ -180,10 +180,17 @@
                 <p>☎ (41)3085-0268</p>
             </div>
         </div>
+
+        <div id="ParaoTopo">
+            <a href="#home"><img src="imagens/link.png"</a>
+        </div>
     </aside>
+
 
     <footer>
         <p>&copy; Laryssa Tortato Gomes da Silva</p>
     </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>

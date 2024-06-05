@@ -28,6 +28,7 @@ header{
 
     display: flex;
     justify-content: space-between;
+
 }
 header #logo img{
     width: 100px; height: 100px;
@@ -303,7 +304,7 @@ aside .unidades{
     text-align: center;
     padding: 20px 50px 10px 50px;
 
-    padding: 2% 40% 2% 20%;
+    padding: 2% 40% 0% 20%;
 }
 aside .unidades img{
     width: 25px;
@@ -317,6 +318,28 @@ aside .unidades p{
     font: 100 0.9em var(--paragrafos);
     width: 350px;
     padding: 5px;
+}
+
+#ParaoTopo img{
+    text-align: right;
+}
+#ParaoTopo {
+    align-items: center;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 50px;
+    height: 50px;
+}
+#ParaoTopo::after {
+    content: "↑";
+    font-size: 32px;
+    font-weight: bold;
+    color: aliceblue;
+    transition: margin-top 250ms;
+}
+#ParaoTopo:hover::after {
+    margin-top:-8px;
 }
 
 footer{

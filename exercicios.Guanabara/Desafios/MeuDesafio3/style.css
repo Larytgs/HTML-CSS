@@ -74,8 +74,6 @@ main #primeiraimagem img{
     width: 100%;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-
-    position: relative;
 }
 
 
@@ -127,8 +125,6 @@ main #texto2{
     margin: 10px;
     background-color: #62C87B;
     border-radius: 10px;
-
-    position: relative;
 }
 main #texto2{
     display: block;
@@ -184,8 +180,6 @@ main #texto4{
     margin: 10px;
     background-color: #62C87B;
     border-radius: 10px;
-
-    position: relative;
 }
 main #texto4 h1{
     font: 600 1.4em var(--titulos);
@@ -242,8 +236,6 @@ main #texto6{
     margin: 10px;
     background-color: #62C87B;
     border-radius: 10px;
-
-    position: relative;
 }
 main #texto6 h1{
     font: 600 1.4em var(--titulos);
@@ -271,7 +263,7 @@ main #carteirinha img{
 
 
 aside{
-    background-color: #62C87B;
+    background-color: #b2f1c2;
     padding-bottom: 30px;  
 
 }

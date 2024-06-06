@@ -14,6 +14,7 @@
         </div>
         <div id="titulos">
             <a href="#"><h1>Sobre nós</h1></a>
+            <a href="#"><h1>Blog dos Pets</h1></a>
             <a href="#texto5"><h1>Serviços</h1></a>
             <a href="#contatos"><h1>Contatos</h1></a>
         </div>
@@ -185,8 +186,8 @@
                 <a style="margin-right: 20px;" href="https://www.facebook.com/ClinicaVeterinariaSaoLourenco" target="_blank"><img style="width: 30px; height: 30px; padding-left: 2px;" src="imagens/logos/facebook.png" alt=""></a>
             </div>
 
-            <div id="ParaoTopo">
-                <a onclick="scrollToTop()"><img src="imagens/setapcima.png" alt=""></a>
+            <div id="scroll-top">
+                <a id="back-to-top" onclick="scrollToTop()"><img src="imagens/setapcima.png" alt=""></a>
             </div>
         </div>
     </aside>
@@ -195,13 +196,27 @@
         <p>&copy; Veterinária São Lourenço</p>
     </footer>
  
-    <script>                           //A EXPLICAÇÃO TA NO RESUMO DE JS
-        const scrollToTop = () => {
+    <script>   //A EXPLICAÇÃO TA NO RESUMO DE JS
+    const scrollToTop = () => {
         window.scrollTo({
         top: 0,
         behavior: 'smooth'
         })
     }
+                  
+    /*const backToTopButton = document.querySelector('.back-to-top')
+
+    const backToTop = () => {
+        if (window.scrollY >= 100) {
+        backToTopButton.classList.add('show')
+        } else {
+        backToTopButton.classList.remove('show')
+        }
+    }
+
+    window.addEventListener('scroll', function () {
+    backToTop()
+    })*/
     </script>
 </body>
 </html>

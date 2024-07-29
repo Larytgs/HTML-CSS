@@ -28,8 +28,7 @@
 # Repositório dos meus Cursos de HTML5 CSS3 e JavaScript
 
 <p id= 'paragrafo'>
-    Olá, me chamo Laryssa (ou Lary😜), tenho 25 anos e sou de Curitiba. Sou graduada em Análises e desenvolvimento de sistemas, estudo programaçao desde 2020, com ênfase em desenvolvimento web.
-    Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente sobre JavaScript, para crescimento profissional e desenvolvimento de minhas habilidades.
+    Olá, me chamo Laryssa, aqui eu mostro alguns dos meus exercicios simples, feitos durante meus cursos e alguns desafios mais avançados.
 </p>
 
 

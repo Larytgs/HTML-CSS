@@ -28,7 +28,7 @@
 # Repositório dos meus Cursos de HTML5 CSS3 e JavaScript
 
 <p id= 'paragrafo'>
-    Olá, me chamo Laryssa, aqui eu mostro alguns dos meus exercicios simples, feitos durante meus cursos e alguns desafios mais avançados.
+    Olá, aqui eu mostro alguns dos meus exercicios simples, feitos durante meus cursos e alguns desafios mais avançados.
 </p>
 
 

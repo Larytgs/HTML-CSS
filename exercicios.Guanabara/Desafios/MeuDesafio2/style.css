@@ -28,6 +28,9 @@ body{
 #gerenciarperfil img{ /*Parte de gerenciar perfil*/ 
     display: none;
 }
+header{
+    margin-top: 90px;
+}
 header div img{ /*Parte inicial*/
     display: none;
 }
@@ -35,7 +38,7 @@ header h2{
     margin: 30px;
     margin-top: 24%;
     padding-bottom: 0px;
-    font: 100 2.8em var(--fonteEle);
+    font: 800 4em var(--fonteEle); /*nao ta funcionanod */
 }
 
 main nav{

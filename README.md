@@ -58,18 +58,18 @@
 * <a href="./exercicios.Guanabara/Ex0015b_Pseudo-classe_no_CSS/pseudoclasse.html" target="_blank">Executar o exercicio - Pseudo-classe</a>
 * <a href="./exercicios.Guanabara/Ex0016_Modelo_de_Caixas/box_e_inline-level.html" target="_blank">Executar o exercicio - box e inline-level</a>
 * <a href="./exercicios.Guanabara/Ex0016_Modelo_de_Caixas/groupTags.html" target="_blank">Executar o exercicio - groupTags</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0017_github/fundo01.html" target="_blank">Executar o exercicio - teste de imagem</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0017_github/fundo02.html" target="_blank">Executar o exercicio - Personalização dos fundos</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0017_github/fundo03.html" target="_blank">Executar o exercicio - Posiçoes dos fundos</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0017_github/fundo04.html" target="_blank">Executar o exercicio - Posicionamento1</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio - Posicionamento2</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0017_github/fundo06.html" target="_blank">Executar o exercicio - Fundo fixo de tela</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0017_github/fundo07.html" target="_blank">Executar o exercicio - Alinhamento vertical</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0018_tabelas/tabela1.html" target="_blank">Executar o exercicio - Tabela Simples</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0018_tabelas/tabela2.html" target="_blank">Executar o exercicio - Tabela Grande</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0018_tabelas/tabela3.html" target="_blank">Executar o exercicio - Tabela com Mesclagem</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0018_tabelas/tabela4.html" target="_blank">Executar o exercicio - Tabela responsivas</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0018_tabelas/desafios.html" target="_blank">Executar o exercicio - Desafio de tabela 1</a>
+* <a href="./exercicios.Guanabara/Ex0017_github/fundo01.html" target="_blank">Executar o exercicio - teste de imagem</a>
+* <a href="./exercicios.Guanabara/Ex0017_github/fundo02.html" target="_blank">Executar o exercicio - Personalização dos fundos</a>
+* <a href="./exercicios.Guanabara/Ex0017_github/fundo03.html" target="_blank">Executar o exercicio - Posiçoes dos fundos</a>
+* <a href="./exercicios.Guanabara/Ex0017_github/fundo04.html" target="_blank">Executar o exercicio - Posicionamento1</a>
+* <a href="./exercicios.Guanabara/Ex0017_github/fundo05.html" target="_blank">Executar o exercicio - Posicionamento2</a>
+* <a href="./exercicios.Guanabara/Ex0017_github/fundo06.html" target="_blank">Executar o exercicio - Fundo fixo de tela</a>
+* <a href="./exercicios.Guanabara/Ex0017_github/fundo07.html" target="_blank">Executar o exercicio - Alinhamento vertical</a>
+* <a href="./exercicios.Guanabara/Ex0018_tabelas/tabela1.html" target="_blank">Executar o exercicio - Tabela Simples</a>
+* <a href="./exercicios.Guanabara/Ex0018_tabelas/tabela2.html" target="_blank">Executar o exercicio - Tabela Grande</a>
+* <a href="./exercicios.Guanabara/Ex0018_tabelas/tabela3.html" target="_blank">Executar o exercicio - Tabela com Mesclagem</a>
+* <a href="./exercicios.Guanabara/Ex0018_tabelas/tabela4.html" target="_blank">Executar o exercicio - Tabela responsivas</a>
+* <a href="./exercicios.Guanabara/Ex0018_tabelas/desafios.html" target="_blank">Executar o exercicio - Desafio de tabela 1</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio14/tabela.html" target="_blank">Executar o exercicio - Desafio de tabela 2</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0019_iframe/iframe01.html" target="_blank">Executar o exercicio - Iframe1</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0019_iframe/iframe02.html" target="_blank">Executar o exercicio - Iframe2</a>

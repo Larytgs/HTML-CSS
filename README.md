@@ -48,16 +48,16 @@
 
 ## **Uns dos meus Exercicios do Curso em Video:**
 
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex008b_citações_E_Códigos/index.html" target="_blank">Executar o exercicio - citações e Códigos</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex009_listas_OL-UL/index.html" target="_blank">Executar o exercicio - listas OL-UL</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio8/index.html" target="_blank">Executar o exercicio - links</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0010_imagens_dinamica_e_audios/index.html" target="_blank">Executar o exercicio - imagens dinamica e audios</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0015_seletor_personalisado/seletor01.html" target="_blank">Executar o exercicio - seletor personalisado</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0015b_Pseudo-classe_no_CSS/hover.html" target="_blank">Executar o exercicio - Pseudo-classe no CSS-hover</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0015b_Pseudo-classe_no_CSS/links.html" target="_blank">Executar o exercicio - Pseudo-classe no CSS-links</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0015b_Pseudo-classe_no_CSS/pseudoclasse.html" target="_blank">Executar o exercicio - Pseudo-classe</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0016_Modelo_de_Caixas/box_e_inline-level.html" target="_blank">Executar o exercicio - box e inline-level</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0016_Modelo_de_Caixas/groupTags.html" target="_blank">Executar o exercicio - groupTags</a>
+* <a href="./exercicios.Guanabara/Ex008b_citações_E_Códigos/index.html" target="_blank">Executar o exercicio - citações e Códigos</a>
+* <a href="./exercicios.Guanabara/Ex009_listas_OL-UL/index.html" target="_blank">Executar o exercicio - listas OL-UL</a>
+* <a href="./exercicios.Guanabara/Desafios/Desafio8/index.html" target="_blank">Executar o exercicio - links</a>
+* <a href="./exercicios.Guanabara/Ex0010_imagens_dinamica_e_audios/index.html" target="_blank">Executar o exercicio - imagens dinamica e audios</a>
+* <a href="./exercicios.Guanabara/Ex0015_seletor_personalisado/seletor01.html" target="_blank">Executar o exercicio - seletor personalisado</a>
+* <a href="./exercicios.Guanabara/Ex0015b_Pseudo-classe_no_CSS/hover.html" target="_blank">Executar o exercicio - Pseudo-classe no CSS-hover</a>
+* <a href="./exercicios.Guanabara/Ex0015b_Pseudo-classe_no_CSS/links.html" target="_blank">Executar o exercicio - Pseudo-classe no CSS-links</a>
+* <a href="./exercicios.Guanabara/Ex0015b_Pseudo-classe_no_CSS/pseudoclasse.html" target="_blank">Executar o exercicio - Pseudo-classe</a>
+* <a href="./exercicios.Guanabara/Ex0016_Modelo_de_Caixas/box_e_inline-level.html" target="_blank">Executar o exercicio - box e inline-level</a>
+* <a href="./exercicios.Guanabara/Ex0016_Modelo_de_Caixas/groupTags.html" target="_blank">Executar o exercicio - groupTags</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0017_github/fundo01.html" target="_blank">Executar o exercicio - teste de imagem</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0017_github/fundo02.html" target="_blank">Executar o exercicio - Personalização dos fundos</a>
 * <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0017_github/fundo03.html" target="_blank">Executar o exercicio - Posiçoes dos fundos</a>

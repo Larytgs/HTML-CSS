@@ -70,18 +70,18 @@
 * <a href="./exercicios.Guanabara/Ex0018_tabelas/tabela3.html" target="_blank">Executar o exercicio - Tabela com Mesclagem</a>
 * <a href="./exercicios.Guanabara/Ex0018_tabelas/tabela4.html" target="_blank">Executar o exercicio - Tabela responsivas</a>
 * <a href="./exercicios.Guanabara/Ex0018_tabelas/desafios.html" target="_blank">Executar o exercicio - Desafio de tabela 1</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Desafios/Desafio14/tabela.html" target="_blank">Executar o exercicio - Desafio de tabela 2</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0019_iframe/iframe01.html" target="_blank">Executar o exercicio - Iframe1</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0019_iframe/iframe02.html" target="_blank">Executar o exercicio - Iframe2</a>
-* <a href="https://larytgs.github.io/HTML-CSS/exercicios.Guanabara/Ex0019_iframe/iframe03.html" target="_blank">Executar o exercicio - Iframe3</a>
-* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario06.html" target="_blank">Executar o exercicio - Formulario 1</a>
-* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario07.html" target="_blank">Executar o exercicio - Formulario 2</a>
-* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario08.html" target="_blank">Executar o exercicio - Formulario 3</a>
-* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0020_formularios/formulario09.html" target="_blank">Executar o exercicio - Formulario 4</a>
-* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq001/index.html" target="_blank">Executar o exercicio - Media_Queries1</a>
-* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq002/index.html" target="_blank">Executar o exercicio - Media_Queries2</a>
-* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq004/index.html" target="_blank">Executar o exercicio - Media_Queries.Guanabara4</a>
-* <a href="https://larytgs.github.io//HTML-CSS/exercicios.Guanabara/Ex0021_Media_Queries/mq005/index.html" target="_blank">Executar o exercicio - Media_Queries5</a>
+* <a href="./exercicios.Guanabara/Desafios/Desafio14/tabela.html" target="_blank">Executar o exercicio - Desafio de tabela 2</a>
+* <a href="./exercicios.Guanabara/Ex0019_iframe/iframe01.html" target="_blank">Executar o exercicio - Iframe1</a>
+* <a href="./exercicios.Guanabara/Ex0019_iframe/iframe02.html" target="_blank">Executar o exercicio - Iframe2</a>
+* <a href="./exercicios.Guanabara/Ex0019_iframe/iframe03.html" target="_blank">Executar o exercicio - Iframe3</a>
+* <a href="./exercicios.Guanabara/Ex0020_formularios/formulario06.html" target="_blank">Executar o exercicio - Formulario 1</a>
+* <a href="./exercicios.Guanabara/Ex0020_formularios/formulario07.html" target="_blank">Executar o exercicio - Formulario 2</a>
+* <a href="./exercicios.Guanabara/Ex0020_formularios/formulario08.html" target="_blank">Executar o exercicio - Formulario 3</a>
+* <a href="./exercicios.Guanabara/Ex0020_formularios/formulario09.html" target="_blank">Executar o exercicio - Formulario 4</a>
+* <a href="./exercicios.Guanabara/Ex0021_Media_Queries/mq001/index.html" target="_blank">Executar o exercicio - Media_Queries1</a>
+* <a href="./exercicios.Guanabara/Ex0021_Media_Queries/mq002/index.html" target="_blank">Executar o exercicio - Media_Queries2</a>
+* <a href="./exercicios.Guanabara/Ex0021_Media_Queries/mq004/index.html" target="_blank">Executar o exercicio - Media_Queries.Guanabara4</a>
+* <a href="./exercicios.Guanabara/Ex0021_Media_Queries/mq005/index.html" target="_blank">Executar o exercicio - Media_Queries5</a>
 
 
 ## **Meu resumo do conteúdo:**
